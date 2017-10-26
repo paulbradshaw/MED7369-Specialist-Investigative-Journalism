@@ -28,17 +28,23 @@ In this first week you will be introduced to exercises to help you identify pote
 
 ### 2: Identifying and planning investigations and features
 
+In this week you begin to narrow your focus to a specific story or 'hypothesis' to begin researching for an in-depth feature or investigation. By the end of the week you should be able to articulate your plan, including potential ingredients and specific contacts, locations and other elements in your story or stories.
+
 * Workshop: planning your investigation or feature
-* Read: Atton & Hamilton (2008) Alternative Journalism
+* Read: [Lee Hunter, Mark (2011) Story-based Inquiry](http://unesdoc.unesco.org/images/0019/001930/193078e.pdf)
 * Directed study: Project research and initial hypothesis
 
 ### 3: Follow the power: public admin, and accountability and measurement in specialist fields
+
+This week looks at how you can use systems of accountability and measurement in your journalism, from the role of public meetings, documents and data, the role of regulators, and legal powers such as FOI. By the end of this week you should be able to describe specific systems in your area of interest that you can use in your reporting.
 
 * Workshop: reporting political stories
 * Read: Heather Brooke (2007) Your Right To Know, 2nd Ed. Pluto Press
 * Directed study: Interview planning and research
 
-### 4: Coding for journalists: Python, scraping and APIs
+### 4: Coding for journalists
+
+This week introduces you to basic coding techniques and applies those to a useful source of information: APIs. By the end of this week you should be able to identify opportunities for using APIs which provide or can complement data in your field, and explan basic coding concepts such as variables, loops, functions and libraries.
 
 * Workshop: Reporting crime, environment or food using APIs
 * Read: Bradshaw, P (2015) [Scraping for Journalists](https://leanpub.com/scrapingforjournalists), Leanpub
@@ -46,11 +52,15 @@ In this first week you will be introduced to exercises to help you identify pote
 
 ### 5: Information problems
 
+This week builds on basic coding techniques and applies those to a useful information gathering technique: scraping. By the end of this week you should be able to identify opportunities for scraping, including APIs which provide or can complement data in your field.
+
 * Workshop: Python, scraping and APIs
 * Read: Shaw, Zed A. (2013) [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 * Directed study: Compiling/analysing data
 
 ### 6: Cleaning and converting information
+
+Information doesn't often come in the perfect format to ask questions. This week you learn some techniques for making it more amenable to analysis - 'cleaning'. By the end of the week you should be able to identify common data problems and use basic techniques for tackling those.
 
 * Workshop: reporting health using Open Refine
 * Read: Verborgh and DeWilde (2013) Using Open Refine, Packt
@@ -58,24 +68,31 @@ In this first week you will be introduced to exercises to help you identify pote
 
 ### 7: Statistics for journalists
 
+Statistical literacy is important in being able to report stories accurately. In this week we focus on some common statistical issues as well as techniques for using statistical methods in your own reporting. By the end of the week you should be able to articulate basic statistical concepts and undertake basic statistical analysis.
+
 * Workshop: reporting education 
 * Read: Huff, Darrell (1954) How to Lie With Statistics, Penguin
 * Directed study: Data analysis/interview planning and research
 
 ### 8: Following the money: accounts
 
+Company accounts are an excellent source of news stories, and a key resource in many investigations and features. This week we explore techniques for getting stories from company accounts, and story ideas that can draw on accounts. By the end of the week you should be able to identify and report stories from company accounts.
+
 * Workshop: reporting sport, technology, fashion and music using accounts
 * Read: Bairoliya, Raj (2012) The Investigative Journalist's Guide to Company Accounts, CIJ
 * Directed study: Accounts research/interview planning and research
 
-### 9: Immersive storytelling: animation and interactions
+### 9: Immersive storytelling
+
+Telling an in-depth story presents particular challenges in terms of selecting, organising and combining elements. This week is devoted to exploring those techniques with regard to your own stories. By the end of the week you should have a broad outline of your story and the elements needed to complete it, and tell it.
 
 * Workshop: story development
+* Read: Atton & Hamilton (2008) Alternative Journalism
 * Directed study: Storyboarding of project narrative(s)
 
 ### 10: Project surgery
 
-In this week we will focus on your projects.
+In this week we will focus on your projects, as you approach the deadline!
 
 * Read: John Pilger Tell Me No Lies (1999) Routledge
 * Directed study: Project research

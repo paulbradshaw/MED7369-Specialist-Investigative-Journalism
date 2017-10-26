@@ -24,42 +24,58 @@ In this first week you will be introduced to exercises to help you identify pote
 * Workshop: Mapping your territory
 * Listen: [IRE Radio Podcast: Regulated by God](https://www.ire.org/blog/ire-radio/2016/06/13/ire-radio-podcast-regulated-god/)
 * Read: Turner, B. and Orange, R. (2013) Specialist Journalism. Routledge
-
+* Directed study: Scoping document, data and human sources
 
 ### 2: Identifying and planning investigations and features
 
 * Workshop: planning your investigation or feature
 * Read: Atton & Hamilton (2008) Alternative Journalism
+* Directed study: Project research and initial hypothesis
 
 ### 3: Follow the power: public admin, and accountability and measurement in specialist fields
 
 * Workshop: reporting political stories
+* Read: Heather Brooke (2007) Your Right To Know, 2nd Ed. Pluto Press
+* Directed study: Interview planning and research
 
 ### 4: Coding for journalists: Python, scraping and APIs
 
 * Workshop: Reporting crime, environment or food using APIs
+* Read: Bradshaw, P (2015) [Scraping for Journalists](https://leanpub.com/scrapingforjournalists), Leanpub
+* Directed study: Gathering data and FOIs
 
 ### 5: Information problems
 
 * Workshop: Python, scraping and APIs
+* Read: Shaw, Zed A. (2013) [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+* Directed study: Compiling/analysing data
 
 ### 6: Cleaning and converting information
 
 * Workshop: reporting health using Open Refine
+* Read: Verborgh and DeWilde (2013) Using Open Refine, Packt
+* Directed study: Compiling/cleaning data
 
 ### 7: Statistics for journalists
 
 * Workshop: reporting education 
 * Read: Huff, Darrell (1954) How to Lie With Statistics, Penguin
+* Directed study: Data analysis/interview planning and research
 
-### 8: following the money: accounts
+### 8: Following the money: accounts
 
 * Workshop: reporting sport, technology, fashion and music using accounts
+* Read: Bairoliya, Raj (2012) The Investigative Journalist's Guide to Company Accounts, CIJ
+* Directed study: Accounts research/interview planning and research
 
 ### 9: Immersive storytelling: animation and interactions
 
 * Workshop: story development
+* Directed study: Storyboarding of project narrative(s)
 
 ### 10: Project surgery
 
 In this week we will focus on your projects.
+
+* Read: John Pilger Tell Me No Lies (1999) Routledge
+* Directed study: Project research

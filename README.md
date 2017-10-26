@@ -1,2 +1,9 @@
-# MED7369-Specialist-Investigative-Journalism
-Module on both the MA Data Journalism and MA Multiplatform and Mobile Journalism at Birmingham City University
+# MED7369 Specialist Journalism, Investigations and Coding
+
+This repo contains material for the module on the [MA in Data Journalism](http://bcu.ac.uk/media/courses/data-journalism) and the [MA in Multiplatform and Mobile Journalism](http://www.bcu.ac.uk/courses/multiplatform-and-mobile-journalism-ma-2018-19) at Birmingham City University.
+
+## Module synopsis
+
+## Outcomes
+
+## Week by week outline

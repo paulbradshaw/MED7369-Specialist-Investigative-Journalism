@@ -21,12 +21,38 @@ You will also be expected to feed your own experiences into each class - and you
 
 * Workshop: Mapping your territory
 
-Lecture: Identifying and planning investigations and features. Workshop: planning your investigation or feature
-Lecture: information problems: Python, scraping and APIs. Workshop: Reporting crime, environment or food using APIs
-Lecture: cleaning and converting information. Workshop: reporting health using Open Refine
-Lecture: Follow the power: public admin, and accountability and measurement in specialist fields. Workshop: presenting politics story using JavaScript
-Lecture: statistics for journalists. Workshop: reporting education using R
-Lecture: following the money: accounts. Workshop: reporting sport, technology, fashion and music using accounts
-Lecture: handling large information: R and SQL. Workshop: Reporting transport using SQL
-Lecture: Immersive storytelling: animation and interactions. Workshop: story development
-Project surgery
+### 2: Identifying and planning investigations and features
+
+* Workshop: planning your investigation or feature
+
+### 3: Follow the power: public admin, and accountability and measurement in specialist fields
+
+* Workshop: presenting politics story using JavaScript
+
+### 4: Coding for journalists: Python, scraping and APIs
+
+* Workshop: Reporting crime, environment or food using APIs
+
+### 5: Information problems
+
+* Workshop: Python, scraping and APIs
+
+### 6: Cleaning and converting information
+
+* Workshop: reporting health using Open Refine
+
+### 7: Statistics for journalists
+
+* Workshop: reporting education 
+
+### 8: following the money: accounts
+
+* Workshop: reporting sport, technology, fashion and music using accounts
+
+### 9: Immersive storytelling: animation and interactions
+
+* Workshop: story development
+
+### 10: Project surgery
+
+In this week we will focus on your projects.

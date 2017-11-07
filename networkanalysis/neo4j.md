@@ -49,7 +49,7 @@ First steps with Neo4j:
 2. In your web browser, you'll see the Neo4j Browser, a client application for
    accessing the database
 3. Since you're running for the first time, you'll need to set a new password
-   - start by entering the default username/password of `neo4j/neo4j
+   - start by entering the default username/password of `neo4j/neo4j`
    - enter a new password
 4. Now you're ready to explore the Panama Papers data
 
@@ -97,4 +97,21 @@ Above the results are buttons that allow you to:
 
 If you have a network graph, you can double-click on any node to expand the connections from that node.
 
+## Notes on the code
 
+The code in neo4j is quite similar to SQL, but it has some particular characteristics which are worth explaining. Here is a simple example:
+
+```sql
+MATCH (o:Officer)
+WHERE o.name CONTAINS 'Smith'
+RETURN o
+LIMIT 100
+```
+
+The `Officer` in that code refers to one of the datasets being queried. But what about `o:`?
+
+Essentially, the `o` is a way of assigning the `Officer` dataset to a variable. Put another way, imagine the code `o:Officer` as saying *"call the Officer data 'o'"*. 
+
+Then in the next line where it says `o.name` you can see it means *"The 'name' field in the Officer data"*
+
+It is now filtering the Officer dataset `WHERE` that field contains 'Smith', and *returning* the records in the Officer dataset that match that criteria.

@@ -1,6 +1,8 @@
 # Notes on using the Panama Papers database with neo4j
 
-# ICIJ Panama Papers Data
+Neo4j is a powerful database analysis tool designed to perform network analysis. It has been used in many of the investigations by the International Consortium of Investigative Journalists (ICIJ) relating to large the various Panama Papers leaks. Below I explain how to use that tool to look at the ICIJ data.
+
+## ICIJ Panama Papers Data
 
 The ICIJ share data from the Panama Papers [on their page here](https://offshoreleaks.icij.org/pages/database). The data can be downloaded in two forms: 
 

@@ -99,7 +99,7 @@ If you have a network graph, you can double-click on any node to expand the conn
 
 ## Notes on the code
 
-The code in neo4j is called **Cypher**: you can [find a reference website here](http://neo4j.com/docs/cypher-refcard/3.0/). It is a "graph query language", which is quite similar to SQL (structured query language), but it has some particular characteristics which are worth explaining. Here is a simple example:
+The code in neo4j is called **Cypher**: you can [find a reference card here](http://neo4j.com/docs/cypher-refcard/3.0/). It is a "graph query language", which is quite similar to SQL (structured query language), but it has some particular characteristics which are worth explaining. Here is a simple example:
 
 ```sql
 MATCH (o:Officer)
@@ -127,7 +127,7 @@ RETURN *
 LIMIT 200
 ```
 
-Here's another example where the *direction* of the relationship is also specified with a `<` symbol attached to the hyphen.
+Here's another example where the *direction* of the relationship is also specified with a `<` symbol attached to the hyphen. Note that if you remove this, it makes no difference to the results.
 
 ```sql
 MATCH (a:Address)<-[:REGISTERED_ADDRESS]-(other)
@@ -136,4 +136,13 @@ RETURN a, other
 LIMIT 100
 ```
 
-You can [see more examples in the documentation](http://neo4j.com/docs/cypher-refcard/3.0/).
+You can [see more examples in the documentation](https://neo4j.com/docs/developer-manual/3.0/cypher/).
+
+## Other useful links
+
+You can also find more about the use of neo4j and network analysis at these links:
+
+* [Joins, Graphs, and Investigative Journalism](http://aramology.com/#project/computational/DBjoins) is particularly useful in introducing basic queries.
+
+* [How the ICIJ Unraveled HSBC Fraud Using Neo4j & Linkurious](https://neo4j.com/blog/icij-hsbc-fraud-neo4j-linkurious/)
+* [Analyzing the Panama Papers with Neo4j: Data Models, Queries & More](https://neo4j.com/blog/analyzing-panama-papers-neo4j/)

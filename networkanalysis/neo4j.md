@@ -4,18 +4,18 @@ Neo4j is a powerful database analysis tool designed to perform network analysis.
 
 ## ICIJ Panama Papers Data
 
-The ICIJ share data from the Panama Papers [on their page here](https://offshoreleaks.icij.org/pages/database). The data can be downloaded in two forms: 
+The ICIJ share data from the Panama Papers [on their page here](https://offshoreleaks.icij.org/pages/database). The data can be downloaded in two forms:
 
 * as a collection of large CSV files
 * as a collection of neo4j databases
 
-It is useful to download both. 
+It is useful to download both.
 
 You are recommended to use BitTorrent. This is very simple to use: firstly download BitTorrent from the link on the page; secondly, download the BitTorrent link to the database. This is just a link, not the database itself. Once downloaded, double-click on it and it will open BitTorrent to download the database itself - just confirm this and wait for it to download.
 
 ## Understanding the data
 
-The CSV files are useful because they allow you to see the structure of the data before you begin using neo4j. These are very large CSV files, so you may find it easier to import them into RStudio if you are comfortable importing CSV files. 
+The CSV files are useful because they allow you to see the structure of the data before you begin using neo4j. These are very large CSV files, so you may find it easier to import them into RStudio if you are comfortable importing CSV files.
 
 
 ## Using the database files - getting neo4j started
@@ -37,7 +37,7 @@ Launch our customized distribution of Neo4j:
 0. Optionally, check that the software hasn't been tampered with, verify the
   SHA  hash of the panama-papers-mac.tgz file against the value posted
   on our website.
-  - for mac, see http://www.cnet.com/news/how-to-quickly-check-a-files-checksum-in-os-x/ 
+  - for mac, see http://www.cnet.com/news/how-to-quickly-check-a-files-checksum-in-os-x/
 1. Right-click on launch_neo4j.command and then "Open With" and then choose Terminal.app
 2. Depending on your system settings, you may get a security warning about
    an "unidentified developer." Click "OK" to proceed.
@@ -88,7 +88,7 @@ When a query is run, look to the left of the results. Normally there will be 3 o
 * **Text**: This also shows a table, but this time it uses pure text characters, like the pipe symbol, to draw it
 * **Code**: This is a description, in code, of the query you have made and the responses that it generated. It’s unlikely you’ll use this.
 
-Above the results are buttons that allow you to: 
+Above the results are buttons that allow you to:
 
 * Download the results of the query (as JSON or CSV if a table; as PNG or SVG too if a network graph)
 * Pin the results to the top (every time you run a new query it would otherwise be pushed down)
@@ -99,7 +99,7 @@ If you have a network graph, you can double-click on any node to expand the conn
 
 ## Notes on the code
 
-The code in neo4j is quite similar to SQL, but it has some particular characteristics which are worth explaining. Here is a simple example:
+The code in neo4j is called **Cypher**: you can [find a reference website here](http://neo4j.com/docs/cypher-refcard/3.0/). It is a "graph query language", which is quite similar to SQL (structured query language), but it has some particular characteristics which are worth explaining. Here is a simple example:
 
 ```sql
 MATCH (o:Officer)
@@ -110,8 +110,30 @@ LIMIT 100
 
 The `Officer` in that code refers to one of the datasets being queried. But what about `o:`?
 
-Essentially, the `o` is a way of assigning the `Officer` dataset to a variable. Put another way, imagine the code `o:Officer` as saying *"call the Officer data 'o'"*. 
+Essentially, the `o` is a way of assigning the `Officer` dataset to a variable. Put another way, imagine the code `o:Officer` as saying *"call the Officer data 'o'"*.
 
 Then in the next line where it says `o.name` you can see it means *"The 'name' field in the Officer data"*
 
 It is now filtering the Officer dataset `WHERE` that field contains 'Smith', and *returning* the records in the Officer dataset that match that criteria.
+
+### Relationships
+
+Relationships (edges) are queried by putting each object in brackets in the same way, but linking them using hyphens: `-[r]-`. In this example the relationship itself is also assigned to the variable `r`. This is arbitrary: replace `r` with `s` and see what happens...
+
+```sql
+MATCH (e:Entity)-[r]-(o:Officer)
+WHERE e.name CONTAINS 'Smith'
+RETURN *
+LIMIT 200
+```
+
+Here's another example where the *direction* of the relationship is also specified with a `<` symbol attached to the hyphen.
+
+```sql
+MATCH (a:Address)<-[:REGISTERED_ADDRESS]-(other)
+WHERE a.address CONTAINS 'Barcelona' AND a.address CONTAINS 'Spain'
+RETURN a, other
+LIMIT 100
+```
+
+You can [see more examples in the documentation](http://neo4j.com/docs/cypher-refcard/3.0/).

@@ -4,12 +4,12 @@ This repo contains material for the module which is studied as part of the [MA i
 
 ## Module synopsis
 
-Within the context of media integration and convergence, *Specialist journalism, investigations and coding* aims to facilitate a flexible and adaptable skillset that provides a basis for students to critically adapt to any chosen field of reporting. It also provides a basis for the successful completion of the master’s route project, and introduces potential avenues of practice-based inquiry for routes into PhD progression beyond. 
+Within the context of media integration and convergence, *Specialist journalism, investigations and coding* aims to facilitate a flexible and adaptable skillset that provides a basis for students to critically adapt to any chosen field of reporting. It also provides a basis for the successful completion of the master’s route project, and introduces potential avenues of practice-based inquiry for routes into PhD progression beyond.
 
 ## Outcomes
 
-1.	Identify, articulate and critically assess information sources, systems, and issues within an identified field of reporting. 
-2.	Research and report stories in a specialist field using contemporary technologies for an identified audience 
+1.	Identify, articulate and critically assess information sources, systems, and issues within an identified field of reporting.
+2.	Research and report stories in a specialist field using contemporary technologies for an identified audience
 
 ## Week by week outline
 
@@ -21,7 +21,7 @@ You will also be expected to feed your own experiences into each class - and you
 
 In this first week you will be introduced to exercises to help you identify potential stories to report when acting in a specialist or investigative role. We will look at the roles of systems in different fields and how those often play a central role as both a subject for the journalist, and a framework for their newsgathering. By the end of the week you should be able to identify a key issue in a chosen field, and articulate some potential avenues of inquiry.
 
-* Workshop: Mapping your territory
+* Workshop: Mapping your territory - and network analysis
 * Listen: [IRE Radio Podcast: Regulated by God](https://www.ire.org/blog/ire-radio/2016/06/13/ire-radio-podcast-regulated-god/)
 * Read: Turner, B. and Orange, R. (2013) Specialist Journalism. Routledge
 * Directed study: Scoping document, data and human sources
@@ -44,7 +44,7 @@ This week looks at how you can use systems of accountability and measurement in 
 
 ### 4: Coding for journalists
 
-This week introduces you to basic coding techniques and applies those to a useful source of information: APIs. By the end of this week you should be able to identify opportunities for using APIs which provide or can complement data in your field, and explan basic coding concepts such as variables, loops, functions and libraries.
+This week introduces you to basic coding techniques and applies those to a useful source of information: APIs. By the end of this week you should be able to identify opportunities for using coding in your field, and explain basic coding concepts such as variables, loops, functions and libraries.
 
 * Workshop: Reporting crime, environment or food using APIs
 * Read: Bradshaw, P (2015) [Scraping for Journalists](https://leanpub.com/scrapingforjournalists), Leanpub
@@ -70,7 +70,7 @@ Information doesn't often come in the perfect format to ask questions. This week
 
 Statistical literacy is important in being able to report stories accurately. In this week we focus on some common statistical issues as well as techniques for using statistical methods in your own reporting. By the end of the week you should be able to articulate basic statistical concepts and undertake basic statistical analysis.
 
-* Workshop: reporting education 
+* Workshop: reporting education
 * Read: Huff, Darrell (1954) How to Lie With Statistics, Penguin
 * Directed study: Data analysis/interview planning and research
 

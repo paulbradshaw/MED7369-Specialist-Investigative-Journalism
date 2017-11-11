@@ -143,6 +143,7 @@ You can [see more examples in the documentation](https://neo4j.com/docs/develope
 You can also find more about the use of neo4j and network analysis at these links:
 
 * [Joins, Graphs, and Investigative Journalism](http://aramology.com/#project/computational/DBjoins) is particularly useful in introducing basic queries.
-
+* [Exploring networks with graph databases](https://leilahaddou.github.io/neo4j-tutorial/) by Leila Haddou
+* [Graph databases](https://docs.google.com/presentation/d/1fR0-s6XQ3SrJuHJdV-6ZgqqdsXUAqXz6FUeSupWiDNw/edit#slide=id.g1f55b63659_0_0) - presentation by Leila Haddou from the CIJ Summer School
 * [How the ICIJ Unraveled HSBC Fraud Using Neo4j & Linkurious](https://neo4j.com/blog/icij-hsbc-fraud-neo4j-linkurious/)
 * [Analyzing the Panama Papers with Neo4j: Data Models, Queries & More](https://neo4j.com/blog/analyzing-panama-papers-neo4j/)

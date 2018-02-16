@@ -64,6 +64,10 @@ Create a simple network using Kumu. Choose the **Stakeholder** option to show a 
 * Export by clicking on the ... (more) option in the bottom right corner. Here you can *Export .xlsx* and also JSON (for use with JavaScript visualisation or R network analysis)
 * You can also publish and embed your network visualisation from the same menu, or capture a screenshot or PDF
 
+## Advanced network analysis: neo4j and the Panama Papers
+
+The Panama Papers investigation used the powerful tool **neo4j** to analyse relationships. If you're interested in that particular dataset, or neo4j more generally, I've written some [notes on using the Panama Papers database with neo4j here](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/networkanalysis/neo4j.md)
+
 ## Links and other resources
 
 You can find [my bookmarks on various things related to network analysis here](https://pinboard.in/u:paulbradshaw/t:networkanalysis). Add extra tags to drill down further, e.g. [https://pinboard.in/u:paulbradshaw/t:networkanalysis+tools](https://pinboard.in/u:paulbradshaw/t:networkanalysis+tools) shows tools that I have bookmarked.

@@ -19,7 +19,7 @@ In other network analysis this structure may be separated across two separate da
 ### What to do
 
 * First you need some data to visualise. You can [find that here](https://raw.githubusercontent.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/master/networkanalysis/StarWarsNetworkWithTimes.csv) - save it to your computer by pressing CTRL+S (CMD+S on a Mac) or selecting *File>Save* in your browser menu.
-* In Google Drive create a new Fusion Table by going to *New > More*. If you already have Fusion Tables installed you can select it here; otherwise select *Connect more apps* and find it in the Google Drive app store. Once connected, it will be added to the 'more' menu for next time. Alternatively, you can access Fsion Tables directly at https://fusiontables.google.com/.
+* In Google Drive create a new Fusion Table by going to *New > More*. If you already have Fusion Tables installed you can select it here; otherwise select *Connect more apps* and find it in the Google Drive app store. Once connected, it will be added to the 'more' menu for next time. Alternatively, you can access Fusion Tables directly at https://fusiontables.google.com/.
 * Upload the data you want to visualise
 * Click on the red plus sign (next to the last tab) and select *Add chart*
 * On the menu that appears, scroll to the bottom and choose the network graph option
@@ -34,25 +34,27 @@ In other network analysis this structure may be separated across two separate da
 
 Once created, data can also be exported, which is a good way of getting used to how network analysis is typically structured. This time the data is split across two separate datasets, which are then combined in analysis. Those datasets are *entities* and *relationships*:
 
-**Dataset A: Entities**
+**Dataset A: Entities/nodes/elements**
 
 This dataset just lists the entities involved in the network. They must include a name field, but there can be as many other fields as possible. For example:
 
-* Name
+* Name/label
 * Type (sometimes used to colour code the node)
 * Image URL (this can be used to illustrate the node)
-* Website
-* Address
+* Description/address/URL etc. (used for labels)
+* Tags (used for filtering or other functionality)
 
-**Dataset B: Relationships**
+**Dataset B: Relationships/connections**
 
 The second dataset details the relationship between those entities. Here is a typical structure:
 
-* Entity 1
-* Entity 2
+* Entity 1/from
+* Entity 2/to
 * Direction of relationship (e.g. from 1->2 or vice versa)
-* Nature of relationship (e.g. parent-child, sibling, director-company, client-company, employer-employee, partner, shareholding etc.)
+* Type of relationship (e.g. parent-child, sibling, director-company, client-company, employer-employee, partner, shareholding etc.)
 * Quantitative dimension (e.g. number of shares, amount of money, period of time, etc.)
+* Description (for labelling)
+* Tags (used for filtering or other functionality)
 
 ### What to do
 
@@ -61,7 +63,8 @@ Create a simple network using Kumu. Choose the **Stakeholder** option to show a 
 * Click on the plus icon at the bottom and select 'Sketch'. This is the easiest way to create nodes and connect them.
 * Click on the canvas to add a node, then name it. Add a few.
 * Click and drag from one node to another to connect them. Add a description of the relationship.
-* Export by clicking on the ... (more) option in the bottom right corner. Here you can *Export .xlsx* and also JSON (for use with JavaScript visualisation or R network analysis)
+* *Making sure you are not on any individual element* (click on the background), export by clicking on the ... (more) option in the bottom right corner. Here you can *Export .xlsx* and also JSON (for use with JavaScript visualisation or R network analysis)
+* Look at the spreadsheet you've just exported. It should have 2 sheets: *Elements* and *Connections*. If you want, you can use this template to create the data for a network diagram first, and then import it into a new *empty* Kumu network diagram (otherwise it will be added to any data already present).
 * You can also publish and embed your network visualisation from the same menu, or capture a screenshot or PDF
 
 ## Advanced network analysis: neo4j and the Panama Papers

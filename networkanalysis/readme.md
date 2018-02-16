@@ -16,6 +16,18 @@ Note the structure of the data: one table with three columns:
 
 In other network analysis this structure may be separated across two separate datasets, as detailed below with Kumu.
 
+### What to do
+
+* First you need some data to visualise. You can [find that here](https://raw.githubusercontent.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/master/networkanalysis/StarWarsNetworkWithTimes.csv) - save it to your computer by pressing CTRL+S (CMD+S on a Mac) or selecting *File>Save* in your browser menu.
+* In Google Drive create a new Fusion Table by going to *New > More*. If you already have Fusion Tables installed you can select it here; otherwise select *Connect more apps* and find it in the Google Drive app store. Once connected, it will be added to the 'more' menu for next time. Alternatively, you can access Fsion Tables directly at https://fusiontables.google.com/.
+* Upload the data you want to visualise
+* Click on the red plus sign (next to the last tab) and select *Add chart*
+* On the menu that appears, scroll to the bottom and choose the network graph option
+* Configure the options to choose which column is 'from' (film) and which is 'to' (name). Form *Weight by* choose the numerical column ('As time'). You can also tick 'color by columns' so you can tell the films from the names.
+* That's it. Once done you can now publish your chart by clicking the drop-down menu on the tab and selecting *Publish*. Change the width and height in the code to make a bigger window.
+
+
+
 ## Exercise: manual network analysis using Kumu
 
 [Kumu.io](https://kumu.io/) is a tool for creating network graphs and similar data visualisation. These can be generated from datasets, or created manually. 
@@ -41,6 +53,8 @@ The second dataset details the relationship between those entities. Here is a ty
 * Direction of relationship (e.g. from 1->2 or vice versa)
 * Nature of relationship (e.g. parent-child, sibling, director-company, client-company, employer-employee, partner, shareholding etc.)
 * Quantitative dimension (e.g. number of shares, amount of money, period of time, etc.)
+
+### What to do
 
 Create a simple network using Kumu. Choose the **Stakeholder** option to show a network. The **Sytem** option can be used to show flows and systems: for example the connections are typically arrows showing movement from one part to another (you can find other flow chart-style options in **Other**). The **SNA** (Social Network Analysis) option is best for large datasets with thousands of connections, and can show clusters, cliques, and outliers. 
 

@@ -67,6 +67,10 @@ Create a simple network using Kumu. Choose the **Stakeholder** option to show a 
 * Look at the spreadsheet you've just exported. It should have 2 sheets: *Elements* and *Connections*. If you want, you can use this template to create the data for a network diagram first, and then import it into a new *empty* Kumu network diagram (otherwise it will be added to any data already present).
 * You can also publish and embed your network visualisation from the same menu, or capture a screenshot or PDF
 
+### Customising a network diagram in Kumu: tutorial
+
+I've [put together a tutorial explaining how to colour code elements in Kumu, and also how to analyse it to identify numbers of connections](https://docs.google.com/document/d/e/2PACX-1vTQVZsPzYX0u-FtCrpWpO7G8nCO35UMoZuQX-T4x7m5P633IV7D28ThsFVg2ptkVvztoaJVcpR8Hd2G/pub)
+
 ## Advanced network analysis: neo4j and the Panama Papers
 
 The Panama Papers investigation used the powerful tool **neo4j** to analyse relationships. If you're interested in that particular dataset, or neo4j more generally, I've written some [notes on using the Panama Papers database with neo4j here](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/networkanalysis/neo4j.md)

@@ -67,13 +67,13 @@ Create a simple network using Kumu. Choose the **Stakeholder** option to show a 
 * Look at the spreadsheet you've just exported. It should have 2 sheets: *Elements* and *Connections*. If you want, you can use this template to create the data for a network diagram first, and then import it into a new *empty* Kumu network diagram (otherwise it will be added to any data already present).
 * You can also publish and embed your network visualisation from the same menu, or capture a screenshot or PDF
 
-Here's [an example of using the System option to explore the system surrounding homelessness](https://kumu.io/paulbradshaw/homelessness) - I've added some colour (see below).
+Here's [an example of using the System option to explore the system surrounding homelessness](https://embed.kumu.io/b923cf0c9d464facfba9651df97c8d45#homelessness) - I've added some colour (see below).
 
 ### Customising a network diagram in Kumu: tutorial
 
 I've [put together a tutorial explaining how to colour code elements in Kumu, and also how to analyse it to identify numbers of connections](https://docs.google.com/document/d/e/2PACX-1vTQVZsPzYX0u-FtCrpWpO7G8nCO35UMoZuQX-T4x7m5P633IV7D28ThsFVg2ptkVvztoaJVcpR8Hd2G/pub)
 
-[This example adds sizing](https://kumu.io/paulbradshaw/homelessness-import) (but doesn't have colour).
+[This example adds sizing](https://embed.kumu.io/9d61cc335f508ac6a929793ceff3669a#import) (but doesn't have colour).
 
 ## Advanced network analysis: neo4j and the Panama Papers
 

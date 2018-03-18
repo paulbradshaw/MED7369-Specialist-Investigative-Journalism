@@ -30,7 +30,7 @@ In this first week you will be introduced to exercises to help you identify pote
 
 In this week you begin to narrow your focus to a specific story or 'hypothesis' to begin researching for an in-depth feature or investigation. By the end of the week you should be able to articulate your plan, including potential ingredients and specific contacts, locations and other elements in your story or stories.
 
-* Workshop: planning your investigation or feature
+* Workshop: planning your investigation or feature - [see network analysis folder](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/networkanalysis)
 * Read: [Lee Hunter, Mark (2011) Story-based Inquiry](http://unesdoc.unesco.org/images/0019/001930/193078e.pdf)
 * Directed study: Project research and initial hypothesis
 
@@ -46,15 +46,15 @@ This week looks at how you can use systems of accountability and measurement in 
 
 This week introduces you to basic coding techniques and applies those to a useful source of information: APIs. By the end of this week you should be able to identify opportunities for using coding in your field, and explain basic coding concepts such as variables, loops, functions and libraries.
 
-* Workshop: Reporting crime, environment or food using APIs
+* Workshop: Reporting crime, environment or food using APIs - [see Python folder](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/python)
 * Read: Bradshaw, P (2015) [Scraping for Journalists](https://leanpub.com/scrapingforjournalists), Leanpub
 * Directed study: Gathering data and FOIs
 
 ### 5: Information problems
 
-This week builds on basic coding techniques and applies those to a useful information gathering technique: scraping. By the end of this week you should be able to identify opportunities for scraping, including APIs which provide or can complement data in your field.
+This week builds on basic coding techniques and applies those to a useful information gathering technique: scraping. By the end of this week you should be able to identify opportunities for scraping, including more APIs which provide or can complement data in your field.
 
-* Workshop: Python, scraping and APIs
+* Workshop: Python, scraping and APIs - [see Python folder](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/python)
 * Read: Shaw, Zed A. (2013) [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 * Directed study: Compiling/analysing data
 

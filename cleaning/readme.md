@@ -60,6 +60,8 @@ The same preview screen allows you to correct other problems in the data...
 
 You will now be taken to your project where you can do further cleaning, or **Export** the data as a CSV or Excel file, among other formats.
 
+For more on this see [How to: clean up spreadsheet headings that run across multiple rows using Open Refine](https://onlinejournalismblog.com/2013/11/13/how-to-clean-up-spreadsheet-headings-that-run-across-multiple-rows-using-open-refine/)
+
 ## Faceting: different data in the same column
 
 The youth offending data has another problem common to data: one column actually has 3 different types of data in it. If you open the spreadsheet separately you should be able to see this more clearly:
@@ -108,3 +110,10 @@ Now you've got used to it, let's try to apply that to our problem. Here's how to
 14. Now you have all the data together and separated appropriately. There's no need to copy down the disposal column - in fact if you wanted to be really tidy you could always remove the rows where there's no disposal data and only the remains of the now unneeded region and category data. But again, it's not necessary so I'm not going to get bogged down in it here.
 
 
+## Examples
+
+* Tony Hirst explains [Data Shaping in Google Refine – Generating New Rows from Multiple Values in a Single Column](https://onlinejournalismblog.com/2012/07/30/data-shaping-in-google-refine-generating-new-rows-from-multiple-values-in-a-single-column/)
+* I've written about [Scraping data with Google Refine](https://onlinejournalismblog.com/2012/01/13/sftw-scraping-data-with-google-refine/)
+* Ion Mates explains how he used some of Refine's more advanced functionality, and regex, in his post on [cleaning a converted PDF](https://onlinejournalismblog.com/2015/04/07/how-to-clean-a-converted-pdf-using-open-refine/)
+* Cristian Giuletti explains [How to: combine multiple rows in a dataset where text is split across them](https://onlinejournalismblog.com/2014/05/30/how-to-combine-multiple-rows-in-a-dataset-where-text-is-split-across-them-open-refine/)
+* More at https://onlinejournalismblog.com/tag/google-refine/page/2/

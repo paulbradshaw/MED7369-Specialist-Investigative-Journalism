@@ -60,6 +60,20 @@ The same preview screen allows you to correct other problems in the data...
 
 You will now be taken to your project where you can do further cleaning, or **Export** the data as a CSV or Excel file, among other formats.
 
-## Faceting
+## Different data in the same column: faceting
 
+The youth offending data has another problem common to data: one column actually has 3 different types of data in it. If you open the spreadsheet separately you should be able to see this more clearly:
 
+* First, we have the *geographical area*, such as 'National', or 'East Midlands', or 'Derby' - this is coloured blue in the spreadsheet, but computers can't see colours.
+* Second, underneath that, is a *category*, such as 'Pre-court' or 'First tier'. This is bold in the spreadsheet, but again computers can't distiguish that.
+* Third, and making up most of the data, is a *specific action*, such as 'Reprimand' or 'Final Warning'.
+
+Really we want a different column for each - this way we could filter based on particular regions or treatments, or categories, and also avoid double-counting (Derby figures are counted again in East Midlands, which is counted again in National ones). 
+
+Open Refine's faceting feature is a very useful way of doing this. It allows you to filter by particular qualities of data, so you can then copy the matching information (just the geographical data, or categories, for example) into new columns. 
+
+Here's how to do it here:
+
+1. Take a look at the data and try to identify what distinguishes each piece of information: what is the difference between the rows that show specific actions, and those which just describe the category or region? Don't just look at the one column - look at the columns next to it. Spend a few minutes thinking about that before continuing...
+2. Struggling? OK, here are some things to think about: Do the cells or their neighbours have numbers or text? Do they start or end with particular types of characters? Are they of significantly different lengths? Do they include specific characters such as semi-colons, punctuation etc? Are neighbouring cells always empty or full? That last one was a big clue...
+3. You already have your data in Open Refine. Now click on the arrow at the top of the column which contains the data *you want to differentiate on*. In this case, that is the column titled 'Age 10-14'. Why? Because this column is *always empty when it's a region or category, and only has numbers when the row is for specific data*.

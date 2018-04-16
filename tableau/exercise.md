@@ -58,9 +58,9 @@ The map should now change to a series of postcode area shapes, coloured based on
 Double-click on the sheet name to change it to 'map: businesses per postcode district'. Note the title of the chart changes to this too.
 
 
-## Creating a point-based map
+### Creating a point-based map or other type of map
 
-TBC
+There are lots of other types of map you can make. You can [find more details on how to create a point-based map on Tableau's website](https://onlinehelp.tableau.com/current/pro/desktop/en-us/maps_howto_pointdistribution.html). This is part of a [list of map-related tutorials](https://onlinehelp.tableau.com/current/pro/desktop/en-us/maps_build.html)
 
 ## Creating a heat map
 

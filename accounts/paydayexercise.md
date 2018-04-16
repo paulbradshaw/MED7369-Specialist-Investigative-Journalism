@@ -14,8 +14,11 @@ The article lists a number of names in the sector whose interest rates it had su
 The list provides a useful opportunity to revisit a story done back in 2013 when the first wave of payday lenders came on the scene: *[Payday loans companies charging up to 7,000% experience huge growth](https://www.thebureauinvestigates.com/stories/2013-09-05/payday-loans-companies-charging-up-to-7-000-experience-huge-growth)*:
 
 > "Controversial payday loans companies, some charging interest rates as high as 7,000%, have experienced phenomenal growth since the start of the recession.
+
 > "New research by the Bureau, which analysed dozens of company accounts and websites, found a rush of companies into the industry. At least 24 new ventures have been launched in the high cost credit sector since 2008, some operating several different trading companies and many offering short-term payday-style loans.
+
 > "But far from feeling squeezed by the increased competition, all but one of the ten largest lenders specifically offering payday loans saw their turnover more than double in just three years – with one lender growing 42 times.
+
 > "Together, the ten biggest payday lending companies had a total turnover of nearly £800m. Just three years ago these companies had a combined turnover of just £313m. And at the start of the recession only one company had turnover of more than £50m, now there are four companies with turnovers substantially over £100m."
 
 The method was simple: look at each set of accounts and compile a spreadsheet based on the numbers. 

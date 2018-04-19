@@ -22,21 +22,57 @@ Company accounts have many parts but broadly speaking there are three parts:
 * **Micro-entity** companies are a subset of small companies, but "can prepare and file a balance sheet with a reduced set of information than that required by a small, medium or large company." ([source](https://www.gov.uk/government/publications/life-of-a-company-annual-requirements/life-of-a-company-part-1-accounts#micro-entity-accounts))
 * **Self-employed** people are not companies. Although they file accounts they do not send them to Companies House. The main reason for setting up a limited company is that it provides a level of protection: if anything goes wrong the company might go into administration instead of the person losing their house or property.
 
-## Where to look: Related party transactions
+## Related party transactions
 
 * At the end of the report
 * Helps identify parent company, etc.
 * Look out for licence payments etc. (tax avoidance? Wealth extraction?)
 * Look out for missing info, e.g. relationships that should have been declared
 
-## Where to look: Ultimate controlling party
+## Ultimate controlling party
 
 Which company ultimately controls this one. May not be the same as owners. Who owns controlling voting shares, or combines to do so.
 
 Look for: conflicts of interest, back-scratching.
 
-## Where to look: Going concern
+## Going concern
 
 Does it expect to be able to operate for the next year (the “foreseeable future”)? Is this dependent upon support from parent company etc.?
 
 **'Emphasis of matter'** indicates some doubt about future and involves assumptions (e.g. that loans will be renewed). Delayed accounts indicate attempts to avoid including these assumptions (get confirmation on loans first)
+
+## Tax
+
+Look for notes to accounts for tax (typically no.9) which will explain *real* tax after things like 'deferred tax' (to be paid in the future) as well as reasons why.
+
+See previous year cash flow for actual payment compared to the previous accounts' estimate.
+
+## Interest repayments
+
+Who is it paid to? Check Related Party Note. Is it another company in the parent group? Based in tax haven? Luxembourg, Netherlands, Ireland, etc. On what terms? Fixed/variable interest? Term?
+
+## Dividends
+
+If dividends are being paid when company is making a loss, or if they are a high proportion of profit that is not a good sign.
+
+## Balance statement jargon
+
+* **Cost of sales** = cost of buying or making stuff
+* **Administrative expenses** = other costs
+* **Depreciation** = losing money on things, e.g. a train company owns trains which lose value over time as potentially saleable assets. Do assets depreciate at same rate as similar businesses?
+* **Assets** = what you own
+  * **Fixed assets** = held for long term use, e.g. buildings, vehicles, factories
+  * **Intangible assets** = invisible, e.g. brands, ‘Goodwill’. Check these don’t contribute too much to net worth
+  * **Current assets** = stock/inventory - could be obsolete, worthless, take too long to sell
+  * Cost of sales / value of stock = **turnover rate** (e.g. stock sold 10 times over this year)
+* **Liabilities** = what you owe
+  * **Current liabilities** are those due within 12 months from the end of the year. Should be less than current assets (inc. cash) - otherwise they can’t pay!
+  * **Long term liabilities** may include long term loans - but if certain conditions are breached (covenants) these can become payable immediately.
+* **Creditors** = people the company owes money to.
+  * **Trade creditors** are suppliers who have provided goods on credit. If there are none, it may be because they no longer trust company to pay. A company may earn interest if they take cash from customers but pay suppliers on credit (e.g. a month later). Supermarkets do this for example.
+  * **Creditors - other** includes money owed to related companies (check Related Party Transactions for details - debt is one way to avoid paying tax in UK while extracting money to other territories), and tax liabilities.
+* **Net worth** = assets minus liabilities
+* **Capital and reserve (Cash)**
+* **From operating activities** = what they normally do
+* **From investing activities** = money spent on expansion, or generated from selling off assets etc
+* **From financing activities** = shares, loans, dividends

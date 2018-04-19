@@ -12,6 +12,9 @@ Company accounts can be a great source of stories, or a useful resource to provi
 * Comparisons (between companies) and trends (over time)
 * Money: tax, rising costs, profits, debt (jobs)
 
+## Key points
+
+A [summary of key points and be found here](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/accounts/keypoints.md)
 
 ## Useful sites
 

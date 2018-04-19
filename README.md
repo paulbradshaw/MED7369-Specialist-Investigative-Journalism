@@ -46,6 +46,7 @@ This week looks at how you can use systems of accountability and measurement in 
 
 This week introduces you to basic coding techniques and applies those to a useful source of information: APIs. By the end of this week you should be able to identify opportunities for using coding in your field, and explain basic coding concepts such as variables, loops, functions and libraries.
 
+* [Folder for this week](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/python)
 * Workshop: Reporting crime, environment or food using APIs - [see Python folder](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/python)
 * Read: Bradshaw, P (2015) [Scraping for Journalists](https://leanpub.com/scrapingforjournalists), Leanpub
 * Directed study: Gathering data and FOIs
@@ -62,6 +63,7 @@ This week builds on basic coding techniques and applies those to a useful inform
 
 Information doesn't often come in the perfect format to ask questions. This week you learn some techniques for making it more amenable to analysis - 'cleaning'. By the end of the week you should be able to identify common data problems and use basic techniques for tackling those.
 
+* [Folder for this week](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/cleaning)
 * Workshop: reporting health using Open Refine
 * Read: Verborgh and DeWilde (2013) Using Open Refine, Packt
 * Directed study: Compiling/cleaning data
@@ -70,6 +72,7 @@ Information doesn't often come in the perfect format to ask questions. This week
 
 Statistical literacy is important in being able to report stories accurately. In this week we focus on some common statistical issues as well as techniques for using statistical methods in your own reporting. By the end of the week you should be able to articulate basic statistical concepts and undertake basic statistical analysis.
 
+* [Folder for this week](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/statistics)
 * Workshop: reporting education
 * Read: Huff, Darrell (1954) How to Lie With Statistics, Penguin
 * Directed study: Data analysis/interview planning and research
@@ -78,6 +81,7 @@ Statistical literacy is important in being able to report stories accurately. In
 
 Company accounts are an excellent source of news stories, and a key resource in many investigations and features. This week we explore techniques for getting stories from company accounts, and story ideas that can draw on accounts. By the end of the week you should be able to identify and report stories from company accounts.
 
+* [Folder for this week](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/accounts)
 * Workshop: reporting sport, technology, fashion and music using accounts
 * Read: Bairoliya, Raj (2012) The Investigative Journalist's Guide to Company Accounts, CIJ
 * Directed study: Accounts research/interview planning and research

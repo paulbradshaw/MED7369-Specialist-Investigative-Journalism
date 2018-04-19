@@ -14,3 +14,7 @@
 * A 'Going concern' statement can indicate trouble for an organisation. [This Guardian story on the London Garden Bridge project](https://www.theguardian.com/politics/2017/jan/11/london-garden-bridge-project-future-doubt-trustees) comes from such a statement [in their annual accounts](https://beta.companieshouse.gov.uk/company/08755461/filing-history)
 * [This story about a care home company blaming problems on Brexit and council cuts](https://www.theguardian.com/business/2017/nov/15/debt-laden-four-seasons-health-care-suffers-275m-loss) also comes from a similar statement - you can find it in the [2016 accounts for Four Seasons Health Care](https://beta.companieshouse.gov.uk/company/FC016792/filing-history)
 * [These accounts on the Charity Commission website](http://apps.charitycommission.gov.uk/Accounts/Ends51/0000213251_AC_20170331_E_C.PDF) for leprosy charity [Lepra](http://beta.charitycommission.gov.uk/charity-details/?regid=213251&subid=0) highlight the effect of Brexit on exchange rates and reduced value of donations.
+
+## Copies of accounts
+
+I've placed [copies of the accounts listed above in a folder in this repo](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/accounts/exampleaccounts)

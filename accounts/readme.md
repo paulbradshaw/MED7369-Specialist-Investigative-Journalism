@@ -36,6 +36,10 @@ As well as documents, some organisations provide accounts in formats that can be
   * [DueDil (£)](https://www.duedil.com/api)
 * The Charity Commission also [has a data download](http://data.charitycommission.gov.uk/) and [an API](http://apps.charitycommission.gov.uk/Showcharity/APIConsole/APIConsoleHome.aspx) while Olly Benson has created his own API [CharityData](https://olib.uk/charity/html/api)
 
+## Examples
+
+You will find [links to examples in this repo](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/accounts/examples.md)
+
 
 ## Exercises and ideas
 
@@ -44,7 +48,9 @@ As well as documents, some organisations provide accounts in formats that can be
 * Look at the declarations of interest for people on a public body. Write an explainer along the lines of **'These are the companies that X have an interest in'**. Check their accounts for **related party transactions**. Use public expenditure data, or data through FOI, to see if any of those companies have a commercial relationship with the organisation. Examples include:
   * [councillors](https://www.birmingham.gov.uk/info/50069/councillors/285/councillors_interests/1),
   * [MPs](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-members-financial-interests/),
-  * [Lords](https://www.parliament.uk/mps-lords-and-offices/standards-and-interests/register-of-lords-interests/), school governors,
+  * [Lords](https://www.parliament.uk/mps-lords-and-offices/standards-and-interests/register-of-lords-interests/),
+  * [Ministers](https://www.gov.uk/government/publications/list-of-ministers-interests)
+  * School governors (search for 'register of interests' and the school name or domain)
   * [members of a clinical commissioning group (CCG)](https://www.birminghamandsolihullccg.nhs.uk/about-us/register-of-interests),
   * [police](http://foi.west-midlands.police.uk/publication-scheme/lists-and-registers/),
   * The [police and crime commissioner](https://www.dorset.pcc.police.uk/information-hub/publication-scheme/lists-and-registers/) or other public bodies or representative). There's some [background to problems when it comes to PCC registers here, which may provide some useful context](http://library.college.police.uk/docs/pcc-register-of-interests-2013-to-14.pdf)

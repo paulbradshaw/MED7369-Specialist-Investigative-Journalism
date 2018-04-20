@@ -35,3 +35,5 @@ And that's what I'd like you to do with the new wave of lenders:
 * Once you've finished with the accounts, go back to the webpage and look at the directors tab - you might find connections with other companies. For example the Director of Oakam is also the director of other lending companies, and CS Capital Partners companies.
 
 After you've done a handful of companies stop to review what you've got so far. What story might you tell?
+
+Consider doing a network diagram to show relationships between different companies and people. [Here's one by Mike Smith](https://kumu.io/mikesjourno/payday-loan#map-ZrX2J1J0/elem-mn6UgZxY)

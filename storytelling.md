@@ -1,4 +1,4 @@
-# Storytelling
+# Immersive features: narrative techniques 
 
 There are many ways to tell a story, and many stories to tell. An 'investigation' can be trying to establish the cause of a problem, or solutions to that problem; it can be revealing previously hidden unethical behaviour, or shining a light on issues which are 'hidden in plain sight'; it can be holding a mirror up to a part of society to reveal its scale; or giving a voice to that part of society as a step towards a more sophisticated understanding of their problems. Here are some approaches and how they can be applied to longer investigative stories and other features.
 

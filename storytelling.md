@@ -1,4 +1,4 @@
-# Immersive features: narrative techniques 
+# Immersive features: narrative techniques
 
 There are many ways to tell a story, and many stories to tell. An 'investigation' can be trying to establish the cause of a problem, or solutions to that problem; it can be revealing previously hidden unethical behaviour, or shining a light on issues which are 'hidden in plain sight'; it can be holding a mirror up to a part of society to reveal its scale; or giving a voice to that part of society as a step towards a more sophisticated understanding of their problems. Here are some approaches and how they can be applied to longer investigative stories and other features.
 
@@ -78,6 +78,19 @@ In this case the reveal doesn't come until 'chapter 2', 'Player trafficking' whi
 
 The reveal: actually this story would be improved with one. It is partly implicit in the project title ('Behind the Big Issue') - he is one of a number of people profiled by the feature. But this could also be done with a standfirst/introduction ("We take a look at...") or a bridging paragraph ("Julian is one of a 5,000 people who sell The Big Issue across the UK...").
 
+### Starting with action
+
+A story moves particularly quickly when it begins with that person performing some sort of *action*. This might be talking (to you, or a colleague or friend); it might be remembering, cooking, or performing some sort of action related to their job.
+
+A good example is [The lawyer who takes the cases no one wants](https://www.theguardian.com/news/2016/apr/14/the-lawyer-who-takes-the-cases-no-one-wants) - he drives:
+
+> Two or three times a month, Tom Giles says goodbye to his wife and three children at their home in Abingdon, and drives north, through Oxfordshire, to Campsfield House immigration detention centre.
+
+Notably, this description of his driving allows the sentence to also establish a *setting* (see below):
+
+> This is Tory heartland — rich fields, manicured villages, 4x4s. Campsfield sits at the end of a long country lane, opposite Oxford airport’s private jets and training planes. On the constituency map it is perched at the end of a Tory promontory: David Cameron’s Witney constituency flows down one side, Boris Johnson’s former fiefdom of Henley down the other.
+
+
 ### Starting in a place
 
 In this technique, although people typically still kick off the story, the setting takes on a significant role.
@@ -112,6 +125,9 @@ Again, we still have a protagonist (the reporter, and the driver is there too) b
 Those first few words do so much work: *The hotel door was the dividing line* introduces both a setting and a problem - dividing line between what?
 
 This approach is also a good example of a *setting as a metaphor*, often used when the story is about social divisions that are mirrored in the settings, or system complexity mirrored in an architecture (you might even read it being described as like an Escher print).
+
+
+
 
 
 ### Starting with a question
@@ -200,3 +216,7 @@ The same techniques are often used in longform features, too. Here are some exam
 > Mr. Love, the Realtor, said that, while much of what’s going on is indicative of a hot market, he thinks it’s tainting his profession.
 >
 > “It’s a dangerous type of business – you are opening yourself up to all kinds of issues and problems,” Mr. Love said. "They are committing a sin in our business in that we put our clients first."
+
+In some cases the ending returns to the people, places and/or cases introduced early on - any story threads that have been left unresolved are now resolved. In [The lawyer who takes the cases no one wants](https://www.theguardian.com/news/2016/apr/14/the-lawyer-who-takes-the-cases-no-one-wants) we return to the person who kicks off the story, and some of his cases:
+
+> Even Teresa Gudanaviciene had been forced to go another round with the Home Office. Having been given exceptional case funding, she and Giles fought the decision to deport her, and won their case in the first-tier tribunal. The Home Office refused to accept this decision and challenged it in the upper tribunal – which decided that there had in fact been no error of law and that she could stay. “I spoke to her yesterday,” said Giles, when he told me about it. What did she say? “She just said, ‘I don’t know what to say. Thank you.’”

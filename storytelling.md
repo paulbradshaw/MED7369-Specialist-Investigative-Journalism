@@ -1,6 +1,6 @@
 # Storytelling
 
-There are many ways to tell a story, and many stories to tell. An 'investigation' can be trying to establish the cause of a problem, or solutions to that problem; it can be revealing previously hidden unethical behaviour, or shining a light on issues which are 'hidden in plain sight'; it can be holding a mirror up to a part of society to reveal its scale; or giving a voice to that part of society.
+There are many ways to tell a story, and many stories to tell. An 'investigation' can be trying to establish the cause of a problem, or solutions to that problem; it can be revealing previously hidden unethical behaviour, or shining a light on issues which are 'hidden in plain sight'; it can be holding a mirror up to a part of society to reveal its scale; or giving a voice to that part of society as a step towards a more sophisticated understanding of their problems. Here are some approaches and how they can be applied to longer investigative stories and other features.
 
 ## 7 (or 9) plots
 
@@ -146,6 +146,20 @@ That concreteness is vital: it establishes that the reporter has gone out and do
 
 It makes an implicit promise: here is the big picture - very soon we'll break that down into more specifics.
 
+### Starting with a revelation
+
+More common in news stories than longer features, this approach tends to lead on a key fact in your investigation, with the phrase 'an investigation has revealed' or 'figures have revealed' or 'documents have revealed'. For example:
+
+[Bankrupts enjoy 'lavish lifestyles'](http://www.bbc.co.uk/news/uk-scotland-42597623)
+
+> Criminals and dishonest debtors are exploiting weaknesses in the bankruptcy system to keep hold of their assets and wealth, a BBC investigation has revealed.
+
+This then establishes a 'hook' for the reader to find out more about this revelation: the story typically then goes on to provide a list of examples, before going deeper into specifics relating to particular individuals or cases.
+
+Notably, this approach focuses more on the revelatory fact than perhaps the deeper complexity surrounding it; the inverted pyramid format that it relies on assumes an impatience on the part of the reader, guaranteeing the most important details will come first and we can abandon reading without worrying that we have missed those. The advantage of this approach - the reader will get the most important information - is also its weakness: readers might be more likely to read superficially.
+
+In contrast, the other approaches detailed above take the reader's patience for granted, sometimes burying more important information lower in the story. The advantage is that this encourages deeper engagement; the disadvantage is that you risk readers turning off because they are frustrated or bored at not getting to the story's key point quickly enough. Negotiating these tensions is part of the editorial art.
+
 ## Middles: Using scenes and chapters
 
 Once you've started your story, to maintain interest it may help to organise subsequent parts into chapters or 'scenes'.
@@ -180,3 +194,9 @@ The same techniques are often used in longform features, too. Here are some exam
 > I looked around his small living room: the messages on the wall reading “If You Believe In Yourself Anything Is Possible” and “Live Every Moment, Laugh Every Day”, the framed pharmacy certificate among all the family photos, the drugs manuals stacked up by the CD rack. That male mingling of personal with professional pride. Tony had a question.
 >
 > “How can Boots call itself a healthcare company when it’s done this to me?”
+
+[The real estate technique fuelling Vancouver's housing market](https://www.theglobeandmail.com/news/investigations/the-real-estate-technique-fuelling-vancouvers-housing-market/article28634868/)
+
+> Mr. Love, the Realtor, said that, while much of what’s going on is indicative of a hot market, he thinks it’s tainting his profession.
+>
+> “It’s a dangerous type of business – you are opening yourself up to all kinds of issues and problems,” Mr. Love said. "They are committing a sin in our business in that we put our clients first."

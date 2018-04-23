@@ -90,9 +90,10 @@ Company accounts are an excellent source of news stories, and a key resource in 
 
 Telling an in-depth story presents particular challenges in terms of selecting, organising and combining elements. This week is devoted to exploring those techniques with regard to your own stories. By the end of the week you should have a broad outline of your story and the elements needed to complete it, and tell it.
 
-* Workshop: [using Shorthand Social to create an immersive story](https://docs.google.com/document/d/e/2PACX-1vT_P89fc3VP5at8w0TgxZ3QrmPwiU6AxgJbKLro-xENKVHSRL3ta4EU2z1NdiCtPAwNa9sVcKK8ER2b/pub); story development
+* Pre-class activity: [using Shorthand Social to create an immersive story](https://docs.google.com/document/d/e/2PACX-1vT_P89fc3VP5at8w0TgxZ3QrmPwiU6AxgJbKLro-xENKVHSRL3ta4EU2z1NdiCtPAwNa9sVcKK8ER2b/pub);
+* Workshop: [story development](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/storytelling.md)
 * Read: Atton & Hamilton (2008) Alternative Journalism
-* Directed study: Storyboarding of project narrative(s)
+* Directed study: Storyboarding/drafting of project narrative(s)
 
 ### 10: Project surgery
 

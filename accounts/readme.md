@@ -24,6 +24,7 @@ A [summary of key points and be found here](https://github.com/paulbradshaw/MED7
 * The [Investigative Dashboard database of business registries](https://investigativedashboard.org/databases/topics/business) (and other databases)
 * [OpenGazettes](http://opengazettes.com/)
 * [Arachnys Compass](https://compass.arachnys.com)
+* [Offshore Leaks](https://offshoreleaks.icij.org/)
 
 ## Accounts in data format
 

@@ -1,5 +1,7 @@
 # Examples of company accounts
 
+*Copies of all of the following can be found in the examples folder.*
+
 * Chesterfield FC: [CFC 2001 Ltd](https://beta.companieshouse.gov.uk/company/04273743/filing-history): example of controversial chairman's statement.
 * [Fifty Shades Ltd](https://beta.companieshouse.gov.uk/company/07934674/filing-history): stories can be told about how much money an author is making, and whether that is increasing or decreasing.
 * [Sainsbury's Annual Report 2017](https://www.about.sainsburys.co.uk/investors/annual-report-2017): example of the detail provided by accounts for a large listed company.
@@ -16,6 +18,7 @@
 * A 'Going concern' statement can indicate trouble for an organisation. [This Guardian story on the London Garden Bridge project](https://www.theguardian.com/politics/2017/jan/11/london-garden-bridge-project-future-doubt-trustees) comes from such a statement [in their annual accounts](https://beta.companieshouse.gov.uk/company/08755461/filing-history)
 * [This story about a care home company blaming problems on Brexit and council cuts](https://www.theguardian.com/business/2017/nov/15/debt-laden-four-seasons-health-care-suffers-275m-loss) also comes from a similar statement - you can find it in the [2016 accounts for Four Seasons Health Care](https://beta.companieshouse.gov.uk/company/FC016792/filing-history)
 * [These accounts on the Charity Commission website](http://apps.charitycommission.gov.uk/Accounts/Ends51/0000213251_AC_20170331_E_C.PDF) for leprosy charity [Lepra](http://beta.charitycommission.gov.uk/charity-details/?regid=213251&subid=0) highlight the effect of Brexit on exchange rates and reduced value of donations.
+* [Carillion's 2016 accounts](http://www.annualreports.co.uk/Company/carillion-plc) provide an example of the problems with **intangible assets**, specifically **goodwill**: as [one comment piece points out](https://www.theguardian.com/commentisfree/2018/apr/23/capita-carillion-outsourcing-local-elections-aditya-chakrabortty): "Carillion repeatedly pulled forward hundreds of millions on profits expected from future work, and paid that cash out to shareholders. Since the huge profits it was booking did not exist, it had to borrow the cash it paid out to shareholders – and the debt was secured against goodwill: its brand name, relations with customers and staff. However hard such things are to value, Carillion reckoned that they were worth a tidy £1.57bn. As MPs discovered to their amazement in January, “goodwill” was Carillion’s single biggest asset."
 
 ## Copies of accounts
 

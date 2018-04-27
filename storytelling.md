@@ -72,6 +72,10 @@ The reveal (par 8, but they're short pars!): *"for Noel, and hundreds like him a
 
 In this case the reveal doesn't come until 'chapter 2', 'Player trafficking' which begins "According to a 2013 study conducted by Paris-based charity Foot Solidaire, about 15,000 young boys travel to Europe and other countries from West Africa each year." This is because the story of the boys' experience is compelling enough to carry the reader without any reference to the wider world, for that length of time. But an alternative approach would break off from their story and return to it later, as a technique to make us read the more factual background to the issue while we wait to find out the fate of the boys and agent.
 
+[FT Investigation: How China bought its way into Cambodia](https://www.ft.com/content/23968248-43a0-11e6-b22f-79eb4891c97d)
+
+> "In Cambodia’s Chinese business community, “Big Brother Fu” is a name to be reckoned with. A former officer in China’s People’s Liberation Army, his thickset build and parade-ground voice reinforce the authority suggested by his nickname. But his physical bearing pales next to the heft of his political connections. Few, if any, foreign investors in this small but strategically important Southeast Asian nation enjoy access as favoured as that of Fu Xianting."
+
 [Franzi Baehrle: Behind the Big Issue (project)](https://behindthebigissue.wordpress.com/)
 
 > Julian must have been selling quite a lot of magazines during the twelve years he’s been working as a vendor in Birmingham, on and off. Even more people passed by, for various reasons: Some don’t have the time to stop or simply don’t want to purchase a magazine in general, others worry about where their money is actually going or were put off by a certain behavior.

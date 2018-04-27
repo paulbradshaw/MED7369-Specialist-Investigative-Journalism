@@ -126,9 +126,19 @@ Those first few words do so much work: *The hotel door was the dividing line* in
 
 This approach is also a good example of a *setting as a metaphor*, often used when the story is about social divisions that are mirrored in the settings, or system complexity mirrored in an architecture (you might even read it being described as like an Escher print).
 
+### Start with a detail
 
+If your story involves a striking or intriguing detail, that might provide a starting point. Here's an example from [The children, the hidden homeless and the women who have suffered domestic violence - these are the stories from inside a Manchester foodbank in 2018](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/children-hidden-homeless-women-who-14577455):
 
+> "A tiny pair of shoes, along with nappies for a newborn, sit on shelves in the storeroom of the Manchester Central foodbank.
+>
+> "The larder is well-organised and well-stocked with all kinds of household provisions.""
 
+This can be used as *metonomy* or *synecdoche* - where part of something represents the whole - or as *metaphor*: for example a complex toy might act as a metaphor for the system you are trying to investigate.
+
+If you start in this way the implicit promise is that at some point the meaning of this detail will be made clear. In the story above, for example, the next line is "It’s testimony not just to the generosity of ordinary Mancunians, but the surge in demand for emergency help." - so the reader's curiosity is quickly satisfied. Leave it too long and you risk the reader becoming frustrated, and/or doubting that you had a point in focusing on that detail.
+
+The cliched version of this is the "child's teddy bear" of war reporting, notoriously [satirised in the newsroom sitcom Drop The Dead Donkey](https://www.youtube.com/watch?v=sLZ1LT0kd-4)
 
 ### Starting with a question
 

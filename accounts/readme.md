@@ -11,6 +11,7 @@ Company accounts can be a great source of stories, or a useful resource to provi
 * Staff cuts and problems
 * Comparisons (between companies) and trends (over time)
 * Money: tax, rising costs, profits, debt (jobs)
+* Accountability/transparency: ["This is what Sutton Coldfield Town Council has spent its money on"](http://birminghameastside.com/2018/04/28/this-is-what-sutton-coldfield-town-council-has-spent-money-on-since-2016/)
 
 ## Key points
 
@@ -49,6 +50,7 @@ You will find [links to examples in this repo](https://github.com/paulbradshaw/M
 
 * [Look at the return of payday loans by compiling data on the main companies' growth](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/accounts/paydayexercise.md)
 * Pick an author or celebrity and write about **how their company's income has changed** over the years (e.g. [Fifty Shades Ltd](https://beta.companieshouse.gov.uk/company/07934674/filing-history))
+* Pick a council and explain what they have spent their money on. [Here is how we did that with Sutton Coldfield Town Council](https://github.com/Birmingham-Eastside/sutton-coldfield-town-council)
 * Look at the declarations of interest for people on a public body. Write an explainer along the lines of **'These are the companies that X have an interest in'** or '**We looked at the companies that X have an interest in. This is what we found'**. Check their accounts for **related party transactions**. Use public expenditure data, or data through FOI, to see if any of those companies have a commercial relationship with the organisation. Examples include:
   * Councillors: [here are the declarations for Birmingham councillors](https://www.birmingham.gov.uk/info/50069/councillors/285/councillors_interests/1) and for [Sutton Town councillors](https://www.suttoncoldfieldtowncouncil.gov.uk/the-council/councillors/),
   * [MPs](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-members-financial-interests/),
@@ -63,3 +65,4 @@ You will find [links to examples in this repo](https://github.com/paulbradshaw/M
 * Pick a sector which has been in the news. Use company accounts to identify **how much the highest paid director received**, and which company paid the most.
 * Pick a charity, or a company which is expected to be performing some sort of public good. Is it doing anything which you wouldn't expect? For example [Camelot UK Lotteries Ltd](https://beta.companieshouse.gov.uk/company/02822203/filing-history) - is it giving less and less to good causes?
 * **Create an explainer mapping the network of companies surrounding one organisation or person**: for example who are all the [companies connected to Arsenal FC](https://embed.kumu.io/3471de53ff336a677855f153a766f46d)? Or [Radiohead](https://www.theguardian.com/music/2016/apr/29/radiohead-corporate-structure-firms)? You'll often find a network of sister companies, parent companies, financing and business interests held by directors. **Use network analysis** to show the connections.
+

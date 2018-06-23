@@ -40,6 +40,7 @@ This week looks at how you can use systems of accountability and measurement in 
 
 * Workshop: reporting political stories
 * Read: Heather Brooke (2007) Your Right To Know, 2nd Ed. Pluto Press
+  * See also: [Hirtle, Peter B. (2000) Archival Authenticity in a Digital Age](https://www.clir.org/pubs/reports/pub92/hirtle/)
 * Directed study: Interview planning and research
 
 ### 4: Coding for journalists

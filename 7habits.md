@@ -106,7 +106,13 @@ Stand on a street corner with a microphone and an audio recorder, and ask people
 
 Most will refuse.
 
-But this is the point: failure is part of journalism. When you try to speak to people, many will refuse to speak to you, and it is helpful to accept this from the start. 
+But this is the point: failure is part of journalism. When you try to speak to people, many will refuse to speak to you, and it is helpful to accept this from the start, and to see it for what it is: *it is not failure; it is part of the job*. Put another way, most of the time our job is not to get a response from everyone, but to *find the people who are willing to speak*.
+
+When it comes to vox pops or finding an expert willing to speak, it may be the fourth or tenth person we speak to. In some cases, however, we don't have that choice, and we need to be more persistent with *one* source.
+
+James B. Stewart explains the value of persistence in his book *Follow The Story*:
+
+> "Our natural tendency is not to be rude and, once rebuffed, to stop trying. But I myself have often found myself talking to reporters I had hoped to avoid, simply to get them to stop calling. Persistence is effective." (Stewart 1998 p98)
 
 ## 4. Empathy
 
@@ -123,3 +129,7 @@ Now that these have been listed, it is important to remember how each works in t
 A good journalist is **curious**, but not *credulous*: their **scepticism** helps prevent this. But scepticism should be distinguished from *cynicism*: a sceptical journalist develops the habit of **persistence** in establishing whether something is true or not. Persistence needs to be tempered by **empathy**: there is a world of difference between the journalist who exploits the vulnerability of sources, and the journalist who understands how best to ethically encourage a source's cooperation.
 
 Equally, the **creative** reporter should not be *indulgent* with respect to that creativity; they need **discipline** to employ that creativity towards a journalistic objective, ensuring that their story is clear, coherent and appropriate to the target audience. But discipline does not mean *rigidity*: a modern journalist needs the **adaptability** to realise when the story they had in mind has changed, or that it needs to be told in a different way.
+
+## Bibliography
+
+Stewart, James B. (1998) Follow The Story

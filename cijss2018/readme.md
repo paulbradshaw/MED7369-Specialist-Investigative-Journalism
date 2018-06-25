@@ -18,6 +18,36 @@ Movement happens through time (events), space (settings) and characters (change 
 
 ## People: finding them, understanding them
 
+People are at the heart of the story, and interviewing them can shape the story in a number of ways:  
+
+* You may need experts, case studies, ‘coal face’ workers, right of reply, and/or the 'opposition' to provide important **context**
+* Sometimes the **reaction** is the story
+* Sometimes the case study is the **lede**
+* If the data is WRONG that can be the story
+
+There are various ways to find sources online. Some useful ones to know about include:
+
+* LinkedIn advanced search
+* Facebook graph searches
+* Twitter, Instagram search by location/date
+* Via Google using the `site:` operator
+* Dataminr and Crowdtangle (organisation account)
+
+
+### Interviews
+
+James B. Stewart's book *Follow The Story* includes a number of tips for getting sources to agree to interviews. They include:
+
+* Listen without judging. Your role is to communicate what the source has said and done - the reader can make up their own mind
+* Explain that you try to be fair and thorough
+* The best position is one of strength: making it clear that you know enough already to write the story regardless of their cooperation
+* Make it clear that they have a write to silence, and whether the source speaks to you or not that will not influence the final article
+* That said, they should understand that the earlier a source cooperates, the more that shapes the story's *scope* (because it influences who else you may speak to, and how much information you can use)
+* If you have been subject to articles yourself explain that you know what it's like
+* Sources should be able to look at your work and judge you on that
+* Ask "Is there anything you want to ask me?" If they ask what the story is going to be like, explain (honestly) that you don't yet know.
+* Be yourself: find your own technique and approach rather than mimicking someone else's
+
 ## Putting the pieces together: narrative techniques
 
 James B. Stewart's book *Follow The Story* identifies the following key elements of a story:

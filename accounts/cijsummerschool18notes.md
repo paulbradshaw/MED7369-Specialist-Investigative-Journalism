@@ -63,3 +63,7 @@ Leads to:
 Example: [letter from Satyam Chairman admitting inflated balance, non-declared borrowing, can be seen here](https://www.slideshare.net/guest69d931/satyam-the-letter-that-ramalinga-raju-wrote-reveals-shocking-details-presentation). More background [in this presentation](https://www.slideshare.net/ulhasw/satyam-fiasco-presentation-934980)
 
 You can't report/spot the problem from the outside but you can be **sceptical**, and if things don't seem right that can spark questions ("Why is this being run differently? Why are they doing that?") and interviews in the sector - rival companies, etc.
+
+## More notes
+
+[You can find notes from this session and 3 others in this shared Google Doc](https://docs.google.com/document/d/e/2PACX-1vTNdJEyqqYnue6oL49ZeCjx5-KnPCbosfUJIPFyLy_910CV8Mlk0cx1aKJ2MUn13d08Hl3Zythmnpec/pub)

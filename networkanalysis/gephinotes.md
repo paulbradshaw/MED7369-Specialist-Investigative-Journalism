@@ -93,7 +93,3 @@ Once happy, in the *Preview settings* window click on **Export SVG/PDF/PNG** and
 - http://snap.stanford.edu/data/
 - http://cdg.columbia.edu/cdg/datasets
 - https://github.com/iKhaled/MCFCAnalytics
-
-
-
-"Too few games (too small sample size) and luck is too pervasive to play Moneyball in football"

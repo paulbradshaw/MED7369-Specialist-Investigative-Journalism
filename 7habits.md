@@ -100,23 +100,98 @@ Scepticism allows us to make these decisions, but on its own it is not enough fo
 
 One of the earliest skills that broadcast journalists learn is how to conduct a *vox pop*. Short for *vox populi* (voice of the people) the vox pop is an attempt to 'take the pulse' of the public on a topical issue: the journalist will take up a position in a busy public place and ask passers-by to share their pearls of wisdom on the issue of the day.
 
-The results will be used at the end of a news package (not, it should be pointed out, on its own), particularly when the news story in question doesn't have many other interviews or visuals to draw on. Most are quickly forgotten (the exception, perhaps the best known example of the form, is [Brenda from Bristol's reaction to the announcement of the 2017 snap general election](https://www.youtube.com/watch?v=H6-IQAdFU3w): "You're joking - not ANOTHER ONE!")
+The results will typically be used at the end of a news package (not, it should be pointed out, on their own), particularly when the news story in question doesn't have many other interviews or visuals to draw on. Most are quickly forgotten (the exception, perhaps the best known example of the form, is [Brenda from Bristol's reaction to the announcement of the 2017 snap general election](https://www.youtube.com/watch?v=H6-IQAdFU3w): "You're joking - not ANOTHER ONE!")
 
-Stand on a street corner with a microphone and an audio recorder, and ask people if they are prepared to be interviewed about a topical issue.
+Try it yourself: stand on a street corner with a microphone and an audio recorder, and ask people if they are prepared to be interviewed about a topical issue.
 
 Most will refuse.
 
-But this is the point: failure is part of journalism. When you try to speak to people, many will refuse to speak to you, and it is helpful to accept this from the start, and to see it for what it is: *it is not failure; it is part of the job*. Put another way, most of the time our job is not to get a response from everyone, but to *find the people who are willing to speak*.
+And this is the point. Failure is part of journalism. When you try to speak to people, many will refuse to speak to you, or ignore you entirely, and it is helpful to accept this from the start, and to see it for what it is: *it is not failure; it is part of the job*. Put another way, most of the time our job is not to get a response from everyone, but to *find the people who are willing to speak*.
 
-When it comes to vox pops or finding an expert willing to speak, it may be the fourth or tenth person we speak to. In some cases, however, we don't have that choice, and we need to be more persistent with *one* source.
+I start with vox pops because we seem to find it easier to accept failure when trying to grab passers-by than we do when cold-calling or approaching potential interviewees - but the principle is the same. And once you have developed a bit of a hard skin from doing vox pops, you may find it easier to be rejected or ignored when chasing more specific sources.
 
-James B. Stewart explains the value of persistence in his book *Follow The Story*:
+### What comes after failure
+
+The difference, of course, is that when we're chasing interviewees failure is harder to deal with: we can't just pick *anyone* off the street: we need *that* organisation to respond to accusations being levelled at it; or *someone* who has experienced this issue to share their personal experience; or a real *expert* to help readers (and us) to understand the 'why' or 'how' something is happening.
+
+Failure is also harder to recognise. Yes, we might be told 'no' outright, but our calls and emails might more often be simply ignored, or the person may promise to respond, but continually delay doing so. In these cases we also need the wisdom to recognise that we are failing, and to deal with that.
+
+When it comes to finding a source willing to speak, we have two ways of dealing with failure:
+
+* Find an alternative *source*, or:
+* Find an alternative *approach*
+
+Finding alternative sources can include some creative lateral thinking (creativity being one of the other habits, explored below): how can you find other experts? Case studies? Other people whose response is relevant?
+
+A Reuters guide to [*Covering Trump the Reuters Way*](https://www.reuters.com/article/rpb-adlertrump/covering-trump-the-reuters-way-idUSKBN15F276) makes this advice explicit, in the context of an uncooperative White House:
+
+> "If one door to information closes, open another one. Give up on hand-outs and worry less about official access. They were never all that valuable anyway. Our coverage of Iran has been outstanding, and we have virtually no official access. What we have are sources. Get out into the country and learn more about how people live, what they think, what helps and hurts them, and how the government and its actions appear to them, not to us."
+
+In some cases, however, we don't have that choice, and we need to be more persistent with *one* source. This means being prepared to be a little bit annoying - remember it's not our job to be everyone's friend, and most sources will understand (and even respect) that it is our job not to give up easily when a response is important.
+
+James B. Stewart explains this in his book *Follow The Story*:
 
 > "Our natural tendency is not to be rude and, once rebuffed, to stop trying. But I myself have often found myself talking to reporters I had hoped to avoid, simply to get them to stop calling. Persistence is effective." (Stewart 1998 p98)
 
+It is, of course, not always appropriate or ethical to be persistent. This is where alternative approaches involving **empathy** (see below) can be useful.
+
+### Persistence in reporting
+
+Beyond persistence with sources, persistence can also be a virtue in reporting on a particular story - or, more broadly, the issue that a series of stories touches on.
+
+In 2016, for example, BuzzFeed [reported](https://www.buzzfeednews.com/article/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo#.hcRNEk6Ox) on a cottage industry of over 100 pro-Trump fake news websites "being run from a single town in the former Yugoslav Republic of Macedonia." Craig Silverman and Lawrence Alexander wrote in the report:
+
+> "The young Macedonians who run these sites say they don't care about Donald Trump. They are responding to straightforward economic incentives: As Facebook regularly reveals in earnings reports, a US Facebook user is worth about four times a user outside the US. The fraction-of-a-penny-per-click of US display advertising — a declining market for American publishers — goes a long way in Veles. Several teens and young men who run these sites told BuzzFeed News that they learned the best way to generate traffic is to get their politics stories to spread on Facebook — and the best way to generate shares on Facebook is to publish sensationalist and often false content that caters to Trump supporters."
+
+And that, it seemed, was that. A great story - important, surprising, and revealing. A job well done. Now, what's next?
+
+But the reporters weren't done. Two years later, they [returned to the story](https://www.buzzfeednews.com/article/craigsilverman/american-conservatives-fake-news-macedonia-paris-wade-libert) (with new partners) to reveal there was more to it than first appeared:
+
+> "[A]fter reviewing social media posts, government records, domain registry information, and archived versions of fake news sites, as well as interviewing key players, BuzzFeed News, the Organized Crime and Corruption Reporting Project, and the Investigative Reporting Lab Macedonia can now reveal that Veles’ political news industry was not started spontaneously by apolitical teens.
+
+> "Rather, it was launched by a well-known Macedonian media attorney, Trajche Arsov — who worked closely with two high-profile American partners for at least six months during a period that overlapped with Election Day."
+
+Here is another example of persistence in practice: the Bureau of Investigative Journalism’s [Drone Warfare project](https://www.thebureauinvestigates.com/projects/drone-war) has been tracking US drone strikes for over 5 years. Its core [methodology](https://www.thebureauinvestigates.com/explainers/our-methodology), as [I wrote previously](), is persistence:
+
+> "Bureau reporters monitor news reports, press releases and documents and over time have turned those 'free text' reports into a structured dataset that can be analysed, searched, and queried. That data — complemented by interviews with sources — has been used by NGOs and the Bureau has submitted written evidence to the UK’s Defence Committee."
+
+It was persistence that came to mind for Private Eye's Ian Hislop, when asked to define investigative journalism by a UK inquiry panel looking into the future of investigative journalism. He [replied](http://www.opendemocracy.net/ourkingdom/anthony-barnett/official-lying-in-uk-what-child-detention-reveals-about-how-we-are-govern) that it was "in part ... saying the same true thing again and again and again and again until the penny drops. It is not just that Private Eye runs a story, its influence comes from repeating it over and over again."
+
+Like all of these qualities, persistence is something that can be learned. [This Freakonomics podcast](https://overcast.fm/+Nu9VaHJeM/12:02) sees the psychologist **Angela Duckworth** explain how.
+
 ## 4. Empathy
 
+Empathy is the ability to imagine *what it is like to be in someone else's shoes*. It is perhaps one of the more underrated qualities of good journalists, perhaps because people often confuse it with *sympathy*.
+
+The difference between the two is important: it is possible to think about what it is like to be a particular person (empathy), including criminals and corrupt officials, without feeling sorry for them (sympathy).
+
+For example, an official may have given contracts to people she knew because she was worried about losing their friendship, or it was easier than going through a longer external process, or because she feared for her job and was hoping it might help her get employment if she lost it. These are all motivations we can understand, but we can still see that the resulting actions are immoral and unjustified.
+
+Why do we need empathy as a journalist? Firstly, it helps us dig deeper into a story. Identifying the motivations involved in an event - part of the 'why' of a story - can help us better report it. If there is a systemic problem it helps identify what human dynamics that system needs to account for. If there is a human impact it helps us to explore and report that.
+
+In other words, empathy is one aspect of **scepticism**: without empathy it can be easy for the journalist to revert to stereotype. The 'welfare cheat' and the 'corrupt politician', the 'illegal immigrant' and the 'fatcat boss', the 'apathetic youth' and the 'racist pensioner', the 'criminal' and the 'victim' are all cliches that we can push beyond with just a little empathy-based scepticism.
+
+Secondly, empathy can help us identify the best ways to approach sources, and to deal with them afterwards. Sources are likely to harbour at least some suspicion about your motives in approaching them - based, no doubt, on another cliche: the morality-free reporter who will twist what you say to fit a story that's already written in his mind. So how do we address that suspicion?
+
+Empathy helps us to identify what those suspicions might be: the 'victim' is likely to have very different feelings about speaking to a journalist as the 'criminal'; academic experts may be operating in a different environment to police officers. Here is an example of empathising with each:
+
+* A 'victim' might be worried about repercussions from the person or organisation he or she is a victim of, or concerned about increased media attention and the impact on his or her family
+* A 'criminal' might be worried about being judged, or fear repercussions from others involved
+* An academic expert might be too busy hitting a conference deadline or buried in end-of-term marking, or might receive dozens of enquiries every week, and does not see journalistic approaches as a priority. Or they might think journalists typically have only a superficial understanding of the issue and will make mistakes when trying to report it
+* A police officer might have to refer all press enquiries to the press office, or have concerns about legal issues such as contempt
+
+Many of these obstacles can be addressed by demonstrating in our approach that it is based on **curiosity**, not a prejudiced opinion. That we are seeking to **understand** what actually happened, and why.
+
+Empathy might involve understanding that many people are not aware of the distinction between opinion (where judgement is often passed) and news reporting (where it is not) - and that we might need to explain that. We might equally need to explain that it is not our role to act as their advocate. We might explain our duty to provide a right of reply, or to give a voice to the voiceless, or to ask the 'why' questions relating to newsworthy events.
+
+Other obstacles might be addressed by demonstrating our legal or field-specific knowledge, or our commitment to reporting on a particular field. We might point to previous work, or mutual contacts who have dealt with us in the past and can vouch for our integrity.
+
+Finally, empathy can help us in finding individuals and information in the first place. If I was a twin and I was writing about my experiences online, what phrase would I use that non-twins would not? Answer: "My twin". If someone wants to hide information when might they do that? After they've been approached? So I might use a service which alerts me to changes on specific webpages, or differences between pages saved before and then downloaded again after the approach. If I was really in a particular place at a particular time what should I be able to describe that wasn't in reports? Perhaps the weather (which you can then research ahead of any meeting, ready to use as part of some verification processes).
+
+
 ## 5. Creativity
+
+
 
 ## 6. Discipline
 

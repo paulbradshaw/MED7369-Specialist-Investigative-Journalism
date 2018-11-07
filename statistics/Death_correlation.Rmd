@@ -1,0 +1,83 @@
+---
+title: "Death correlations"
+output: html_notebook
+---
+# Importing
+
+```{r}
+england <- read_excel("Avoidable death rates for sharing.xlsx", sheet = 1)
+wales <- read_excel("Avoidable death rates for sharing.xlsx", sheet = 2)
+Scotland <- read_excel("Avoidable death rates for sharing.xlsx", sheet = 3)
+Scotland <- Scotland[1:7]
+NI  <- read_excel("Avoidable death rates for sharing.xlsx", sheet = 4)
+```
+
+# England
+
+```{r}
+england_avoidable <- england %>% filter(`Mortality
+` == "Avoidable")
+colnames(england_avoidable)[11]<-"Deprivation"
+```
+
+
+```{r}
+colnames(england_avoidable)
+unique(england_avoidable$Sex)
+unique(england_avoidable$`Mortality\n`)
+```
+
+
+```{r}
+england_person_avoidable <- england_avoidable %>% filter(Sex == "Persons")
+england_men_avoidable <- england_avoidable %>% filter(Sex == "Males")
+england_women_avoidable <- england_avoidable %>% filter(Sex == "Females")
+```
+
+
+```{r}
+cor.test(england_person_avoidable$Deprivation, england_person_avoidable$`AS Rate`)
+cor.test(england_men_avoidable$Deprivation, england_men_avoidable$`AS Rate`)
+cor.test(england_women_avoidable$Deprivation, england_women_avoidable$`AS Rate`)
+```
+
+```{r}
+#Regression
+plot(england_person_avoidable$Deprivation, england_person_avoidable$`AS Rate`, main = "Avoidable deaths & deprivation - England", xlab = "Rank of proportion of LSOAs in most deprived 10% nationally", ylab = "Ratio Avoidable deaths")
+abline(lm(england_person_avoidable$`AS Rate` ~ england_person_avoidable$Deprivation), col = "blue")
+```
+```{r}
+summary(lm(england_person_avoidable$`AS Rate` ~ england_person_avoidable$Deprivation))
+```
+
+
+# Scotland
+
+```{r}
+Scotland <- Scotland[-c(33,34),]
+cor(Scotland$`Rank of deprivation`, Scotland$`Rate per 100,000 population 2016`)
+```
+
+```{r}
+cor.test(Scotland$`Rank of deprivation`, Scotland$`Rate per 100,000 population 2016`)
+```
+
+```{r}
+#Regression
+plot(Scotland$`Rank of deprivation`, Scotland$`Rate per 100,000 population 2016`, main = "Avoidable deaths & deprivation - Scotland", xlab = "Rank deprivation", ylab = "Ratio Avoidable deaths")
+abline(lm(Scotland$`Rate per 100,000 population 2016` ~ Scotland$`Rank of deprivation`), col = "blue")
+```
+```{r}
+summary(lm(Scotland$`Rate per 100,000 population 2016` ~ Scotland$`Rank of deprivation`))
+```
+
+# Finding best regression model
+
+```{r}
+summary(lm(log(Scotland$`Rate per 100,000 population 2016`) ~ Scotland$`Rank of deprivation`))
+```
+```{r}
+plot(Scotland$`Rank of deprivation`, Scotland$`Rate per 100,000 population 2016`)
+lines(timevalues, Counts.exponential2,lwd=2, col = "red")
+```
+

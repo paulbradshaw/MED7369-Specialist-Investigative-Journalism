@@ -17,13 +17,19 @@ This module begins with formal classes and becomes more student-driven as it pro
 
 You will also be expected to feed your own experiences into each class - and your own problems and questions - rather than coming to the sessions with nothing to contribute or build on. As independent learners the emphasis is on you to drive your learning forward through conversation rather than accept it passively.
 
-### 1: Mapping the territory: specialist sources and systems
+### 1: Introductions
 
-In this first week you will be introduced to exercises to help you identify potential stories to report when acting in a specialist or investigative role. We will look at the roles of systems in different fields and how those often play a central role as both a subject for the journalist, and a framework for their newsgathering. By the end of the week you should be able to identify a key issue in a chosen field, and articulate some potential avenues of inquiry.
+In this week you will be introduced to current affairs reporting and encouraged to consider the ingredients that journalists need to collect to tell longer stories effectively.
 
-* Workshop: Mapping your territory - and network analysis
 * Listen: [IRE Radio Podcast: Regulated by God](https://www.ire.org/blog/ire-radio/2016/06/13/ire-radio-podcast-regulated-god/)
 * Read: Turner, B. and Orange, R. (2013) Specialist Journalism. Routledge
+* Directed study: Watch, listen to and read examples of in-depth reporting, preparing to report your findings to the class.
+
+### 2: Mapping the territory: specialist sources and systems
+
+In this week you will be introduced to exercises to help you identify potential stories to report when acting in a specialist or investigative role. We will look at the roles of systems in different fields and how those often play a central role as both a subject for the journalist, and a framework for their newsgathering. By the end of the week you should be able to identify a key issue in a chosen field, and articulate some potential avenues of inquiry.
+
+* Workshop: Mapping your territory - and network analysis
 * Directed study: Scoping document, data and human sources
 
 ### 2: Identifying and planning investigations and features

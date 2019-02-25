@@ -180,13 +180,13 @@ A window should appear on the screen showing the HTML code surrounding that elem
 </li>
 ```
 
-If you look at the HTML tags around this information (tags are coloured purple) you should see a few options:
+If you look at the HTML tags around this information (tags are coloured differently) you should see a few options:
 
 * You can target the `<a ...>` tags that the text is in
 * You can target the `<p>` tags
 * You can target the `<li>` tags
 * You could target a combination of those tags
-* You could target the `<a ...>` tags with a particular `title=` attribute (attributes are coloured orange, and the values blue)
+* You could target the `<a ...>` tags with a particular `title=` attribute.
 
 **Trial and error** is a very important method in identifying the best approach, but you can also make a guess as to which approach might be most effective. For example:
 
@@ -341,6 +341,8 @@ for li in matchedlinks:
 Once you've written this code once, you can re-use it again, adapting it slightly (or more) for each situation.
 
 ## Troubleshooting a bug
+
+
 
 ### Notes: creating a variable
 

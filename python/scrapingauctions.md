@@ -314,6 +314,7 @@ for li in matchedlinks:
   listtext = li.text_content()
   #print that
   print(listtext)
+  #store it in the 'record' dictionary under the key 'address'
   record['address'] = listtext
 ```
 
@@ -334,14 +335,155 @@ for li in matchedlinks:
   listtext = li.text_content()
   #print that
   print(listtext)
+  #store it in the 'record' dictionary under the key 'address'
   record['address'] = listtext
+  #save the record to the datastore with 'address' as the unique key
   scraperwiki.sqlite.save(['address'],record)
 ```
 
-Once you've written this code once, you can re-use it again, adapting it slightly (or more) for each situation.
+*Note: Once you've written this code once, you can re-use it again, adapting it slightly (or more) for each situation.*
+
+For this particular page, when you run the code it should go fine - until it hits a problem. You should see an error like this:
+
+```
+Traceback (most recent call last):
+  File "scraper.py", line 30, in <module>
+    print(li.text_content())
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u2019' in position 31: ordinal not in range(128)
+```
+
+Let's talk about how to solve a problem like this.
 
 ## Troubleshooting a bug
 
+An error message like this contains particular clues to help you solve the problem. In particular look for:
+
+* The line number causing the problem
+* The type of error
+
+In this case, the error is caused by line 30 (it may be a different number in yours) which has the code `print(li.text_content())`
+
+So that's the line we need to fix.
+
+The type of error is `UnicodeEncodeError: 'ascii' codec can't encode character u'\u2019' in position 31: ordinal not in range(128)`
+
+This is quite a common error in scraping, and we can fix it. But first, copy the text of that error and [google it](https://www.google.com/search?q=UnicodeEncodeError%3A+%27ascii%27+codec+can%27t+encode+character+u%27%5Cu2019%27+in+position+31%3A+ordinal+not+in+range(128)
+
+The top (or near to top) result should be [this post on Stackoverflow](https://stackoverflow.com/questions/9942594/unicodeencodeerror-ascii-codec-cant-encode-character-u-xa0-in-position-20)
+
+Not a lot of this might make sense to you, and you will find lots of different solutions and discussions about them. In a bug-solving situation you might read around this problem and try to start to understand it.
+
+If that doesn't work, then *speak to someone*. That someone might be me, or it might be a mailing list like NICAR-L.
+
+OK, it will probably be me.
+
+Here you go: the problem is that it has hit a character that it can't encode properly, like a copyright symbol or a weird apostrophe. The solution is to add this bit of code to help it to encode:
+
+`.encode('utf-8')`
+
+Specifically, that code needs to be attached to the end of the problematic variable, like so:
+
+`print(li.text_content().encode('utf-8'))`
+
+How do we know to put it there? Trial and error, partly, but also some logic: `li` on its own is an indecipherable lxml object. `li.text_content()` is that object converted into text. `li.text_content().encode('utf-8')` is that object converted into text, and then encoded as utf-8 text.
+
+With this added, test the code again to see if it works OK.
+
+```py
+#create a dictionary called record
+record = {}
+#Loop through the items in matchedlinks, calling each one li
+for li in matchedlinks:
+  #Store the text contents of li in a new variable listtext
+  listtext = li.text_content()
+  #print that
+  print(listtext.encode('utf-8'))
+  #store it in the 'record' dictionary under the key 'address'
+  record['address'] = listtext
+  #save the record to the datastore with 'address' as the unique key
+  scraperwiki.sqlite.save(['address'],record)
+```
+
+You may need to use it anywhere else that this is used, too. For example:
+
+`listtext = li.text_content().encode('utf-8')`
+
+However, it only seems to be the `print` command where it causes problems.
+
+
+## Expanding the code
+
+Most of the work from here is going to be inside that loop. For example, you could also grab the link URL by grabbing the href attribute of each link. That would look like this: `li.attrib['href']` - see it saved in a variable in the code below:
+
+```py
+#create a dictionary called record
+record = {}
+#Loop through the items in matchedlinks, calling each one li
+for li in matchedlinks:
+  #Store the text contents of li in a new variable listtext
+  listtext = li.text_content()
+  #print that
+  print(listtext.encode('utf-8'))
+  #store it in the 'record' dictionary under the key 'address'
+  record['address'] = listtext
+  #store the link in the data
+  record['link'] = li.attrib['href']
+  #save the record to the datastore with 'address' as the unique key
+  scraperwiki.sqlite.save(['address'],record)
+```
+
+You could also add a counter by setting it to 0 outside the loop and then adding 1 each time it runs, like so:
+
+```py
+#create a dictionary called record
+record = {}
+#Set a counter at 0
+counter = 0
+#Loop through the items in matchedlinks, calling each one li
+for li in matchedlinks:
+  #increase the counter by 1
+  counter = counter+1
+  #print it
+  print(counter)
+  #Store the text contents of li in a new variable listtext
+  listtext = li.text_content()
+  #print that
+  print(listtext.encode('utf-8'))
+  #store it in the 'record' dictionary under the key 'address'
+  record['address'] = listtext
+  #store the link in the data
+  record['link'] = li.attrib['href']
+  #save the record to the datastore with 'address' as the unique key
+  scraperwiki.sqlite.save(['address'],record)
+```
+
+This can help you debug particular sections of the scraper when you're dealing with 1000s of items.
+
+For example you can limit the range of items in the list that are looped through by adding a range like this: `[3000:4000]` - it goes after the name of the list like so: `matchedlinks[3000:4000]`. Remember to change the counter too so it reflects the range you're cycling through
+
+```py
+#create a dictionary called record
+record = {}
+#Set the counter at 3000 because the list begins from 3000
+counter = 3000
+#Loop through the items in matchedlinks, calling each one li
+#Only loop from 3000-4000
+for li in matchedlinks[3000:4000]:
+  #increase the counter by 1
+  counter = counter+1
+  #print it
+  print(counter)
+  #Store the text contents of li in a new variable listtext
+  listtext = li.text_content()
+  #print that
+  print(listtext.encode('utf-8'))
+  #store it in the 'record' dictionary under the key 'address'
+  record['address'] = listtext
+  #store the link in the data
+  record['link'] = li.attrib['href']
+  #save the record to the datastore with 'address' as the unique key
+  scraperwiki.sqlite.save(['address'],record)
+```
 
 
 ### Notes: creating a variable

@@ -486,6 +486,9 @@ for li in matchedlinks[3000:4000]:
 ```
 
 
+
+
+
 ### Notes: creating a variable
 
 A first thing to highlight here is the equals operator: `=`

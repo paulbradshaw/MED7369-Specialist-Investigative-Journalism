@@ -11,7 +11,7 @@ Company accounts can be a great source of stories, or a useful resource to provi
 * Staff cuts and problems
 * Comparisons (between companies) and trends (over time)
 * Money: tax, rising costs, profits, debt (jobs)
-* Accountability/transparency: ["This is what Sutton Coldfield Town Council has spent its money on"](http://birminghameastside.com/2018/04/28/this-is-what-sutton-coldfield-town-council-has-spent-money-on-since-2016/)
+* Accountability/transparency: ["This is what Sutton Coldfield Town Council has spent its money on"](https://birminghameastside.com/this-is-what-sutton-coldfield-town-council-has-spent-its-money-on/)
 
 ## Key points
 

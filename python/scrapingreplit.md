@@ -4,7 +4,19 @@
 
 In this tutorial I explain how to do that.
 
+## Start a new repl
 
+First, go to the [my repls](https://repl.it/repls) page and click on **new repl** in the main menu.
+
+Choose **Python** for your repl, ignore the GitHub section (this is used if you want to import code from a GitHub repo), but give your repl a name like 'test scraper'.
+
+Then click **Create Repl**.
+
+You will be taken to that new repl. The screen is divided into 3 sections:
+
+* On the left is the *Files* area. Currently there is just one file: `main.py`.
+* In the middle is that file: `main.py`. There should be a cursor flashing on line 1, ready for you to add code to that file.
+* On the right is the *console*, where you can see the output if and when you run the code in the file.
 
 ## The final code
 

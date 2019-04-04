@@ -42,7 +42,107 @@ Let's look at these in relation to *8,000 Holes*:
 
 Actually, the story uses those stages more than once, and you can see narrative arcs *within* each subplot. For example, the section on the sponsors has its own nightmare climax and resolution before moving on to the next section. Likewise the initial problem of 'becoming a torchbearer' reaches a resolution early on (he doesn't), but that leads to the next problem (what happened to his place and those of 7,999 others), and so on.
 
-Now let's look at those parts in more detail with examples and techniques from other stories:
+Now let's apply those stages to some story ideas. These are some that my students came up with:
+
+* Cuts to mental health support in the police
+* The domination of the 'big 4' in EU contracting
+* Nurses migrating from other countries to work in the NHS
+* Head injuries in sport
+* Libraries and cuts
+* The use of trial shifts in the service sector
+
+### The anticipation phase in practice
+
+First, who is likely to be *affected* by the issue and might form an opening case study? It's worth writing down a few options before choosing one (with the others as back-ups).
+
+* Cuts to mental health support in the police: a police officer who needed mental health support
+* The domination of the 'big 4' in EU contracting: someone in Senegal using a water supply
+* Nurses migrating from other countries to work in the NHS: a patient who relies on one of those nurses
+* Head injuries in sport: a sportsperson who suffered a head injury
+* Libraries and cuts: a librarian
+* The use of trial shifts in the service sector: a waitress seeking work
+
+Opening with one of those human stories creates *anticipation*, the reader is expecting to find out why this case study matters.
+
+### The dream phase in practice
+
+Next comes the 'dream' phase, where we lay out the background - the 'bigger picture' to this issue. Often this requires gathering and analysing data, researching documents such as official reports, and reading previous interviews (for quotes) and stories in the field. In a TV investigation it might involve going undercover, or using reconstructions, to paint the picture of 'how things are'.
+
+Here are some typical questions we might need to answer in this phase:
+
+* Cuts to mental health support in the police: how much is spent on mental health support? Is that going up or down? How much demand is there, and how has that changed? What about in other similar public services? Other countries? Why is this support needed? What are the impacts of a lack of support?
+* The domination of the 'big 4' in EU contracting: Who are these companies? How dominant are they? How has that changed over time?
+* Nurses migrating from other countries to work in the NHS: How many nurses come from other countries? Which ones? Why do they come? How has that changed over time?
+* Head injuries in sport: how many injuries, what types, in which sports? What research has been done and how have things changed in different sports?
+* Libraries and cuts: how has funding changed and what has the effect of that been? What are libraries for?
+* The use of trial shifts in the service sector: what are trial shifts, and how widely are they used? Why are they used and what are the concerns over them?
+
+You can see that the dream phase is likely to be longer than other sections, involve more secondary research, and also quotes from experts.
+
+### The frustration phase in practice
+
+Now we come to the obstacles in our story - the 'but'.
+
+* Cuts to mental health support in the police: 'but' funding is static, or being cut
+* The domination of the 'big 4' in EU contracting: 'but' laws aren't effective
+* Nurses migrating from other countries to work in the NHS: 'but' nurses are now leaving the UK
+* Head injuries in sport: 'but' the authorities aren't taking concerns seriously
+* Libraries and cuts: 'but' community-run libraries are struggling
+* The use of trial shifts in the service sector: 'but' there's a loophole in the law
+
+This phase tends to focus on particular themes:
+
+* **Laws** that aren't working, aren't being enforced, or have loopholes
+* **Concerns** or accusations or evidence that is being ignored or dismissed
+* **Money** or support is being reduced or withdrawn
+* **Problems** that are preventing things working (quite likely involving the above)
+
+This phase might see more quotes from campaigners, charities, politicians, insiders and others who are trying to initiate change but are hitting obstacles.
+
+### The nightmare/climax phase in practice
+
+Having mapped the territory (dream phase) and identified the obstacles (frustration phase), we now come to the climax, the 'nightmare' phase. Again, this is where those getting the blame for those obstacles, or with the power to do something about them, are confronted.
+
+* Cuts to mental health support in the police: someone from the government department responsible for funding
+* The domination of the 'big 4' in EU contracting: someone responsible for enforcing laws
+* Nurses migrating from other countries to work in the NHS: those blamed for causing the problems
+* Head injuries in sport: the authorities dismissing the calls for change
+* Libraries and cuts: those responsible for cuts
+* The use of trial shifts in the service sector: law-makers
+
+It is important to point out that there may be more than one confrontation, as your reporting discovers that it's not quite as simple as only one person or agency being responsible. The local authority getting the blame for cuts may point out that they are reliant on funding from national government, and the government may argue that the problem is low tax receipts (because of tax avoidance, and/or a belief that voters are unwilling to accept higher rates).
+
+There may be some 'passing of the buck' and you may need to go between actors who are blaming each other, while seeking more concrete evidence to back up their claims or to allocate responsibility, which ultimately is often shared.
+
+There may also be some 'no comment' or refusal to engage. This is vital to include.
+
+This section is, in short, the most important part of your story - without it, you are missing that crucial right of reply.
+
+### The resolution/coda phase in practice
+
+With that climactic part over, the story still needs a resolution, however. This is likely to be a short section and often either looks forward (what happens next) or sums up the situation in a scene or a quote. Here are some examples:
+
+* Cuts to mental health support in the police: we may return to the case study from the start, with some quotes about what they will do if the current situation persists
+* The domination of the 'big 4' in EU contracting: we might outline some upcoming proposed legislation that aims to tackle the problem
+* Nurses migrating from other countries to work in the NHS: we might end on a quote from a nurse who is leaving the country which sums up the situation
+* Head injuries in sport: we might end with a scheme which suggests a way forward
+* Libraries and cuts: we might end with what cuts are planned for the next year or more
+* The use of trial shifts in the service sector: we might end with an expert quote saying that nothing will change until X happens
+
+The type of ending is often shaped by the nature of the story. Questions to ask here include:
+
+* Are there legal or political plans already in place (a planned inquiry, proposed legislation, a court case, etc.)?
+* Are there budgets/plans already in place?
+* Are there initiatives or pilot schemes that suggest a way forward?
+* Can you return to someone from the story and update their situation?
+* Can you return to a scene, or visit a scene, which represents the current situation? (e.g. people still waiting/queueing, a meeting where the anger is greater, or disillusionment has set in)
+* Is an expert in a position to describe what is likely to happen next?
+
+### Solutions journalism
+
+When applying this approach to solutions journalism, you can simply introduction the 'solution' in the dream stage: outlining the background, how they're trying to solve the problem; the 'nightmare' then becomes obstacles to that solution, which might include problems with it that need to be addressed first. The climax may involve an interview with those responsible for tackling those problems as well as those presenting obstacles. 
+
+Now let's look at beginnings, middles and endings in more detail with examples and techniques from other stories:
 
 ## Beginnings: start from one person
 

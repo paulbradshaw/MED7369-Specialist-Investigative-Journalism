@@ -20,7 +20,7 @@ If you rewrite that sequence using 'but' or 'therefore' it helps you focus more 
 
 ## THEREFORE is about the expected and causal
 
-Forcing yourself to make a choice between 'therefore' and 'but' forces you to consider whether a sequence of events is expected or not.
+Forcing yourself to make a choice between 'therefore' and 'but' helps you consider whether a sequence of events is expected or not.
 
 Investigations are often about a chain of events that leads to something which we struggle otherwise to understand - the 'law of unintended consequences'.
 

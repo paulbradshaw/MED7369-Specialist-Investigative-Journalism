@@ -294,6 +294,7 @@ A journalist operates within certain constraints that require a certain amount o
 
 * They must consider the **audience** in their selection and treatment of stories
 * They must hit regular **deadlines**
+* They must write **within a particular word or character count**
 * They must remain **impartial and objective** in their reporting (in most genres)
 
 These aspects of discipline are reflected in some of the most common feedback given to student journalists:
@@ -313,9 +314,9 @@ Journalism's constraints are built-in, but can also be built on. We can be disci
 
 Discipline is also important in learning a skill: being disciplined enough to practise your skills regularly - create *more* than one package, write *more* than one article, interview *more* than one person - is how you get good at that skill. This is the difference between the aspiring journalism who wants to master their art, and the one who merely wants to pass their assessment or obtain a qualification.
 
- This is why regular blogging, vlogging, podcasting, coding, Instagramming, or posting on Twitter are all useful disciplines to develop - each develops a habit and a comfort with putting together words, audio, code, images or video.
+ This is why regular blogging, vlogging, podcasting, coding, Instagramming, or posting on Twitter are all useful disciplines to develop - each develops a habit and a comfort with putting together words, audio, code, images or video. (You might file this under 'persistence', too)
 
-
+**Attention to detail** is a key discipline: accuracy in language is crucial in journalism, while the stories in documents and data can often come from spotting crucial details.
 
 
 ## 7. Adaptability - Attention to detail - passion/conviction
@@ -324,7 +325,7 @@ Discipline is also important in learning a skill: being disciplined enough to pr
 
 Now that these have been listed, it is important to remember how each works in tension with the other:
 
-A good journalist is **curious**, but not *credulous*: their **scepticism** helps prevent this. But scepticism should be distinguished from *cynicism*: a sceptical journalist develops the habit of **persistence** in establishing whether something is true or not. Persistence needs to be tempered by **empathy**: there is a world of difference between the journalist who exploits the vulnerability of sources, and the journalist who understands how best to ethically encourage a source's cooperation.
+A good journalist is **curious**, but not *credulous*: their **scepticism** helps prevent this. But scepticism should be distinguished from *cynicism*: a sceptical journalist develops the habit of **persistence** in establishing whether something is true or not. Persistence is aided by **empathy** which helps you *imagine* the best places to look, and identify the best possible approach.
 
 Equally, the **creative** reporter should not be *indulgent* with respect to that creativity; they need **discipline** to employ that creativity towards a journalistic objective, ensuring that their story is clear, coherent and appropriate to the target audience. But discipline does not mean *rigidity*: a modern journalist needs the **adaptability** to realise when the story they had in mind has changed, or that it needs to be told in a different way.
 

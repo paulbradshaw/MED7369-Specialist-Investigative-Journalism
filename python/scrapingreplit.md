@@ -18,6 +18,66 @@ You will be taken to that new repl. The screen is divided into 3 sections:
 * In the middle is that file: `main.py`. There should be a cursor flashing on line 1, ready for you to add code to that file.
 * On the right is the *console*, where you can see the output if and when you run the code in the file.
 
+Most of your work is done in the middle area.
+
+## The first lines of code: importing libraries
+
+The first few lines of code import some **libraries** which we will need to solve particular problems. We need:
+
+* The `scraperwiki` library to fetch webpages and also to store data
+* The `lxml.html` library to convert those fetched webpages into something that has structure
+* The `cssselect` library to drill down into that structure using css selectors
+* The `pandas` library to analyse data and also convert to a CSV
+
+Here's those first few lines:
+
+```py
+import scraperwiki
+import lxml.html
+import cssselect
+#use pandas to convert to downloadable csv
+import pandas as pd
+```
+
+## Storing and scraping the URL
+
+Next we use some **variables** to store a URL and a **function** from one of those libraries to fetch a URL and store it:
+
+```py
+# Store the URL in a variable to make it easier to change
+urltoscrape = "https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_England"
+#Store the base URL which we often need to add to relative links
+baseurl = "https://en.wikipedia.org"
+#Scrape the webpage at that URL into a new variable called 'html'
+html = scraperwiki.scrape(urltoscrape)
+#Print the contents of that new object
+print(html)
+```
+
+The function `scrape()` from the `scraperwiki` library (hence `scraperwiki.scrape()`) is used to fetch a webpage from a given URL (which is stored in the variable `urltoscrape`).
+
+At the end of the code we `print()` the results of that function (stored as `html` but you could give that variable any name).
+
+You should see a long string of characters - basically all the HTML for that webpage grabbed from that URL.
+
+We need to drill down to something more specific.
+
+## Drilling down into the HTML
+
+Our next section of code does that using functions from another two libraries.
+
+```py
+#Convert that html variable into a new lxml.html object
+#(this means it is structured like a tree so we can use lxml.html functions on it)
+root = lxml.html.fromstring(html)
+# Find something on the page using css selectors
+#Specifically anything within a dd tag within a dl tag within a dd tag within a dl tag
+#Store the results in a variable we call lis - it'll always be a list
+lis = root.cssselect('dl dd dl dd')
+#Show how many items are in that new list (how many matches)
+print(len(lis))
+```
+
 ## The final code
 
 ```py

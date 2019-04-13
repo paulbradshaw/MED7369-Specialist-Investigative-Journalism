@@ -82,6 +82,8 @@ Curiosity and imagination help us to start asking questions - but there's a furt
 
 https://twitter.com/Will_deF/status/1113107244835631104
 
+> "The most essential gift for a good writer is a built-in, shock-proof shit detector. This is the writer’s radar." - Ernest Hemingway
+
 When reporting a news event, do we only report what people tell us? What if two different sources say contrasting things?
 
 Scepticism is important in journalism because it moves us from merely repeating what people have said, to establishing the *factual basis* for that information. It has become particularly important in a modern information age when most public bodies can communicate with the public directly, without that accountability.
@@ -101,6 +103,8 @@ How, then, does the newsroom handle uncertainty? Mainly with **attribution**: "p
 This is an important distinction to make, and one that trainee journalists learn: do not report what someone has said as fact, if you cannot establish it yourself.
 
 ### Methods for developing scepticism
+
+https://twitter.com/BBCMarkSimpson/status/1094676480288870400
 
 Listing the facts in a story, and then attributing each of those, is a useful exercise for developing this skill. It turns each fact into a *claim*. The journalist then has to explicitly decide whether to:
 
@@ -289,6 +293,8 @@ And the current era offers perhaps the most creative scope of any in the history
 There is a risk, however, that this leads to too big a focus on *technical* creativity - the skills of storytelling - at the expense of time spent on the other forms. Our liking of creativity can stray into **indulgence**: we may be tempted to use long words to show off our vocabulary, where in fact shorter simpler ones may be more effective and more easily understood by our audience; or we might use a new storytelling form such as VR just because we can rather than because it works best for the story. And that is where discipline comes in.
 
 ## 6. Discipline
+
+> "A nose for news, a plausible manner and an ability to write and deliver concise, accurate copy to deadline" - description of the qualities needed by journalists, from Ethics & Journalism by Karen Sanders
 
 A journalist operates within certain constraints that require a certain amount of self-control, or **discipline**. For example:
 

@@ -6,7 +6,9 @@ Company accounts can be a great source of stories, or a useful resource to provi
 
 * Company/director says something newsworthy
 * Conflicts of interest, abuse of power
-* Context to news story (e.g. [what did the Grenfell Tower company say in their accounts](https://www.insidehousing.co.uk/news/news/rydon-makes-no-grenfell-provision-in-accounts-60648); [how much money has Richard Branson's Virgin Group made from rail franchises](https://www.theguardian.com/business/2019/apr/11/richard-branson-earned-300m-virgin-rail-franchises))
+* Context to news story 
+ * e.g. what did the Grenfell Tower company say in their accounts [here](https://www.theguardian.com/business/2018/mar/08/rydon-profit-rises-grenfell-tower-contractor) and [here](https://www.insidehousing.co.uk/news/news/rydon-makes-no-grenfell-provision-in-accounts-60648); 
+ * e.g. [how much money has Richard Branson's Virgin Group made from rail franchises](https://www.theguardian.com/business/2019/apr/11/richard-branson-earned-300m-virgin-rail-franchises))
 * Problems and warning signs
 * Staff cuts and problems
 * Comparisons (between companies) and trends (over time)

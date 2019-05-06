@@ -280,7 +280,7 @@ The difference between the journalist and the non-journalist is that *we still f
 
 When an event is cancelled, for example, a journalist has the problem-solving creativity to come up with a new idea. It might be to write a new story about why it was cancelled, or the challenges facing this particular event organiser, or events organisers more generally. Or there is a piece to be written about the cost of security for the event, or they forget about the event and go to their list of backup story ideas (always have one!)
 
-When an interviewee pulls out we have to think creatively about ways to solve that problem: is there a way to persuade them to change their mind? Where can we find alternatives? How can we re-angle the story around a different interviewee and still use some of the material we've gathered?
+When an interviewee pulls out we have to think creatively about ways to solve that problem: is there a way to persuade them to change their mind? Where can we find alternatives? How can we re-angle the story around a different interviewee and still use some of the material we've gathered? This to some extent comes under the quality of **adaptability**.
 
 Working through some of these scenarios is a useful exercise in developing the sort of resilience that editors want from reporters - although pretty much any live news day will generate these obstacles anyway, as students are often ignored by, or turned down by, potential interviewees.
 
@@ -325,7 +325,30 @@ Discipline is also important in learning a skill: being disciplined enough to pr
 **Attention to detail** is a key discipline: accuracy in language is crucial in journalism, while the stories in documents and data can often come from spotting crucial details.
 
 
-## 7. Adaptability - Attention to detail - passion/conviction
+## 7. Passion
+
+The final quality, **passion**, is perhaps the one that seems most like a personal quality that cannot be taught or trained. Can we teach passion? Well, we can provide the reasons why a trainee journalists might be passionate about their craft.
+
+Too often we take for granted the passion that we ourselves feel about journalism - and in particular the reasons behind that passion. *Why* are we passionate about journalism? It is surely not because we are passionate about the process of writing 500 words or filling 180 seconds of air time. It is because we are passionate about the *role* that journalism plays, and can play.
+
+It is worth asking, then, whether we formalise the sharing of those reasons. Kovach and Rosenstiel's list helps here in particular:
+
+* Journalism gives a voice to the voiceless
+* Journalism speaks truth to power
+* Journalism holds power to account
+* Journalism's first duty is to the *truth*
+
+Explaining why journalism is important, and how it does that, is one very important way that passion can be learnt. Watching the film *Spotlight* makes me passionate about journalism; reading about the Sunday Times's Thalidomide investigation makes me passionate it, too.
+
+But what would make your students passionate about journalism? Perhaps asking them to rate those 10 qualities of journalism in order of priority can provide a useful stimulus for discussion which starts to feed that seed of passion. And that prioritisation can help guide further work: meeting journalists who have done precisely those things which students rate highly; designing and working on projects that can make a difference in that respect. (My own passion for journalism was born in my first magazine job when I realised that I could get redress for readers who had had bad experiences with certain companies).
+
+For example, if students rate 'giving a voice to the voiceless' as something that inspires them, why not organise a community news day where the students are based in a specific community with a particular remit to interview people within that community and help to air their concerns (or highlight successes).
+
+This is particularly important when you look at research on the career paths of student journalists and note that they are less likely to want to work within journalism the more experience they have of it. Students report feelings of disillusionment when their mental image of reporting meets the cold reality of desk-based workaday reporting, while critical studies focus on problems such as concentration of ownership, bias and under-representation.
+
+Just as solutions journalism engages audiences more by focusing on what can be done about a problem, rather than merely describing that problem, we can adopt a similar approach in our teaching and learning. Yes, certain groups are misrepresented in the media - but where can we find successful examples of those groups being given a voice? Yes, there is bias but how have journalists reported difficult stories with responsibility? Yes, a few corporations dominate the media landscape but what about the growth of grassroots publishing, hyperlocal journalism and new sources of funding?
+
+Above all, exploring these issues in an **empowered** fashion might also help students move from the most common reasons for wanting to work in journalism (creative fulfillment, a certain lifestyle and access) to exploring others that will withstand more mundane contexts.
 
 ## All 7 habits work in tension with each other
 
@@ -333,7 +356,7 @@ Now that these have been listed, it is important to remember how each works in t
 
 A good journalist is **curious**, but not *credulous*: their **scepticism** helps prevent this. But scepticism should be distinguished from *cynicism*: a sceptical journalist develops the habit of **persistence** in establishing whether something is true or not. Persistence is aided by **empathy** which helps you *imagine* the best places to look, and identify the best possible approach.
 
-Equally, the **creative** reporter should not be *indulgent* with respect to that creativity; they need **discipline** to employ that creativity towards a journalistic objective, ensuring that their story is clear, coherent and appropriate to the target audience. But discipline does not mean *rigidity*: a modern journalist needs the **adaptability** to realise when the story they had in mind has changed, or that it needs to be told in a different way.
+Equally, the **creative** reporter should not be *indulgent* with respect to that creativity; they need **discipline** to employ that creativity towards a journalistic objective, ensuring that their story is clear, coherent and appropriate to the target audience. But discipline does not mean *rigidity*: a modern journalist needs the **tenacity** and **creativity** to find a different approach. Above all they need **passion** to keep them going through the process.
 
 ## Bibliography
 

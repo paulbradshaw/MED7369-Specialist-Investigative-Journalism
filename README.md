@@ -85,7 +85,11 @@ Statistical literacy is important in being able to report stories accurately. In
 
 * [Folder for this week](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/statistics)
 * Workshop: [regression analysis](https://github.com/BBC-Data-Unit/unsolved-crime/blob/master/regression.md)
-* Read: Huff, Darrell (1954) How to Lie With Statistics, Penguin
+* Read - choose from: 
+  * Huff, Darrell (1954) How to Lie With Statistics, Penguin
+  * Blastland and Dilnot (2007) The Tiger That Isn't: Seeing Through a World of Numbers
+  * Fung, Kaiser (2010) Numbers Rule Your World
+  * Cohen, Sarah (2014) [Numbers in the Newsroom](https://cvlassets.s3.amazonaws.com/Numbers_in_the_Newsroom_Second_Edition.pdf)
 * Listen: [More or Less: The Simpson’s Paradox](https://www.bbc.co.uk/programmes/p03sm8vw): consider 2 things: firstly Simpson's Paradox, but secondly: how audio can be used creatively to demonstrate something (the choir).
 * Directed study: Data analysis/interview planning and research
 

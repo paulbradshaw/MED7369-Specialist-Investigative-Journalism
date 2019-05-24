@@ -27,21 +27,17 @@ In this week you will be introduced to current affairs reporting and encouraged 
 
 ### 2: Mapping the territory: specialist sources and systems
 
-In this week you will be introduced to exercises to help you identify potential stories to report when acting in a specialist or investigative role. We will look at the roles of systems in different fields and how those often play a central role as both a subject for the journalist, and a framework for their newsgathering. By the end of the week you should be able to identify a key issue in a chosen field, and articulate some potential avenues of inquiry.
+In this week you will be introduced to exercises to help you identify potential stories to report when acting in a specialist or investigative role. We will look at the roles of systems in different fields and how those often play a central role as both a subject for the journalist, and a framework for their newsgathering. By the end of the week you should be able to identify a key issue in a chosen field, articulate some potential avenues of inquiry.
 
-* Workshop: Mapping your territory - and network analysis
-* Directed study: Scoping document, data and human sources
-
-### 2: Turning topics into ideas: identifying and planning investigations and features
-
-In this week you begin to narrow your focus to a specific story or 'hypothesis' to begin researching for an in-depth feature or investigation. By the end of the week you should be able to articulate your plan, including potential ingredients and specific contacts, locations and other elements in your story or stories.
+You will begin to narrow your focus to a specific story or 'hypothesis' to begin researching for an in-depth feature or investigation. 
 
 The week also looks at how you can use systems of accountability and measurement in your journalism, from the role of public meetings, documents and data, the role of regulators, and legal powers such as FOI. By the end of this week you should be able to describe specific systems in your area of interest that you can use in your reporting.
 
+* Workshop: Mapping your territory - and network analysis
 * Workshop: planning your investigation or feature - [see network analysis folder](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/networkanalysis)
 * Read: [Lee Hunter, Mark (2011) Story-based Inquiry](http://unesdoc.unesco.org/images/0019/001930/193078e.pdf)
 * Directed study 1: Project research and initial hypothesis
-* Directed study 2: Feature
+* Directed study 2: Scoping document, data and human sources
 
 ### 3: Pitching stories — and two-ways
 

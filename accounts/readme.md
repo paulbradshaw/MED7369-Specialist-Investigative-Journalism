@@ -11,6 +11,7 @@ Company accounts can be a great source of stories, or a useful resource to provi
   * e.g. [how much money has Richard Branson's Virgin Group made from rail franchises](https://www.theguardian.com/business/2019/apr/11/richard-branson-earned-300m-virgin-rail-franchises))
   * e.g. [The owners of British Steel seeking government aid are charging firm £20m a year in fees and interest](https://www.theguardian.com/business/2019/may/15/british-steels-owners-charging-company-20m-a-year-in-fees-and-interest)
   * [The collapse of Jamie's Italian](https://www.theguardian.com/food/2019/may/21/jamies-italian-struggled-for-relevance-as-people-changed-their-habits) - accounts can establish a financial narrative, but also the founder's wider business interests and where he continues to draw an income
+  * [Why Bolton Wanderers ended up in administration](https://nickigoeconsultancy.co.uk/blogs/f/bolton-wanderers-in-administration)
 * Problems and warning signs
 * Staff cuts and problems
 * Comparisons (between companies) and trends (over time)

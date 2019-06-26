@@ -5,7 +5,7 @@ Company accounts can be a great source of stories, or a useful resource to provi
 ## Potential stories from accounts
 
 * Company/director says something newsworthy
-* Conflicts of interest, abuse of power, such as in "[Urban Outreach funded Westhoughton care home](https://www.theboltonnews.co.uk/news/17707979.bolton-urban-outreach-funded-westhoughton-woodlands-care-home/)" and [this follow-up: Urban Outreach cleared for Westhoughton care home investment]
+* Conflicts of interest, abuse of power, such as in "[Urban Outreach funded Westhoughton care home](https://www.theboltonnews.co.uk/news/17707979.bolton-urban-outreach-funded-westhoughton-woodlands-care-home/)" and [this follow-up: Urban Outreach cleared for Westhoughton care home investment](https://www.theboltonnews.co.uk/news/17713657.urban-outreach-cleared-for-westhoughton-care-home-investment/)
 * Context to news story 
   * e.g. what did the Grenfell Tower company say in their accounts [here](https://www.theguardian.com/business/2018/mar/08/rydon-profit-rises-grenfell-tower-contractor) and [here](https://www.insidehousing.co.uk/news/news/rydon-makes-no-grenfell-provision-in-accounts-60648); 
   * e.g. [how much money has Richard Branson's Virgin Group made from rail franchises](https://www.theguardian.com/business/2019/apr/11/richard-branson-earned-300m-virgin-rail-franchises))

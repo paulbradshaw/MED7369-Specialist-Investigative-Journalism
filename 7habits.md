@@ -207,13 +207,27 @@ Empathy helps us to identify what those suspicions might be: the 'victim' is lik
 * An academic expert might be too busy hitting a conference deadline or buried in end-of-term marking, or might receive dozens of enquiries every week, and does not see journalistic approaches as a priority. Or they might think journalists typically have only a superficial understanding of the issue and will make mistakes when trying to report it
 * A police officer might have to refer all press enquiries to the press office, or have concerns about legal issues such as contempt
 
+[In one example](https://medium.com/jsk-class-of-2019/thinking-in-multiple-frames-how-journalism-can-be-more-collaborative-4a1d93327fe1) **Sarah Shroud** outlines her own experience of this when interviewing an oilman for a podcast:
+
+> "I quickly learned that even the mention of “climate change” put him on the defense. For him, the phrase evokes the condescension he’s felt his entire life from politicians, liberals and environmentalists, and maybe even taps into some underlying feelings of shame left over from growing up poor."
+
 Many of these obstacles can be addressed by demonstrating in our approach that it is based on **curiosity**, not a prejudiced opinion. That we are seeking to **understand** what actually happened, and why.
 
 Empathy might involve understanding that many people are not aware of the distinction between opinion (where judgement is often passed) and news reporting (where it is not) - and that we might need to explain that. We might equally need to explain that it is not our role to act as their advocate. We might explain our duty to provide a right of reply, or to give a voice to the voiceless, or to ask the 'why' questions relating to newsworthy events.
 
 Other obstacles might be addressed by demonstrating our legal or field-specific knowledge, or our commitment to reporting on a particular field. We might point to previous work, or ask mutual contacts who have dealt with us in the past to act as a go-between and vouch for our integrity.
 
-Finally, empathy can help us in finding individuals and information in the first place. If I was a twin and I was writing about my experiences online, what phrase would I use that non-twins would not? Answer: "My twin". If someone wants to hide information when might they do that? After they've been approached? So I might use a service which alerts me to changes on specific webpages, or differences between pages saved before and then downloaded again after the approach. If I was really in a particular place at a particular time what should I be able to describe that wasn't in reports? Perhaps the weather (which you can then research ahead of any meeting, ready to use as part of some verification processes).
+Next, empathy can help us in finding individuals and information in the first place. If I was a twin and I was writing about my experiences online, what phrase would I use that non-twins would not? Answer: "My twin". If someone wants to hide information when might they do that? After they've been approached? So I might use a service which alerts me to changes on specific webpages, or differences between pages saved before and then downloaded again after the approach. If I was really in a particular place at a particular time what should I be able to describe that wasn't in reports? Perhaps the weather (which you can then research ahead of any meeting, ready to use as part of some verification processes).
+
+Finally, empathy is crucial to understanding our *audience*: what they need to know, what they want to know, what they already know (and don't), and the most effective ways of telling them something new.
+
+Sarah Shroud's [post](https://medium.com/jsk-class-of-2019/thinking-in-multiple-frames-how-journalism-can-be-more-collaborative-4a1d93327fe1) contains some useful practical steps in using empathy "to reach an audience from a very different social, economic, cultural and ideological bubble than our own", which it's worth quoting from at length:
+
+> "In order to see outside your own limited frame you have to know who you are. You have to know how you think, your own blindspots and biases, as well as the intersecting events, experiences and ideas that have shaped your worldview. To get there, you have to have done a ton of self-scrutiny and have received a ton of feedback from all kinds of people in all kinds of contexts.
+
+> "Next, after scrutinizing yourself, you interview your audience, extensively ... For me, as a journalist, this means starting at the finish line, with the people you’re trying to reach, and working backwards. You don’t just imagine your audience, you get to know them very, very, well. Who needs this story the most? How do they explain what’s going on? What words, ideas and information do they use to frame it?
+
+> "Third, and last, once you have a strong grasp of both your audience’s frame and your own, you’re ready to leave them both behind. Now that you’ve become fluent in multiple frames, you look for a way to tell the story that weaves them together into a complex narrative, one that builds on and transcends the frames you’ve taken such pains to identify."
 
 
 ## 5. Creativity

@@ -1,6 +1,6 @@
 # Python
 
-I have created a range of resources to get started with Python in a [dedicated repository here](https://www.bcu.ac.uk/media/courses/data-journalism-ma-2019-20). That includes:
+I have created a range of resources to get started with Python in a [dedicated repository here](https://github.com/paulbradshaw/pythonintro/). That includes:
 
 * A [guide to getting used to basic programming concepts by using Execute Python Online](https://github.com/paulbradshaw/pythonintro/blob/master/execute_python_online.ipynb)
 * Second, move on to [this guide to some lines of code you can use to interact with an API](https://github.com/paulbradshaw/python_demo/blob/master/executepythononline.md)

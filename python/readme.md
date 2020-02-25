@@ -6,6 +6,7 @@ I have created a range of resources to get started with Python in a [dedicated r
 
 * A [guide to getting used to basic programming concepts by using Google Colab](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/python/pythonFirstStepsColab.ipynb)
 * An [example scraper written in a Colab Python notebook](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/python/anExampleScraper1page.ipynb)
+* An [example scraper notebook which follows 'next' links from page to page](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/python/anExampleScraperNextPage.ipynb)
 
 ## Other notebooks
 

@@ -39,3 +39,15 @@ These could again be traced to a particular register (Delaware, Florida, even Ho
 We can search for people as well. Use the search bar at the top to specify **Officers** and [search for Justin Timberlake](https://opencorporates.com/officers?q=justin+timberlake&utf8=%E2%9C%93).
 
 This is quite a distinctive name so most matches - not necessarily all - are likely to be the person we are expecting. For more common names we will have to look for other clues of confirmation (or pick up the phone to check).
+
+He is listed as a director of Big Dipper Motors - would this be the same person? More checks would be needed.
+
+He is also a director of a Foundation - would those details appear on 990 filings? (More below)
+
+## Example 3: digging into a political donor: Richard Cook 
+
+Richard Cook is a political donor. He's [listed as a director](https://beta.companieshouse.gov.uk/officers/6YP-Ed7vjPHMkQNAGO9tc-jfS98/appointments) of DDR Recycling Limited.
+
+That is linked to DDR USA. A search on OpenCorporates takes you to the company DDR International Recycling LLC, and the registry in California. This leads to documents including a filing statement, and the person Gerry Gallagher.
+
+Court records on PACER (signing up involves confirming via post) or Pacermonitor (not free) or Courtlistener (free) shows that the company was involved in a fraud case. Richard Cook is named in the documents.

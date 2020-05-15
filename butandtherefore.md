@@ -1,16 +1,15 @@
 # But and therefore - what journalists can learn from South Park about investigations
-
-One of the best pieces I've read recently about writing is to replace any 'and' in a story outline with the word 'but' or 'therefore'. The advice [comes from the South Park writer Trey Stone](), but has a history going further back.
+One of the best pieces I've read recently about writing is to replace any 'and' in a story outline with the word 'but' or 'therefore'. The advice [comes from the South Park writer Trey Stone](https://speakola.com/arts/matt-stone-trey-parker-nyu-writing-class-2014), but has a history going further back.
 
 The advice is aimed at scriptwriters dealing with fictional events - but for journalists dealing with factual reporting, and particularly investigations, it can be adapted in some very interesting ways. Here's how...
 
 ## Planning an investigation: the timeline
 
-[Mark Lee-Hunter's story-based inquiry method]() is one of the most useful approaches to organising investigations. Part of the method involves compiling a **timeline** of key events, and continuing to update that as you come across new information.
+[Mark Lee-Hunter's story-based inquiry method](https://unesdoc.unesco.org/ark:/48223/pf0000193078) is one of the most useful approaches to organising investigations. Part of the method involves compiling a **timeline** of key events, and continuing to update that as you come across new information.
 
 The but/therefore method adds a new dimension to the timeline. Let me illustrate with an example:
 
-Peter Geoghegan's Brexit investigation of the funding behind part of the 'Leave' campaign during the UK's EU referendum identified a certain sequence of events like so:
+[Peter Geoghegan's Brexit investigation of the funding behind part of the 'Leave' campaign](https://www.opendemocracy.net/en/dark-money-investigations/revealed-dark-money-brexit-ads-flooding-social-media/) during the UK's EU referendum identified a certain sequence of events like so:
 
 *Money was given to one pro-Leave campaign group AND they gave it to an organisation in Northern Ireland AND they used it to fund advertising in England and Scotland.*
 
@@ -51,10 +50,10 @@ It can also help you organise facts (not events):
 - Therefore these had to be allocated in some way
 - Therefore 2012 were given to one campaign, 1800 each to the 3 main sponsors and the rest split between other organisations
 - BUT those organisations did not allocate 95% of their places through public campaigns
-  - Therefore the promises made by the organisers were broken
-  - Therefore members of the public who should have carried the Olympic torch were denied their 'Moment to Shine'
-  - Therefore people who did carry the torch found themselves alongside less 'inspirational' individuals such as winners of sales competitions, marketing staff, and corporate executives
-    - Therefore they were left disillusioned
+- Therefore the promises made by the organisers were broken
+- Therefore members of the public who should have carried the Olympic torch were denied their 'Moment to Shine'
+- Therefore people who did carry the torch found themselves alongside less 'inspirational' individuals such as winners of sales competitions, marketing staff, and corporate executives
+- Therefore they were left disillusioned
 
 ***EXAMPLE TABLE***
 
@@ -73,8 +72,6 @@ Here's an example of applying this process to chapter 12 from Misha Glenny's boo
 - Therefore he starts to work more
 - Therefore he begins to fall behind in his studies
 - But one day, searching for other people complaining about Amex, he comes across a site which recommends a way to get back at them - credit card fraud...
-
-
 
 ## Telling the story - skip to the but
 

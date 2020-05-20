@@ -6,7 +6,7 @@ This folder contains resources on statistics.
 
 The University and College Union commissioned [this research](https://londoneconomics.co.uk/blog/publication/impact-of-the-covid-19-pandemic-on-university-deferral-rates-and-student-switching-may-2020/). Imagine you have been sent the report and the summary - how would you write a story on it? What statistical considerations are there?
 
-(You can see how [The Guardian reported it](https://www.theguardian.com/education/2020/may/20/uk-universities-facing-760m-hit-one-in-five-students-plan-defer?CMP=share_btn_tw)
+(You can see how [The Guardian reported it here](https://www.theguardian.com/education/2020/may/20/uk-universities-facing-760m-hit-one-in-five-students-plan-defer?CMP=share_btn_tw))
 
 ## Exercise: recreate a regression analysis from a crime story
 

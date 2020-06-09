@@ -2,6 +2,8 @@
 
 This folder contains resources for doing a network analysis. Network analysis can be useful both in planning investigations (mapping networks and identifying actors within that) and storytelling (showing patterns or allowing users to explore networks).
 
+[This post provides an introduction to network analysis for journalists](https://onlinejournalismblog.com/2020/06/08/a-journalists-introduction-to-network-analysis/).
+
 ## Exercise: manual network analysis using Kumu
 
 [Kumu.io](https://kumu.io/) is a tool for creating network graphs and similar data visualisation. These can be generated from datasets, or created manually. 
@@ -48,6 +50,14 @@ Here's [an example of using the System option to explore the system surrounding 
 I've [put together a tutorial explaining how to colour code elements in Kumu, and also how to analyse it to identify numbers of connections](https://docs.google.com/document/d/e/2PACX-1vTQVZsPzYX0u-FtCrpWpO7G8nCO35UMoZuQX-T4x7m5P633IV7D28ThsFVg2ptkVvztoaJVcpR8Hd2G/pub)
 
 [This example adds sizing](https://embed.kumu.io/9d61cc335f508ac6a929793ceff3669a#import) (but doesn't have colour).
+
+## Using NodeXL to do network analysis in Excel
+
+The [nodexl folder in this repo](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/networkanalysis/nodexl) contains resources on using NodeXL for network analysis.
+
+## Using Gephi to do network analysis
+
+The [gephi folder in this repo](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/networkanalysis/gephi) contains resources on using Gephi for network analysis.
 
 ## Advanced network analysis: neo4j and the Panama Papers
 

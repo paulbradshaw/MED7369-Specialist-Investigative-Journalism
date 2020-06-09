@@ -65,4 +65,10 @@ The Panama Papers investigation used the powerful tool **neo4j** to analyse rela
 
 ## Links and other resources
 
-You can find [my bookmarks on various things related to network analysis here](https://pinboard.in/u:paulbradshaw/t:networkanalysis). Add extra tags to drill down further, e.g. [https://pinboard.in/u:paulbradshaw/t:networkanalysis+tools](https://pinboard.in/u:paulbradshaw/t:networkanalysis+tools) shows tools that I have bookmarked.
+You can find [my bookmarks on various things related to network analysis here](https://pinboard.in/u:paulbradshaw/t:networkanalysis). 
+
+Add extra tags to drill down further, e.g. [https://pinboard.in/u:paulbradshaw/t:networkanalysis+tools](https://pinboard.in/u:paulbradshaw/t:networkanalysis+tools) shows tools that I have bookmarked.
+
+There is a [free book online about social network analysis methods](https://faculty.ucr.edu/~hanneman/nettext/),
+
+Another cookbook [covers network analysis using R](http://sachaepskamp.com/files/Cookbook.html)

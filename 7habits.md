@@ -190,7 +190,7 @@ Like all of these qualities, persistence is something that can be learned. [This
 
 Empathy - specifically **[cognitive empathy](https://www.verywellmind.com/cognitive-and-emotional-empathy-4582389)** is the ability to imagine *what it is like to be in someone else's shoes*. It is perhaps one of the more underrated qualities of good journalists, perhaps because people often confuse it with *sympathy* or emotional empathy.
 
-The difference between them is important: it is possible to think about what it is like to be a particular person (empathy), including criminals and corrupt officials, without feeling sorry for them (sympathy) or feeling the same way (emotional empathy).
+The difference between them is important: it is possible to think about what it is like to be a particular person (cognitive empathy), including criminals and corrupt officials, without feeling sorry for them (sympathy) or feeling the same way (emotional empathy).
 
 For example, an official may have given contracts to people she knew because she was worried about losing their friendship, or it was easier than going through a longer external process, or because she feared for her job and was hoping it might help her get employment if she lost it. These are all motivations we can understand, but we can still see that the resulting actions are immoral and unjustified.
 
@@ -236,6 +236,10 @@ Paul Bloom's book *[Against Empathy](https://www.amazon.co.uk/dp/B01FJ5WB0C/ref=
 Emotional empathy, he argues, reflects our biases, and "distorts our moral judgments in pretty much the same way that prejudice does":
 
 > "Although we might intellectually believe that the suffering of our neighbor is just as awful as the suffering of someone living in another country, it’s far easier to empathize with those who are close to us, those who are similar to us, and those we see as more attractive or vulnerable and less scary. Intellectually, a white American might believe that a black person matters just as much as a white person, but he or she will typically find it a lot easier to empathize with the plight of the latter."
+
+His points on the 'spotlight' effect of empathy also bear repeating, given journalism's fondness for 'shining a spotlight': 
+
+> "A spotlight picks out a certain space to illuminate and leaves the rest in darkness; its focus is narrow. What you see depends on where you choose to point the spotlight, so its focus in vulnerable to your biases ... maybe the right metaphor [for] impartial reasoning is the ugly illumination of a fluourescent light."
 
 Of course journalists exploit this systematically in their reporting: we assign more importance - more newsworthiness - to a local death than to one halfway around the world; but we also are [more likely to report on white victims of crime than black ones](https://www.jstor.org/stable/3648888?seq=1), and cover stories that we feel our audience is going to *empathise* with, in an emotional sense.
 

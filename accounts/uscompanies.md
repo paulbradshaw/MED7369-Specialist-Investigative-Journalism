@@ -51,3 +51,5 @@ Richard Cook is a political donor. He's [listed as a director](https://beta.comp
 That is linked to DDR USA. A search on OpenCorporates takes you to the company DDR International Recycling LLC, and the registry in California. This leads to documents including a filing statement, and the person Gerry Gallagher.
 
 Court records on PACER (signing up involves confirming via post) or Pacermonitor (not free) or Courtlistener (free) shows that the company was involved in a fraud case. Richard Cook is named in the documents.
+
+*UPDATE: In November 2020 a [Guardian story on a collapsed deal for NHS masks appears to use some of these techniques](https://www.theguardian.com/society/2020/nov/03/45m-deal-for-nhs-masks-collapses-amid-claims)*

@@ -23,6 +23,8 @@ We will pick a scope which makes this more practical, and also more newsworthy: 
 
 We will need a list to work from, ideally an [official one](https://www.gov.uk/government/ministers#cabinet-ministers)
 
+You can use this formula to scrape those names: `=importxml("https://www.gov.uk/government/ministers#cabinet-ministers","//li/h3/a")`
+
 And you will need their existing [declarations of interests](https://www.gov.uk/government/publications/list-of-ministers-interests)
 
 ## Allocate the work
@@ -41,7 +43,17 @@ However, in that example we weren't including family members. So we need the fol
 
 ## Fill in the sheet for ministers
 
-Fill in the sheet for 'ministers' (each minister). This might include columns for their role, birthdate, and any other information which might help you match them to companies etc.
+Fill in the sheet for 'ministers' (each minister). This might include columns for their:
+
+* Name
+* Primary role within the cabinet
+* Birthdate
+* Name on Companies House
+* URL on Companies House
+* Notes
+* And any other information which might help you match them to companies etc.
+
+It may be that you put multiple entries for each minister if they have multiple entries on Companies House
 
 ## Fill in the sheet for your minister's family members
 

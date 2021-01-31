@@ -12,6 +12,8 @@ Once created, data can also be exported, which is a good way of getting used to 
 
 You can [find an exercise on getting started with Kumu in this folder](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/networkanalysis/kumuexercise.md).
 
+[This post on Empathy as an investigative tool: how to map systems to come up with story ideas](https://onlinejournalismblog.com/2020/02/19/empathy-investigative-journalism-story-ideas/) covers the same techniques.
+
 ## Customising a network diagram in Kumu: tutorial
 
 I've also [put together a tutorial explaining how to colour code elements in Kumu, and also how to analyse it to identify numbers of connections](https://docs.google.com/document/d/e/2PACX-1vTQVZsPzYX0u-FtCrpWpO7G8nCO35UMoZuQX-T4x7m5P633IV7D28ThsFVg2ptkVvztoaJVcpR8Hd2G/pub)

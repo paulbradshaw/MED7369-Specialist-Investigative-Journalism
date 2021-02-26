@@ -52,6 +52,14 @@ If you are dealing with numbers make sure you type ONLY numbers - NOT combinatio
 
 Consider what you're going to need to do with the data, e.g. calculate a difference? Sort from largest to smallest? It will need to be stored in a way that makes that possible (i.e. stored as numbers, not text)
 
+## Collect the information
+
+You now need to check each charity's annual accounts to get the information you're collecting. You could type each name into the Companies House or Charity Commission search engine - but if you have their charity numbers then sometimes you can generate the URLs more quickly by putting them in the right place in a particular URL, e.g. 
+
+The charity number for the RSPB is 207076 - you can get the returns by just putting it in the URL in the place where it appears below:
+
+`https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/207076/accounts-and-annual-returns`
+
 ## Perform the analysis
 
 Once you have all the data you can then analyse it. For example:

@@ -18,6 +18,8 @@ You can then [sort those results to bring the biggest ones to the top](https://r
 
 You now have a list of the top 10, 20 or more charities to focus your reporting on.
 
+[Here's a list of the top 20 environmental charities, for example](https://register-of-charities.charitycommission.gov.uk/charity-search/-/results/page/1/delta/20/sorted-by/charity-income/desc).
+
 ## Now pick an angle
 
 Decide what you're interested in about these charities. Here are just a few angles:

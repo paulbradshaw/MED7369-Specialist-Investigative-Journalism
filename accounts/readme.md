@@ -55,7 +55,7 @@ You will find [links to examples in this repo](https://github.com/paulbradshaw/M
 
 ## Exercises and ideas
 
-* [Look at the return of payday loans by compiling data on the main companies' growth](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/accounts/paydayexercise.md)
+* [Look at the return of payday loans by compiling data on the main companies' growth](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/accounts/exercises/paydayexercise.md)
 * Pick an author or celebrity and write about **how their company's income has changed** over the years (e.g. [Fifty Shades Ltd](https://beta.companieshouse.gov.uk/company/07934674/filing-history))
 * Pick a council and explain what they have spent their money on. [Here is how we did that with Sutton Coldfield Town Council](https://github.com/Birmingham-Eastside/sutton-coldfield-town-council)
 * Look at the declarations of interest for people on a public body. Write an explainer along the lines of **'These are the companies that X have an interest in'** or '**We looked at the companies that X have an interest in. This is what we found'**. Check their accounts for **related party transactions**. Use public expenditure data, or data through FOI, to see if any of those companies have a commercial relationship with the organisation. Examples include:

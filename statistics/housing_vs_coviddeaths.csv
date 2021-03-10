@@ -1,0 +1,338 @@
+Local authority,% overcrowded,COVID-19 death rate
+Newham,25.2,144.3
+Brent,17.7,141.5
+Tower Hamlets,16.4,122.9
+Haringey,15.92,119.3
+Waltham Forest,15.39,92.5
+Southwark,15.34,108.1
+Hackney,15.25,127.4
+Ealing,13.95,103.2
+Barking and Dagenham,13.48,89.2
+Lambeth,13.23,104.3
+Slough,12.65,69.9
+Hounslow,12.62,69.2
+Hammersmith and Fulham,12.24,96.4
+Lewisham,12.08,106.4
+Camden,11.68,55.2
+Enfield,11.22,91.3
+Luton,10.91,71.7
+Greenwich,10.9,84.6
+Westminster,10.88,72.3
+Redbridge,10.82,82.9
+Islington,10.66,80.7
+Harrow,10.36,114.7
+Barnet,10.03,91.6
+Leicester,9.79,38.6
+Hillingdon,9.73,73
+Croydon,9.64,88
+Merton,9.16,83
+Birmingham,8.87,77.5
+Wandsworth,8.77,80.2
+Kensington and Chelsea,8.33,66.8
+Manchester,7.76,59.8
+Watford,6.72,79.8
+Sandwell,6.71,70.1
+Oldham,6.64,66
+Brighton and Hove,6.22,27.1
+Bradford,6.21,34.8
+Blackburn with Darwen,6.18,29.3
+Rushmoor,6.02,26.3
+Reading,6.01,51.5
+Nottingham,6.01,36.8
+Oxford,5.99,34.4
+City of London,5.88,35.2
+Wolverhampton,5.87,67.9
+Southampton,5.84,33.1
+Kingston upon Thames,5.78,42.9
+Harlow,5.57,55.1
+Cambridge,5.5,21.8
+Crawley,5.45,33.3
+Thurrock,5.42,45.7
+Rochdale,5.36,54.8
+Coventry,5.36,54.3
+Gravesham,5.31,42.5
+Sutton,5.28,56.7
+Pendle,5.17,38
+"Bristol, City of",5.17,28.2
+Peterborough,5.14,14.4
+Broxbourne,5.14,42.7
+Walsall,5.09,64.7
+Derby,5,63
+Portsmouth,5,29.6
+Milton Keynes,4.97,53.8
+Kirklees,4.78,31.1
+Hertsmere,4.75,95
+Southend-on-Sea,4.75,42.9
+Dartford,4.75,51.8
+Sheffield,4.73,33
+Welwyn Hatfield,4.72,41.3
+Bexley,4.72,54.8
+Hyndburn,4.63,25.6
+Bolton,4.61,44.7
+Wycombe,4.59,29.6
+Middlesbrough,4.54,79
+Woking,4.54,19.9
+Cardiff,4.44,53.1
+Preston,4.42,33.8
+Newcastle upon Tyne,4.41,41.1
+Stoke-on-Trent,4.4,21.2
+Northampton,4.37,39.7
+Spelthorne,4.32,39.5
+Merthyr Tydfil,4.31,47.3
+Liverpool,4.3,81.8
+"Kingston upon Hull, City of",4.26,16.7
+Redditch,4.23,29.4
+Salford,4.16,92.6
+Knowsley,4.12,40.5
+Bedford,4.12,31.8
+Burnley,4.11,31.9
+Boston,4.02,21.7
+Havering,4.01,64.6
+Bromley,3.99,47.9
+Tameside,3.94,54.2
+Medway,3.93,37.1
+Plymouth,3.85,10.2
+Eastbourne,3.83,15.5
+Gloucester,3.82,42.8
+Richmond upon Thames,3.78,47
+Tunbridge Wells,3.77,13.5
+Stevenage,3.77,22
+Basildon,3.74,45.6
+"Bournemouth, Christchurch, Poole",3.71,12.6
+Leeds,3.69,33.8
+Aylesbury Vale,3.64,26.5
+Windsor and Maidenhead,3.61,38.8
+Dudley,3.61,47.6
+Three Rivers,3.6,36.8
+Lincoln,3.59,9.8
+Great Yarmouth,3.57,18.1
+Thanet,3.56,24.3
+Newport,3.53,56.5
+Hastings,3.53,6.4
+Havant,3.52,27.5
+Ipswich,3.52,33.4
+York,3.51,21.1
+Reigate and Banstead,3.51,56.7
+Bury,3.49,48.3
+Gateshead,3.48,48.2
+Canterbury,3.47,18.2
+Guildford,3.45,18.5
+Maidstone,3.43,18.3
+Folkestone and Hythe,3.43,16.4
+Sunderland,3.43,62.8
+Telford and Wrekin,3.42,22.8
+Wrexham,3.42,9.4
+Rossendale,3.41,16.5
+South Tyneside,3.36,27.3
+Epsom and Ewell,3.35,53.6
+Swale,3.35,30.1
+Gosport,3.34,32.1
+Blaenau Gwent,3.34,51.6
+Runnymede,3.34,33
+Swindon,3.33,35.3
+Cheltenham,3.33,50.1
+Exeter,3.31,22.3
+Worthing,3.29,11.7
+Calderdale,3.28,27.6
+St Albans,3.28,42.7
+Fenland,3.27,18.2
+Epping Forest,3.26,62.1
+Trafford,3.24,31
+Doncaster,3.21,19.4
+Dacorum,3.2,36.8
+West Suffolk,3.19,8.6
+Brentwood,3.17,43.6
+Swansea,3.15,29.4
+Oadby and Wigston,3.13,33.4
+East Staffordshire,3.12,49.4
+Torfaen,3.12,41.1
+Rotherham,3.06,37.7
+South Holland,3.05,13.8
+Dover,3.04,19.1
+Tandridge,3.03,27.8
+Caerphilly,3.02,48.2
+Cherwell,3,29.9
+Cannock Chase,3,38.7
+Corby,2.99,27
+Mansfield,2.98,37.6
+Stockton-on-Tees,2.98,21
+Worcester,2.96,20.7
+Blackpool,2.94,22.7
+"Herefordshire, County of",2.93,11.1
+Arun,2.93,8.5
+Stockport,2.93,42.4
+Denbighshire,2.92,17.5
+Ashford,2.91,21.9
+Warwick,2.9,23.6
+Bracknell Forest,2.9,29
+Bath and North East Somerset,2.88,21.6
+Colchester,2.87,20.7
+Sefton,2.86,37.1
+Halton,2.85,46.6
+Flintshire,2.84,28
+St. Helens,2.83,37.6
+North Hertfordshire,2.8,21.6
+Surrey Heath,2.8,17.5
+Norwich,2.78,2.5
+North Lincolnshire,2.77,6.6
+Castle Point,2.76,29.4
+Winchester,2.75,20.6
+Darlington,2.72,22.9
+Lewes,2.71,23.9
+King's Lynn and West Norfolk,2.7,23
+Tamworth,2.69,51.6
+Wakefield,2.69,42.1
+Wigan,2.68,36.1
+Ceredigion,2.68,5.4
+Chelmsford,2.68,32
+Tonbridge and Malling,2.68,16.3
+Nuneaton and Bedworth,2.66,43.6
+Elmbridge,2.66,35.3
+Newcastle-under-Lyme,2.65,32.3
+Hartlepool,2.65,31
+Mole Valley,2.64,39.8
+Solihull,2.63,46.1
+Conwy,2.59,6.8
+Gwynedd,2.59,17.1
+Breckland,2.58,11.7
+Chiltern,2.58,44.1
+Torbay,2.57,12.2
+Rhondda Cynon Taff,2.57,50.9
+South Bucks,2.57,29.6
+Rochford,2.57,33.2
+Neath Port Talbot,2.57,22.7
+Central Bedfordshire,2.56,33.7
+Broxtowe,2.55,29.4
+East Hertfordshire,2.55,31.1
+Isle of Wight,2.54,8.6
+High Peak,2.53,38.8
+Scarborough,2.53,17.3
+Ashfield,2.53,40.8
+Tendring,2.53,23.1
+Braintree,2.52,21.8
+North Warwickshire,2.52,35.2
+Lancaster,2.52,23.9
+Charnwood,2.51,24.5
+Cornwall,2.51,13.9
+Adur,2.5,12.1
+North East Lincolnshire,2.5,9.8
+Sevenoaks,2.46,29.5
+Eastleigh,2.46,16.5
+Somerset West and Taunton,2.45,5.5
+Pembrokeshire,2.42,7.4
+Wellingborough,2.41,22.8
+South Oxfordshire,2.41,22.8
+Warrington,2.41,39.2
+Mid Sussex,2.41,36.2
+Bridgend,2.39,31.1
+South Gloucestershire,2.39,24.1
+Chesterfield,2.39,23.3
+Carmarthenshire,2.38,11.6
+Wyre Forest,2.38,37.3
+Lichfield,2.37,45.3
+Waverley,2.36,21.4
+Barnsley,2.36,31.8
+Bolsover,2.36,17.9
+Rugby,2.35,21.1
+Redcar and Cleveland,2.34,26.5
+Test Valley,2.33,12.9
+Wiltshire,2.32,21.7
+Rother,2.32,8.1
+Huntingdonshire,2.3,13.8
+Basingstoke and Deane,2.3,30.5
+County Durham,2.29,43.1
+Harrogate,2.28,23.1
+Cheshire West and Chester,2.28,31
+East Hampshire,2.28,19.2
+Chichester,2.27,15.8
+Mendip,2.27,5.9
+Shropshire,2.26,14.9
+West Berkshire,2.26,37.1
+East Cambridgeshire,2.26,25.4
+Amber Valley,2.25,27.7
+Wirral,2.24,47.6
+Wychavon,2.22,24.4
+Horsham,2.21,18.2
+New Forest,2.21,14.4
+North Tyneside,2.21,20.5
+Uttlesford,2.21,23.8
+Erewash,2.19,29.9
+Sedgemoor,2.19,14.4
+West Lancashire,2.18,38
+Carlisle,2.17,33.9
+South Staffordshire,2.16,34.3
+Wealden,2.16,15.6
+Barrow-in-Furness,2.13,58
+Vale of Glamorgan,2.12,32.3
+South Somerset,2.12,7.9
+Dorset,2.11,10.8
+Chorley,2.11,37.4
+South Cambridgeshire,2.1,14.2
+Forest of Dean,2.1,19.9
+Bassetlaw,2.09,12
+Stroud,2.09,27.6
+Copeland,2.04,39.9
+Cheshire East,2.03,35.3
+Northumberland,2.03,22.9
+Hart,2.03,21.9
+Powys,2.02,17.1
+Kettering,2.02,22.4
+Monmouthshire,2.02,23.9
+West Oxfordshire,2.01,30.8
+Richmondshire,2.01,15.6
+South Ribble,2,26
+Selby,1.99,15.1
+Vale of White Horse,1.97,46.4
+Mid Devon,1.95,5.9
+Stafford,1.94,20.4
+North East Derbyshire,1.93,42.3
+Wokingham,1.93,32
+East Lindsey,1.92,6.3
+Staffordshire Moorlands,1.91,20.6
+North West Leicestershire,1.91,33.8
+East Riding of Yorkshire,1.91,13.9
+Fareham,1.89,34.3
+North Devon,1.89,8.6
+Wyre,1.88,12.4
+Gedling,1.88,35.2
+Teignbridge,1.85,8.5
+North Norfolk,1.85,9.8
+East Suffolk,1.84,19
+Newark and Sherwood,1.77,26
+Blaby,1.77,18.5
+Tewkesbury,1.77,34.4
+South Derbyshire,1.75,39.4
+North Somerset,1.74,10
+East Northamptonshire,1.74,39.6
+Hinckley and Bosworth,1.73,18
+Malvern Hills,1.73,18.6
+Craven,1.72,33.6
+East Devon,1.72,4.8
+Maldon,1.72,18.3
+Bromsgrove,1.72,46.5
+Cotswold,1.71,19.4
+Ryedale,1.7,12.2
+Allerdale,1.69,28.4
+Daventry,1.65,27.2
+Rushcliffe,1.65,22.3
+Torridge,1.64,9.2
+South Hams,1.64,4
+Stratford-on-Avon,1.63,26.8
+Derbyshire Dales,1.61,25.8
+Mid Suffolk,1.61,17.5
+West Devon,1.61,7.3
+Ribble Valley,1.58,11.2
+Melton,1.56,30.8
+Babergh,1.54,12.1
+Harborough,1.51,16.6
+Eden,1.49,22.7
+South Kesteven,1.48,8.4
+South Norfolk,1.43,8.5
+South Lakeland,1.41,54
+Hambleton,1.4,22.9
+Fylde,1.39,19.5
+West Lindsey,1.24,3.6
+Rutland,1.23,7.1
+Broadland,1.18,10.3
+South Northamptonshire,1.18,24.1
+North Kesteven,1.13,17.2

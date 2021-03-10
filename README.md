@@ -39,32 +39,32 @@ The week also looks at how you can use systems of accountability and measurement
 * Directed study 1: Project research and initial hypothesis
 * Directed study 2: Scoping document, data and human sources
 
-### 3: Pitching stories — and two-ways
+### 3: Telling stories with video
 
 By the end of this week you should be able to script and do two-ways about a specialist story or investigation for broadcast. You should also be able to identify the elements of a good pitch - and write one.
 
 * Workshop: Scripting and delivering two-ways
 * Workshop: Narrowing story ideas to pitches
-* Read: Bradshaw, P (2015) [Scraping for Journalists](https://leanpub.com/scrapingforjournalists), Leanpub - free copy for students
 * Watch: [playlist of two-ways](https://www.youtube.com/watch?v=xm_XKZDTNng&list=PLD1sPR1niPYz9ctv1okMEKL-V9f5Spka8) and [BBC News at One](https://www.bbc.co.uk/programmes/b007mpl9) - look for examples of two-ways in recent bulletins and think about: is it done off the back of a package? What is the cue? What illustration is used (in studio, clips, graphics etc)? Where do they refer to notes?
 * Directed study: Continued work on feature
 
-### 4: Coding for journalists
+### 4: Producing in-depth features for TV
+
+Telling an in-depth story presents particular challenges in terms of selecting, organising and combining elements. This week is devoted to exploring those techniques with regard to your own stories. By the end of the week you should have a broad outline of your story and the elements needed to complete it, and tell it, for TV.
+
+* Workshop: [story development](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/storytelling.md)
+* Read: Atton & Hamilton (2008) Alternative Journalism
+* Directed study: Storyboarding/drafting of project narrative(s)
+* Read: Bradshaw, P (2015) [Scraping for Journalists](https://leanpub.com/scrapingforjournalists), Leanpub - free copy for students
+
+### 5: Coding for journalists
 
 This week introduces you to basic coding techniques and applies those to a useful technique: scraping. By the end of this week you should be able to identify opportunities for using coding in your field, and explain basic coding concepts such as variables, loops, functions and libraries.
 
 * [Folder for this week](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/python)
 * Workshop: Reporting crime, environment or food using APIs - [see Python folder](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/python)
 * Read: Bradshaw, P (2015) [Scraping for Journalists](https://leanpub.com/scrapingforjournalists), Leanpub
-* Directed study: Gathering data and FOIs
-
-### 5: Information problems
-
-This week builds on basic coding techniques and applies those to a useful information gathering technique: scraping. By the end of this week you should be able to identify opportunities for scraping, including more APIs which provide or can complement data in your field.
-
-* Workshop: Python, scraping and APIs - [see Python folder](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/python)
-* Read: Shaw, Zed A. (2013) [Learn Python the Hard Way](https://learnpythonthehardway.org/)
-* Directed study: Compiling/analysing data
+* Directed study: Identifying potential targets for scrapers; working on coding
 
 ### 6: Following the money: accounts
 
@@ -75,7 +75,15 @@ Company accounts are an excellent source of news stories, and a key resource in 
 * Read: Bairoliya, Raj (2012) The Investigative Journalist's Guide to Company Accounts, CIJ
 * Directed study: Accounts research/interview planning and research
 
-### 7: Statistics for journalists - and cognitive bias
+### 7: Information problems
+
+This week we review the code produced after the previous coding class and look at more scraping techniques. 
+
+* Workshop: Python, scraping and APIs - [see Python folder](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/python)
+* Read: Shaw, Zed A. (2013) [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+* Directed study: Compiling/analysing data
+
+### 8: Statistics for journalists - and cognitive bias
 
 Statistical literacy is important in being able to report stories accurately. In this week we focus on some common statistical issues as well as techniques for using statistical methods in your own reporting. By the end of the week you should be able to articulate basic statistical concepts and undertake basic statistical analysis.
 
@@ -89,13 +97,6 @@ Statistical literacy is important in being able to report stories accurately. In
 * Listen: [More or Less: The Simpson’s Paradox](https://www.bbc.co.uk/programmes/p03sm8vw): consider 2 things: firstly Simpson's Paradox, but secondly: how audio can be used creatively to demonstrate something (the choir).
 * Directed study: Data analysis/interview planning and research
 
-### 8: Producing in-depth features for TV
-
-Telling an in-depth story presents particular challenges in terms of selecting, organising and combining elements. This week is devoted to exploring those techniques with regard to your own stories. By the end of the week you should have a broad outline of your story and the elements needed to complete it, and tell it, for TV.
-
-* Workshop: [story development](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/storytelling.md)
-* Read: Atton & Hamilton (2008) Alternative Journalism
-* Directed study: Storyboarding/drafting of project narrative(s)
 
 ### 9: Project surgery - longform and immersive storytelling
 

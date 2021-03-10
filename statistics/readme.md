@@ -8,6 +8,14 @@ The University and College Union commissioned [this research](https://londonecon
 
 (You can see how [The Guardian reported it here](https://www.theguardian.com/education/2020/may/20/uk-universities-facing-760m-hit-one-in-five-students-plan-defer?CMP=share_btn_tw))
 
+## Exercise: is overcrowding correlated with covid death rates?
+
+![](https://raw.githubusercontent.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/master/statistics/coviddeathshousing_scatterplot.png)
+
+That's what [this story suggests](https://www.insidehousing.co.uk/insight/the-housing-pandemic-four-graphs-showing-the-link-between-covid-19-deaths-and-the-housing-crisis-66562). The data is in this folder - can you calculate a correlation coefficient using the `CORREL` function?
+
+Does that mean poor housing causes those deaths? Or could there be other related factors?
+
 ## Exercise: recreate a regression analysis from a crime story
 
 [This investigation by the BBC England Data Unit](http://www.bbc.co.uk/news/uk-england-40131277) used regression - you can [recreate the steps taken by following the description](https://github.com/BBC-Data-Unit/unsolved-crime/blob/master/regression.md)

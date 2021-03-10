@@ -1,0 +1,310 @@
+Local authority,"HMOs per 100,000 dwellings",COVID-19 death rate
+Ealing,15296.89255,103.2
+Brent,14307.13503,141.5
+Enfield,11291.3486,91.3
+Haringey,10108.43595,119.3
+Oxford,8894.924461,34.4
+Southwark,8686.169813,108.1
+Lambeth,8553.710172,104.3
+Exeter,8074.670571,22.3
+Westminster,7891.735604,72.3
+Hammersmith & Fulham,7676.423871,96.4
+Camden,7635.773599,55.2
+Reading,7544.263711,51.5
+Tower Hamlets,7498.750208,122.9
+Liverpool,7274.090408,81.8
+Newcastle upon Tyne,7225.304361,41.1
+Kingston upon Thames,7149.240393,42.9
+Canterbury,6644.027757,18.2
+Leeds,6338.231057,33.8
+Slough,6335.988414,69.9
+Bristol,6311.689617,28.2
+Waltham Forest,5775.987576,92.5
+Greenwich,5758.327427,84.6
+Newham,5678.343671,144.3
+Southampton,5634.861007,33.1
+Preston,5527.479469,33.8
+Cambridge,5461.071231,21.8
+Cheltenham,5422.993492,50.1
+Brighton & Hove,5231.191223,27.1
+Welwyn Hatfield,4938.818565,41.3
+Lewisham,4743.457981,106.4
+Norwich,4578.055852,2.5
+Nottingham,4570.033523,36.8
+Kensington & Chelsea,4565.688848,66.8
+Hillingdon,4554.563673,73
+Wolverhampton,4542.151163,67.9
+York,4465.282429,21.1
+Sheffield,4456.508528,33
+Bath & North East Somerset,4387.415176,21.6
+Portsmouth,4327.188431,29.6
+Guildford,4299.9656,18.5
+Blackpool,4296.763105,22.7
+Plymouth,4213.009774,10.2
+Coventry,3968.423298,43.1
+Lancaster,3955.0704,23.9
+Barnet,3933.925965,91.6
+Hackney,3921.301345,127.4
+Runnymede,3905.817175,33
+Redbridge,3849.114704,82.9
+Kingston upon Hull,3480.855296,16.7
+Thanet,3460.33636,24.3
+Charnwood,3365.526492,24.5
+Worcester,3275.10917,20.7
+Sandwell,3252.920649,70.1
+Sunderland,3197.215051,62.8
+Watford,3172.137309,79.8
+Northampton,3104.625893,39.7
+Cherwell,2991.22942,29.9
+Peterborough,2978.033849,14.4
+Stevenage,2796.655879,22
+Wycombe,2731.121125,29.6
+Stroud,2675.207234,27.6
+Manchester,2670.821278,59.8
+Salford,2582.200034,92.6
+Hastings,2532.217952,6.4
+Boston,2524.402558,21.7
+Central Bedfordshire,2521.593291,33.7
+Luton,2518.891688,71.7
+Colchester,2482.313516,20.7
+Warwick,2431.421446,23.6
+Merton,2419.928826,83
+South Oxfordshire,2366.261897,22.8
+Vale of White Horse,2344.130965,46.4
+Folkestone & Hythe1,2238.517947,16.4
+Torbay,2216.525935,12.2
+Leicester,2197.081368,38.6
+Sefton,2175.632911,37.1
+"Bournemouth, Christchurch, Poole",2087.237657,12.6
+North Somerset,2073.3983,10
+Eastbourne,2049.180328,15.5
+South Gloucestershire,1934.28499,24.1
+Corby,1882.916809,27
+Croydon,1881.23158,33.3
+Herefordshire,1863.354037,11.1
+Southend-on-Sea,1858.505761,42.9
+Newark & Sherwood,1840.833023,26
+Hounslow,1836.410562,69.2
+Birmingham,1829.198582,77.5
+Derby,1816.860465,27.2
+Rushmoor,1814.964611,26.3
+Stratford-on-Avon,1801.200801,26.8
+Rugby,1732.726879,21.1
+Walsall,1697.263595,64.7
+Tunbridge Wells,1673.557787,13.5
+Dover,1666.358424,10.8
+Basildon,1619.256018,45.6
+Cheshire West & Chester,1584.346505,31
+Worthing,1583.21789,11.7
+City of London,1550.387597,35.2
+Dartford,1479.481641,22.9
+Bromley,1457.763707,47.9
+Sutton,1446.131598,56.7
+Gloucester,1424.501425,42.8
+Wirral,1415.666712,47.6
+Dacorum,1405.123485,88
+North Devon,1362.380446,8.6
+East Hertfordshire,1343.211467,31.1
+Doncaster,1319.067859,25.8
+Great Yarmouth,1312.910284,18.1
+South Northamptonshire,1294.267516,24.1
+Middlesbrough,1275.510204,79
+Scarborough,1275.510204,17.3
+Fylde,1243.325706,19.5
+St Albans,1241.310824,42.7
+South Holland,1237.930181,13.8
+Ipswich,1231.824865,33.4
+Bexley,1225.615361,54.8
+Newcastle-under-Lyme,1221.887728,32.3
+Harrow,1213.056903,114.7
+Arun,1206.272618,8.5
+Trafford,1129.943503,31
+Crawley,1123.767798,33.6
+Chelmsford,1121.224113,32
+Fenland,1118.818528,18.2
+Woking,1107.721192,19.9
+Darlington,1083.103584,36.8
+Thurrock,1039.655428,45.7
+Chichester,1031.759958,15.8
+Spelthorne,1009.863786,39.5
+North East Lincolnshire,1003.881676,9.8
+West Lancashire,1002.204851,38
+East Northamptonshire,999.7500625,39.6
+Sevenoaks,990.8475925,29.5
+Carlisle,990.0056572,33.9
+South Norfolk,988.3050568,8.5
+Wakefield,956.3088027,42.1
+Bedford,938.0888291,31.8
+Shropshire,936.179059,14.9
+Harlow,935.3287012,55.1
+Ashford,934.2301943,21.9
+Epsom & Ewell,925.9259259,53.6
+Gravesham,924.2144177,42.5
+Hertsmere,916.5902841,95
+Waverley,879.820292,21.4
+Telford & Wrekin,861.9546479,22.8
+Broxtowe,859.437751,29.4
+Swindon,817.745068,35.3
+East Staffordshire,770.8614377,49.4
+Eden,754.147813,22.7
+Isle of Wight,738.8462631,8.6
+Sedgemoor,731.5288954,14.4
+Eastleigh,707.8393205,16.5
+Lincoln,704.576348,9.8
+Milton Keynes,696.2138884,53.8
+Stoke-on-Trent,693.8421509,21.2
+Dorset,693.312493,19.4
+Kirklees,692.8529553,31.1
+Tamworth,667.8809957,51.6
+High Peak,665.2462121,38.8
+Huntingdonshire,659.1957811,13.8
+Bradford,658.4400466,34.8
+Redcar & Cleveland,646.9212783,26.5
+Bolton,645.6820016,44.7
+Durham,637.1637536,47.6
+Oldham,631.7119394,66
+Dudley,628.3403149,19.1
+Mid Sussex,627.0575325,36.2
+Aylesbury Vale,622.9753302,26.5
+Mansfield,616.1429452,37.6
+Bracknell Forest,606.305578,29
+Kettering,604.0268456,22.4
+East Riding of Yorkshire,597.672224,13.9
+Stafford,590.8203125,20.4
+East Cambridgeshire,587.2931127,25.4
+Wellingborough,573.3944954,22.8
+Daventry,563.5390251,51.8
+Maidstone,563.4596422,18.3
+Redditch,543.3306167,29.4
+Wychavon,542.9071804,24.4
+Cornwall,540.7938854,13.9
+Harrogate,524.8618785,23.1
+Ashfield,517.6722599,40.8
+Wyre,509.5174005,12.4
+Chesterfield,505.2546483,23.3
+Rushcliffe,500.3001801,22.3
+South Lakeland,495.5847901,54
+Uttlesford,494.1938968,23.8
+Broxbourne,493.0966469,42.7
+Warrington,489.0241252,39.2
+Bury,477.8972521,48.3
+Calderdale,474.0334984,27.6
+Teignbridge,469.7554698,8.5
+Mid Devon,466.9046965,5.9
+Torridge,446.2102689,9.2
+West Berkshire,441.826215,37.1
+Lewes,439.5604396,23.9
+Stockton-on-Tees,432.8150383,21
+East Suffolk,426.7668146,19
+Cheshire East,417.1660104,35.3
+Swale,407.7638232,30.1
+East Devon,404.33213,4.8
+South Kesteven,396.1965135,8.4
+Barnsley,390.4339161,31.8
+Islington,389.0293717,80.7
+Selby,381.8737271,15.1
+Epping Forest,372.7369542,62.1
+New Forest,366.6137114,14.4
+Adur,352.1126761,12.1
+Elmbridge,348.3106931,35.3
+Wigan,343.3358511,36.1
+Ryedale,339.3665158,12.2
+Surrey Heath,324.369282,17.5
+Allerdale,322.6486714,28.4
+Bassetlaw,313.0434783,12
+Tonbridge & Malling,303.1409788,16.3
+Brentwood,301.6591252,43.6
+West Oxfordshire,301.3926419,30.8
+Barrow-in-Furness,299.4908655,58
+Hinckley & Bosworth,298.0329823,18
+North Lincolnshire,278.6540484,6.6
+Test Valley,275.4820937,12.9
+South Bucks,273.0375427,29.6
+Medway Towns,262.0087336,37.1
+Rotherham,258.6652871,37.7
+South Somerset,258.2644628,7.9
+Barking & Dagenham,256.2733582,89.2
+Burnley,244.9179525,31.9
+Rother,244.7629548,8.1
+Tameside,239.3746947,54.2
+West Suffolk,238.8514801,8.6
+St Helens,234.9521618,37.6
+Wyre Forest,234.6416382,37.3
+Richmond upon Thames,233.7326756,47
+Bolsover,223.0275997,17.9
+Wiltshire,221.3511644,21.7
+Lichfield,221.2878956,45.3
+South Hams,220.2158115,4
+Melton,217.7700348,30.8
+Tendring,214.8831843,23.1
+Harborough,214.5045965,16.6
+South Tyneside,207.31877,27.3
+Basingstoke & Deane,200.6688963,30.5
+Blackburn with Darwen,197.3684211,29.3
+King's Lynn & West Norfolk,195.1854262,23
+Gateshead,194.8674263,48.2
+Nuneaton & Bedworth,194.5181256,43.6
+West Devon,187.5732708,7.3
+Breckland,183.757178,11.7
+Rochdale,183.0515775,54.8
+Cotswold,181.2825742,19.4
+Stockport,180.7462571,42.4
+North Kesteven,177.6549546,17.2
+Maldon,177.0538244,18.3
+Pendle,174.7815231,38
+North Hertfordshire,174.6724891,21.6
+Erewash,167.0827732,29.9
+North Tyneside,150.1623377,20.5
+Copeland,150.060024,39.9
+Hyndburn,149.7005988,25.6
+Braintree,145.9741856,21.8
+Malvern Hills,140.1345291,18.6
+South Cambridgeshire,136.9244658,14.2
+East Lindsey,131.7152583,6.3
+Forest of Dean,130.9586171,19.9
+East Hampshire,129.5978654,19.2
+Castle Point,129.4330831,29.4
+Horsham,127.2551546,18.2
+Hart,126.5502404,21.9
+Chiltern,125.8178158,44.1
+Richmondshire,125.052105,15.6
+North Warwickshire,124.2456514,35.2
+Hambleton,123.9570918,22.9
+Babergh,122.9407426,12.1
+Mendip,119.4835228,5.9
+Craven,116.7728238,54.3
+Solihull,109.1464746,46.1
+Havant,108.2837033,27.5
+Cannock Chase,105.6742476,38.7
+Somerset West and Taunton,104.8565121,5.5
+Fareham,100.1803246,34.3
+Northumberland,96.71803469,22.9
+Tandridge,96.47188534,27.8
+Mid Suffolk,89.66599417,17.5
+Amber Valley,86.91117678,27.7
+Broadland,80.72827207,10.3
+Halton,77.54609685,46.6
+Blaby,74.40130202,18.5
+Bromsgrove,72.39382239,46.5
+Wealden,72.26477815,15.6
+Gedling,72.22961414,35.2
+Derbyshire Dales,71.98387561,63
+South Ribble,70.39420756,26
+Hartlepool,68.36827712,31
+Three Rivers,66.54245409,36.8
+Mole Valley,65.01950585,39.8
+Knowsley,60.90133983,40.5
+North Norfolk,60.61686575,9.8
+Rutland,57.63688761,7.1
+Chorley,54.85893417,37.4
+Reigate & Banstead,51.29902366,56.7
+Rossendale,49.92199688,16.5
+Rochford,47.59238522,33.2
+Havering,45.10246103,64.6
+Staffordshire Moorlands,44.96402878,20.6
+Oadby & Wigston,34.52740613,33.4
+Ribble Valley,29.68460111,11.2
+Tewkesbury,24.21893921,34.4
+West Lindsey,23.66303833,3.6
+South Derbyshire,22.65005663,39.4
+Wokingham,22.32807383,32

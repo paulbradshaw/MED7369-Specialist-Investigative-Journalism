@@ -38,7 +38,7 @@ The second approach that courts take is the "shopping mall" approach - "What's l
 
 Competition law is important. It can be designed to protect the secondary markets from the dominant upstream market. In other words if the online platform is big enough it cannot foreclose access to the public domain for smaller competitors who would create products in the secondary market. Skyscanner is an example of [a competitor in] the secondary market, as is Expedia. 
 
-Robot.txt
+Also, of course, the [Robots.txt](https://developers.google.com/search/docs/advanced/robots/intro) file
 
 ## Good practice
 

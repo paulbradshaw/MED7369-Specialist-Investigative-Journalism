@@ -1,5 +1,7 @@
 # The 7 habits of successful journalists
 
+[A longer version of this can be found in a series of posts on the Online Journalism Blog](https://onlinejournalismblog.com/tag/7-habits/).
+
 You will often hear journalists talk about the personal qualities of good reporters - things like stubbornness or scepticism - that employers look for when hiring. Sometimes they will say that these things are 'innate' or "can't be taught". This is rubbish. Over the years I've thought about these qualities a lot, and how to develop them in students.
 
 Here, then, is a list of 7 habits that I believe the best journalism demonstrates, and good journalists develop. These are not 'personal qualities' that "cannot be taught": those that promote this view of journalism are, I believe, either demonstrating arrogance in saying so, or laziness in failing to see that these qualities can, and are, taught around the world outside of journalism education.

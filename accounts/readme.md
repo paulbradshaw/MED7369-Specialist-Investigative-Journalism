@@ -6,6 +6,7 @@ Company accounts can be a great source of stories, or a useful resource to provi
 
 * Company/director says something newsworthy
 * Conflicts of interest, abuse of power, such as in "[Urban Outreach funded Westhoughton care home](https://www.theboltonnews.co.uk/news/17707979.bolton-urban-outreach-funded-westhoughton-woodlands-care-home/)" and [this follow-up: Urban Outreach cleared for Westhoughton care home investment](https://www.theboltonnews.co.uk/news/17713657.urban-outreach-cleared-for-westhoughton-care-home-investment/) or [this Guardian story on the betting company owners who are making money from a company being paid by the NHS to treat gambling addiction](https://www.theguardian.com/society/2020/jan/16/betfred-owners-make-millions-from-company-treating-gambling-addicts)
+* [Money taken out of a company to other companies owned by directors](https://www.theguardian.com/culture/2021/may/24/essex-family-behind-onlyfans-profit-from-pornography-boom)
 * Context to news story 
   * e.g. what did the Grenfell Tower company say in their accounts [here](https://www.theguardian.com/business/2018/mar/08/rydon-profit-rises-grenfell-tower-contractor) and [here](https://www.insidehousing.co.uk/news/news/rydon-makes-no-grenfell-provision-in-accounts-60648); 
   * e.g. [how much money has Richard Branson's Virgin Group made from rail franchises](https://www.theguardian.com/business/2019/apr/11/richard-branson-earned-300m-virgin-rail-franchises))
@@ -55,6 +56,7 @@ You will find [links to examples in this repo](https://github.com/paulbradshaw/M
 
 ## Exercises and ideas
 
+* [Read this thread where I reverse-engineer a story](https://twitter.com/paulbradshaw/status/1397164350851502084)
 * [Look at the return of payday loans by compiling data on the main companies' growth](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/accounts/exercises/paydayexercise.md)
 * Pick an author or celebrity and write about **how their company's income has changed** over the years (e.g. [Fifty Shades Ltd](https://beta.companieshouse.gov.uk/company/07934674/filing-history))
 * Pick a council and explain what they have spent their money on. [Here is how we did that with Sutton Coldfield Town Council](https://github.com/Birmingham-Eastside/sutton-coldfield-town-council)

@@ -29,6 +29,7 @@ A [summary of key points and be found here](https://github.com/paulbradshaw/MED7
 * [Companies House](https://beta.companieshouse.gov.uk/)
 * [Charity Commission](http://beta.charitycommission.gov.uk/)
 * [Open Corporates](https://opencorporates.com/)
+* [OpenOwnership Register](https://register.openownership.org/)
 * The [Investigative Dashboard database of business registries](https://investigativedashboard.org/databases/topics/business) (and other databases)
 * [OpenGazettes](http://opengazettes.com/)
 * [Arachnys Compass](https://compass.arachnys.com)

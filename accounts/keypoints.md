@@ -1,6 +1,6 @@
 # Company accounts: key points
 
-Below are some of the key points to remember when dealing with company accounts in the UK.
+Below are some of the key points to remember when dealing with company accounts in the UK. Corporate Watch's [page on understanding company accounts](https://corporatewatch.org/understanding-company-accounts/) provides some useful explanation and walkthroughs too.
 
 ## Company accounts: ingredients
 

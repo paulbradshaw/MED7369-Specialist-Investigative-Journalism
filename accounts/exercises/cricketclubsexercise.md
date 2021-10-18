@@ -16,6 +16,7 @@ Here are some ideas:
 * Going concern: what's been said about the impact of Covid?
 * Ownership: who's "ultimately" owned overseas? Are any in tax havens?
 * Networks of influence: "Who's who" in cricketing? Who are the big connectors with their fingers in all the pies?
+* A simple annual review of the finances, like [this one that is published every May](https://www.theguardian.com/football/2016/may/25/premier-league-finances-club-by-club-breakdown-david-conn)
 
 ## Design a spreadsheet to structure your information
 

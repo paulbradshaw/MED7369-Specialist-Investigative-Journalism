@@ -20,6 +20,8 @@ Company accounts can be a great source of stories, or a useful resource to provi
 * Money: tax, rising costs, profits, debt (jobs), pay (example: ["Centrica chief's pay rises by 44% as energy bills increase"](https://www.theguardian.com/business/2019/apr/08/centrica-boss-got-44-pay-rise-amid-job-cuts) - from [pages 91-92 of the 2018 accounts](https://www.centrica.com/sites/default/files/annual_report_2018.pdf)
 * Accountability/transparency: ["This is what Sutton Coldfield Town Council has spent its money on"](https://birminghameastside.com/this-is-what-sutton-coldfield-town-council-has-spent-its-money-on/)
 * Factchecking or providing factual context (see [this case study on an Bolton organisation involved in criticism of public funding](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/accounts/casestudybcomosques.md))
+* Money being spent on dividends to shareholders [instead of addressing a problem](https://www.theguardian.com/environment/2020/jul/01/england-privatised-water-firms-dividends-shareholders)
+* Increase in dividends indicating [more companies succeeding](https://www.theguardian.com/business/2021/apr/26/first-quarter-dividends-raised-restarted-or-held-at-half-of-firms)
 
 ## Key points
 

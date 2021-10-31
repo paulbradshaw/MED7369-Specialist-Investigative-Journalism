@@ -55,6 +55,8 @@ Who is it paid to? Check Related Party Note. Is it another company in the parent
 
 If dividends are being paid when company is making a loss, or if they are a high proportion of profit that is not a good sign.
 
+Dividends might also be newsworthy where money is being taken out of a company instead of being invested in tackling problems which it faces, especially where that company was formerly publicly owned and/or operates in the public sector (e.g. water companies, train operators etc.)
+
 ## Balance statement jargon
 
 * **Cost of sales** = cost of buying or making stuff

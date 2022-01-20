@@ -39,25 +39,17 @@ The week also looks at how you can use systems of accountability and measurement
 * Directed study 1: Project research and initial hypothesis
 * Directed study 2: Scoping document, data and human sources
 
-### 3: Telling stories with video
 
-By the end of this week you should be able to script and do two-ways about a specialist story or investigation for broadcast. You should also be able to identify the elements of a good pitch - and write one.
+### 3: Following the money: accounts
 
-* Workshop: Scripting and delivering two-ways
-* Workshop: Narrowing story ideas to pitches
-* Watch: [playlist of two-ways](https://www.youtube.com/watch?v=xm_XKZDTNng&list=PLD1sPR1niPYz9ctv1okMEKL-V9f5Spka8) and [BBC News at One](https://www.bbc.co.uk/programmes/b007mpl9) - look for examples of two-ways in recent bulletins and think about: is it done off the back of a package? What is the cue? What illustration is used (in studio, clips, graphics etc)? Where do they refer to notes?
-* Directed study: Continued work on feature
+Company accounts are an excellent source of news stories, and a key resource in many investigations and features. This week we explore techniques for getting stories from company accounts, and story ideas that can draw on accounts. By the end of the week you should be able to identify and report stories from company accounts.
 
-### 4: Producing in-depth features for TV
+* [Folder for this week](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/accounts)
+* Workshop: reporting sport, technology, fashion and music using accounts
+* Read: Bairoliya, Raj (2012) The Investigative Journalist's Guide to Company Accounts, CIJ
+* Directed study: Accounts research/interview planning and research
 
-Telling an in-depth story presents particular challenges in terms of selecting, organising and combining elements. This week is devoted to exploring those techniques with regard to your own stories. By the end of the week you should have a broad outline of your story and the elements needed to complete it, and tell it, for TV.
-
-* Workshop: [story development](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/storytelling.md)
-* Read: Atton & Hamilton (2008) Alternative Journalism
-* Directed study: Storyboarding/drafting of project narrative(s)
-* Read: Bradshaw, P (2015) [Scraping for Journalists](https://leanpub.com/scrapingforjournalists), Leanpub - free copy for students
-
-### 5: Coding for journalists
+### 4: Coding for journalists
 
 This week introduces you to basic coding techniques and applies those to a useful technique: scraping. By the end of this week you should be able to identify opportunities for using coding in your field, and explain basic coding concepts such as variables, loops, functions and libraries.
 
@@ -66,14 +58,26 @@ This week introduces you to basic coding techniques and applies those to a usefu
 * Read: Bradshaw, P (2015) [Scraping for Journalists](https://leanpub.com/scrapingforjournalists), Leanpub
 * Directed study: Identifying potential targets for scrapers; working on coding
 
-### 6: Following the money: accounts
 
-Company accounts are an excellent source of news stories, and a key resource in many investigations and features. This week we explore techniques for getting stories from company accounts, and story ideas that can draw on accounts. By the end of the week you should be able to identify and report stories from company accounts.
 
-* [Folder for this week](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/accounts)
-* Workshop: reporting sport, technology, fashion and music using accounts
-* Read: Bairoliya, Raj (2012) The Investigative Journalist's Guide to Company Accounts, CIJ
-* Directed study: Accounts research/interview planning and research
+### 5: Telling stories with video
+
+By the end of this week you should be able to script and do two-ways about a specialist story or investigation for broadcast. You should also be able to identify the elements of a good pitch - and write one.
+
+* Workshop: Scripting and delivering two-ways
+* Workshop: Narrowing story ideas to pitches
+* Watch: [playlist of two-ways](https://www.youtube.com/watch?v=xm_XKZDTNng&list=PLD1sPR1niPYz9ctv1okMEKL-V9f5Spka8) and [BBC News at One](https://www.bbc.co.uk/programmes/b007mpl9) - look for examples of two-ways in recent bulletins and think about: is it done off the back of a package? What is the cue? What illustration is used (in studio, clips, graphics etc)? Where do they refer to notes?
+* Directed study: Continued work on feature
+
+### 6: Producing in-depth features for TV
+
+Telling an in-depth story presents particular challenges in terms of selecting, organising and combining elements. This week is devoted to exploring those techniques with regard to your own stories. By the end of the week you should have a broad outline of your story and the elements needed to complete it, and tell it, for TV.
+
+* Workshop: [story development](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/storytelling.md)
+* Read: Atton & Hamilton (2008) Alternative Journalism
+* Directed study: Storyboarding/drafting of project narrative(s)
+* Read: Bradshaw, P (2015) [Scraping for Journalists](https://leanpub.com/scrapingforjournalists), Leanpub - free copy for students
+
 
 ### 7: Information problems
 

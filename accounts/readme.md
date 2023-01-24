@@ -2,6 +2,14 @@
 
 Company accounts can be a great source of stories, or a useful resource to provide extra context to a story that you are already working on. This folder contains material related to this part of the module.
 
+## Some threads and posts on company accounts
+
+* [Reverse-engineering an article about the director of a care home company](https://twitter.com/paulbradshaw/status/1617497489585868800)
+* [Here’s a story about a celebrity fashion charity which provides some useful tips and tricks for journalists using company accounts](https://onlinejournalismblog.com/2021/12/03/heres-a-story-about-a-celebrity-fashion-charity-which-provides-some-useful-tips-and-tricks-for-journalists-using-company-accounts/) - also written as a [thread](https://twitter.com/paulbradshaw/status/1464159177677459467)
+* [Here’s how one journalist used all sorts of company account techniques to tell a story about a social media platform for sex workers](https://onlinejournalismblog.com/2021/05/28/heres-how-one-journalist-used-all-sorts-of-company-account-techniques-to-tell-a-story-about-a-social-media-platform-for-sex-workers/) - also written as a [thread]((https://twitter.com/paulbradshaw/status/1397164350851502084)
+* [VIDEO PLAYLIST: Finding stories in company accounts](https://onlinejournalismblog.com/2022/03/21/video-playlist-finding-stories-in-company-accounts/)
+* [Here are 9 ways to find stories in company accounts (and only three of them involve numbers)](https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/)
+
 ## Potential stories from accounts
 
 * Company/director says something newsworthy

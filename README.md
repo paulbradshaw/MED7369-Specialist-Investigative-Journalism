@@ -23,7 +23,7 @@ In this week you will be introduced to current affairs reporting and encouraged 
 
 * Listen: [IRE Radio Podcast: Regulated by God](https://www.ire.org/blog/ire-radio/2016/06/13/ire-radio-podcast-regulated-god/)
 * Read: Turner, B. and Orange, R. (2013) Specialist Journalism. Routledge
-* Directed study: Watch, listen to and read examples of in-depth reporting, preparing to report your findings to the class.
+* Directed study: Using systems thinking to prepare a presentation on a chosen field
 
 ### 2: Mapping the territory: specialist sources and systems
 
@@ -36,8 +36,7 @@ The week also looks at how you can use systems of accountability and measurement
 * Workshop: Mapping your territory - and network analysis
 * Workshop: planning your investigation or feature - [see network analysis folder](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/networkanalysis)
 * Read: [Lee Hunter, Mark (2011) Story-based Inquiry](http://unesdoc.unesco.org/images/0019/001930/193078e.pdf)
-* Directed study 1: Project research and initial hypothesis
-* Directed study 2: Scoping document, data and human sources
+* Directed study: watch the [playlist of videos on company accounts](https://www.youtube.com/playlist?list=PL-ZV9BlgytWit47xdyY6TvhtcE1pT7Y8B)
 
 
 ### 3: Following the money: accounts
@@ -49,7 +48,15 @@ Company accounts are an excellent source of news stories, and a key resource in 
 * Read: Bairoliya, Raj (2012) The Investigative Journalist's Guide to Company Accounts, CIJ
 * Directed study: Accounts research/interview planning and research
 
-### 4: Coding for journalists
+### 4: Network analysis 
+
+'Follow the money' is just one of many forms of **network analysis**: mapping connections between entities (people, organisations, locations) in order to identify where to focus your reporting - as well as potential conflicts of interest. This week we explore techniques for recording, mapping and visualising those connections.
+
+* [Folder on network analysis](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/networkanalysis)
+* Workshop: mapping a corporate network
+* Directed study: preparing for coding
+
+### 5: Coding for journalists
 
 This week introduces you to basic coding techniques and applies those to a useful technique: scraping. By the end of this week you should be able to identify opportunities for using coding in your field, and explain basic coding concepts such as variables, loops, functions and libraries.
 
@@ -58,34 +65,17 @@ This week introduces you to basic coding techniques and applies those to a usefu
 * Read: Bradshaw, P (2015) [Scraping for Journalists](https://leanpub.com/scrapingforjournalists), Leanpub
 * Directed study: Identifying potential targets for scrapers; working on coding
 
-
-
-### 5: Telling stories with video
-
-By the end of this week you should be able to script and do two-ways about a specialist story or investigation for broadcast. You should also be able to identify the elements of a good pitch - and write one.
-
-* Workshop: Scripting and delivering two-ways
-* Workshop: Narrowing story ideas to pitches
-* Watch: [playlist of two-ways](https://www.youtube.com/watch?v=xm_XKZDTNng&list=PLD1sPR1niPYz9ctv1okMEKL-V9f5Spka8) and [BBC News at One](https://www.bbc.co.uk/programmes/b007mpl9) - look for examples of two-ways in recent bulletins and think about: is it done off the back of a package? What is the cue? What illustration is used (in studio, clips, graphics etc)? Where do they refer to notes?
-* Directed study: Continued work on feature
-
-### 6: Producing in-depth features for TV
-
-Telling an in-depth story presents particular challenges in terms of selecting, organising and combining elements. This week is devoted to exploring those techniques with regard to your own stories. By the end of the week you should have a broad outline of your story and the elements needed to complete it, and tell it, for TV.
-
-* Workshop: [story development](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/storytelling.md)
-* Read: Atton & Hamilton (2008) Alternative Journalism
-* Directed study: Storyboarding/drafting of project narrative(s)
-* Read: Bradshaw, P (2015) [Scraping for Journalists](https://leanpub.com/scrapingforjournalists), Leanpub - free copy for students
-
-
-### 7: Information problems
+### 6: Information problems
 
 This week we review the code produced after the previous coding class and look at more scraping techniques. 
 
 * Workshop: Python, scraping and APIs - [see Python folder](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/python)
 * Read: Shaw, Zed A. (2013) [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 * Directed study: Compiling/analysing data
+
+### 7: Production week
+
+*Use this week to review the techniques covered in previous weeks, and work on areas which you feel you need to improve, and/or which you feel are most relevant to your area of focus and professional objectives.*
 
 ### 8: Statistics for journalists - and cognitive bias
 
@@ -117,3 +107,8 @@ In this week we will focus on your projects, as you approach the deadline! Issue
 * Workshop: [Cleaning data with Open Refine](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/cleaning)
 * Read: John Pilger Tell Me No Lies (1999) Routledge
 * Directed study: Project research
+
+
+### 11: Project surgery 
+
+The final week continues to be project-driven, as we tackle the specific challenges that you face. We will also touch on treating text as data. 

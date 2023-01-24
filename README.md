@@ -56,7 +56,7 @@ Company accounts are an excellent source of news stories, and a key resource in 
 * Workshop: mapping a corporate network
 * Directed study: preparing for coding
 
-### 5: Coding for journalists
+### 5: Coding for journalists: APIs
 
 This week introduces you to basic coding techniques and applies those to a useful technique: scraping. By the end of this week you should be able to identify opportunities for using coding in your field, and explain basic coding concepts such as variables, loops, functions and libraries.
 
@@ -65,7 +65,7 @@ This week introduces you to basic coding techniques and applies those to a usefu
 * Read: Bradshaw, P (2015) [Scraping for Journalists](https://leanpub.com/scrapingforjournalists), Leanpub
 * Directed study: Identifying potential targets for scrapers; working on coding
 
-### 6: Information problems
+### 6: Coding for journalists: scraping
 
 This week we review the code produced after the previous coding class and look at more scraping techniques. 
 

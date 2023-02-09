@@ -6,6 +6,8 @@ The data visualisation tool Flourish [allows you to create a network graph](http
 
 You can create a network graph in Flourish by going to the ['New visualisation' page](https://app.flourish.studio/templates) and searching the page (use CTRL+F) for 'network'. The charts you are looking for are in a section called **Network graph** quite low down the page. 
 
+![](https://lh5.googleusercontent.com/Hi__ip9dMRHBcwgWGdNclEuobNdDGFHbqiaDkWib0ViGSkJUcU-Ej1-PtqxKVWdwAbNZjqCFG6TBGh38vCsdbzQ4o36X_gF5PgXUUGmwZfXXIt5fkr5Ph1m53aKrgRVOEP9Faa99M1FM830hfKGnsPg)
+
 There are three options - or 'starting points' - in that Network graph section:
 
 * Default

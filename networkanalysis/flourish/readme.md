@@ -16,3 +16,9 @@ You will need to make sure that your data is formatted in the same way. Specific
 The **Links** data should show the connections by having a column for the 'source' of each connection, and a column for the 'target'. You can also have a third column showing the 'value' of that connection: for example, if you are showing payments, the value could be the amount of money in each payment from a source to a target. If you were showing relationships in a sports team, the value could be the number of passes from a source to a target. The value can be used to determine the thickness of each connection in the network.
 
 The **Points** data should show the names of each entity mentioned in the Links data. The difference is that these names *only appear once* in this dataset, whereas in the Links data the same entity can appear multiple times, in different connections. You can also have a second column showing the 'group' that each entity belongs to (this can be used to colour code nodes in the diagram), and a third column showing a 'value' (this can be used to size the nodes). Further columns can be used for any information you want to have pop up when someone hovers over a node (for example a description) and a link to any image.
+
+*Tip: if you only have data for links, you can generate a points dataset by, first, creating a pivot table which shows each 'source' once. Then, second, creating a second pivot table to show each 'target' once. And then, third, combining the two lists (you may need to remove any duplicates which appear as both sources as targets). You can even use the pivot tables to count or sum values connected to each entity so that those totals can be used to size each node.*
+
+I've created a dataset which follows that pattern, which [you can see here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSznt7Jqd0R6FgCxSIpwa55e9LwxOOFX6XkwEU5UXLqoNDR808zw4U5Rp-sp2IIBwjL1WFDkc6s3SlO/pubhtml).
+
+We are going to use that data for this tutorial.

@@ -65,5 +65,40 @@ Still in the 'Points' tab, look at the settings on the right hand side, where it
 * `Group` is used to colour-code your nodes, if you want to. In our case, we want to colour each node based on whether it is a film or a character. That information is in column C, so change that box to say C. This solves our messy chart as before it was colouring ever node differently. (If you don't want any different colours, leave this box empty)
 * `Size` can be used to specify a column for sizing each node. Type B in this box, as we can use the total time for each character or movie as a way of doing this.
 * `Image` can be used to specify a column with URLs for images - we don't have one (but you could create one!)
-* `Info for popups` specifies any column(s) whose information you want to be able to access for popups. We'd like all of them, please! So change this to A-Ca
+* `Info for popups` specifies any column(s) whose information you want to be able to access for popups. We'd like all of them, please! So change this to A-C
+
+Switch to the 'Links' tab and just check it has the right settings on the right hand side too:
+
+* `Source point` should have the column name for one of the two entities in each connection in your data. If your relationship is directional (such as one organisation giving another money) then the source point is the 'active' element in that relationship (the giver, the person passing the ball, etc.) In this case it is 'appears in'.
+* `Target point` should have the other entity, the more passive one. In some cases you don't have any 'active' or 'passive' relationship in your network, and in that case it doesn't matter which is which here.
+* `Value of link` should have any column containing a number that you want to use to vary the thickness of the lines indicating a relationship. If you don't have that, or don't want to, leave it blank.
+
+The chart should now look a bit cleaner, but it still needs some further tweaking.
+
+## Tweak the chart settings
+
+Switch to the 'Preview' tab where you are looking at the chart, not the data.
+
+In the right hand column are a series of sections where you can customise different parts of the chart. 
+
+The first section on the right is 'Points'. This can be used to customise your colour scheme, and change the minimum and maximum radius of each node. 
+
+Change the maximum radius and see its effect on the network graph. Find a value that you're happy with.
+
+You can do the same for links in the 'Links' section. 
+
+Go to the 'Header' section to write a title for your chart - remember to write it like a headline. As network graphs are often exploratory, you'll probably want to write a call to action headline such as 'Explore the universe of Star Wars characters'
+
+In the subtitle box you can write more details about what data is being shown and how to 'read' the chart. 
+
+Explore the other sections to see what else you can change in the chart, and its effect. 
+
+## Publish when you're happy
+
+Once you're happy it's ready to go live, click the 'Export and publish' button in the upper right corner. 
+
+Once it's published the box will turn green and you'll see a link which you can click to see the live public version (and share), plus some embed code you can use on Birmingham Eastside. 
+
+[If you want to embed on Medium, Flourish has specific instructions](https://help.flourish.studio/article/15-share-or-embed-a-flourish-visualization#medium)
+
 

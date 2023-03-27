@@ -92,7 +92,20 @@ Statistical literacy is important in being able to report stories accurately. In
 * Directed study: Data analysis/interview planning and research
 
 
-### 9: Project surgery - longform and immersive storytelling
+### 9: Getting stories out of large amounts of text
+
+By the end of this week you should be able to identify different ways of treating 'text as data' and explain how regular expressions (regex) work can be used to locate and extract information from text.
+
+* Workshops: 
+ * [Using grep and regex in R](https://github.com/paulbradshaw/Rintro/tree/master/text/grepexpenses)
+* Task: Development of data journalism project
+* Reading - choose from:
+  * [The Bastards Book of Regular Expressions](https://leanpub.com/bastards-regexes)
+  * [Maseda (2021): Text as Data: Finding Stories in Text Collections](https://www.degruyter.com/document/doi/10.1515/9789048542079-018/html?lang=en)
+
+You can [find more tips on dealing with documents in another repo here](https://github.com/paulbradshaw/dealingwithdocuments)
+
+### 10: Project surgery - longform and immersive storytelling
 
 In this week we will focus on your projects, as you approach the deadline! Issues to consider include cleaning data, network analysis and narrative techniques in longform writing.
 
@@ -100,15 +113,10 @@ In this week we will focus on your projects, as you approach the deadline! Issue
 * Read: [The Hidden Scenario](https://tcij.org/handbooks/the-hidden-scenario/) by Luuk Sengers and Mark Lee Hunter
 * Directed study: Project research
 
-### 10: Project surgery - cleaning
+### 11: Project surgery - cleaning
 
 In this week we will focus on your projects, as you approach the deadline! Issues to consider include cleaning data, network analysis and narrative techniques in longform writing.
 
 * Workshop: [Cleaning data with Open Refine](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/cleaning)
 * Read: John Pilger Tell Me No Lies (1999) Routledge
 * Directed study: Project research
-
-
-### 11: Project surgery 
-
-The final week continues to be project-driven, as we tackle the specific challenges that you face. We will also touch on treating text as data. 

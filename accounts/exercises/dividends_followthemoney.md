@@ -26,7 +26,7 @@ Now we need to work out where that £90m went.
 
 Once again, dividends are paid to shareholders. And we can find out who owns most of the shares in a company by using Companies House's ability to see **Persons with significant control**.
 
-To find this, go to [the 'People' tab on the company's page](https://find-and-update.company-information.service.gov.uk/company/03235601/officers) on Companies House. By default you'll be shown the *Officers* list. But next to this tab is a *'Persons with significant control'* tab](https://find-and-update.company-information.service.gov.uk/company/03235601/persons-with-significant-control). Switch to that.
+To find this, go to [the 'People' tab on the company's page](https://find-and-update.company-information.service.gov.uk/company/03235601/officers) on Companies House. By default you'll be shown the *Officers* list. But next to this tab is a [*'Persons with significant control'* tab](https://find-and-update.company-information.service.gov.uk/company/03235601/persons-with-significant-control). Switch to that.
 
 This lists entities that own a lot of shares, and in this case it says "1 active person with significant control": Surescreen Holdings Limited.
 

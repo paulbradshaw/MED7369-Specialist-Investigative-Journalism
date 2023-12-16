@@ -43,11 +43,16 @@ A [summary of key points and be found here](https://github.com/paulbradshaw/MED7
 * [Companies House](https://beta.companieshouse.gov.uk/)
 * [Charity Commission](http://beta.charitycommission.gov.uk/)
 * [Open Corporates](https://opencorporates.com/)
+* [Mutuals Public Register](https://mutuals.fca.org.uk/) for registered societies
 * [OpenOwnership Register](https://register.openownership.org/)
 * The [Investigative Dashboard database of business registries](https://investigativedashboard.org/databases/topics/business) (and other databases)
 * [OpenGazettes](http://opengazettes.com/)
 * [Arachnys Compass](https://compass.arachnys.com)
 * [Offshore Leaks](https://offshoreleaks.icij.org/)
+
+## Accounts not published on Companies House
+
+Some organisations don't have to publish accounts on Companies House: the [Duchy of Lancaster](https://www.duchyoflancaster.co.uk/financial/financial-reporting/) and other royal operations don't; universities don't ([try the advanced search `annual reports site:ac.uk`](https://www.google.com/search?q=annual+reports+site%3Aac.uk)); registered societies (such as cricket clubs) register with the Financial Conduct Authority instead: search the [Mutuals Public Register](https://mutuals.fca.org.uk/)
 
 ## Accounts in data format
 

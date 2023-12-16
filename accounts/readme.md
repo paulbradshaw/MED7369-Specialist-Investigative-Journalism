@@ -32,6 +32,7 @@ Company accounts can be a great source of stories, or a useful resource to provi
 * Factchecking or providing factual context: see [this case study on an Bolton organisation involved in criticism of public funding](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/blob/master/accounts/casestudybcomosques.md), or [this story which checks a charity's claim to spend "92p in every pound" on working with children and young people](https://www.theguardian.com/society/2023/may/03/barnardos-clarifies-website-after-guardian-investigation-of-spending-claims)
 * Money being spent on dividends to shareholders [instead of addressing a problem](https://www.theguardian.com/environment/2020/jul/01/england-privatised-water-firms-dividends-shareholders)
 * Increase in dividends indicating [more companies succeeding](https://www.theguardian.com/business/2021/apr/26/first-quarter-dividends-raised-restarted-or-held-at-half-of-firms)
+* Money not going where it's supposed to, as in [this investigation into the Duchy of Lancaster](https://www.theguardian.com/uk-news/2023/nov/24/kings-estate-facing-questions-over-14m-in-bona-vacantia-not-donated-to-charity) which says its proceeds go to charities, but finds only 15% has in the past decade.
 
 ## Key points
 

@@ -48,9 +48,9 @@ Company accounts are an excellent source of news stories, and a key resource in 
 * Read: Bairoliya, Raj (2012) The Investigative Journalist's Guide to Company Accounts, CIJ
 * Directed study: Accounts research/interview planning and research
 
-### 4: Network analysis 
+### 4: Network analysis and OSINT
 
-'Follow the money' is just one of many forms of **network analysis**: mapping connections between entities (people, organisations, locations) in order to identify where to focus your reporting - as well as potential conflicts of interest. This week we explore techniques for recording, mapping and visualising those connections.
+'Follow the money' is just one of many forms of **network analysis**: mapping connections between entities (people, organisations, locations) in order to identify where to focus your reporting - as well as potential conflicts of interest. This week we explore techniques for recording, mapping and visualising those connections — and how network analysis forms part of the wider field of OSINT, or open source intelligence.
 
 * [Folder on network analysis](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/networkanalysis)
 * Workshop: mapping a corporate network

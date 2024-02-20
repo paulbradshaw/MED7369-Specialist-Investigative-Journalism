@@ -58,7 +58,7 @@ Company accounts are an excellent source of news stories, and a key resource in 
 
 ### 5: Coding for journalists: APIs
 
-This week introduces you to basic coding techniques and applies those to a useful technique: scraping. By the end of this week you should be able to identify opportunities for using coding in your field, and explain basic coding concepts such as variables, loops, functions and libraries.
+This week introduces you to basic coding techniques and applies those to a useful source of data: API. By the end of this week you should be able to identify opportunities for using coding in your field, and explain basic coding concepts such as variables, loops, functions and libraries.
 
 * [Folder for this week](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/python)
 * Workshop: Reporting crime, environment or food using APIs - [see Python folder](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/python)
@@ -67,7 +67,7 @@ This week introduces you to basic coding techniques and applies those to a usefu
 
 ### 6: Coding for journalists: scraping
 
-This week we review the code produced after the previous coding class and look at more scraping techniques. 
+This week we review the code produced after the previous coding class and look at scraping techniques. 
 
 * Workshop: Python, scraping and APIs - [see Python folder](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/python)
 * Read: Shaw, Zed A. (2013) [Learn Python the Hard Way](https://learnpythonthehardway.org/)

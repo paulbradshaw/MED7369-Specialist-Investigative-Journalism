@@ -70,7 +70,6 @@ This week introduces you to basic coding techniques and applies those to a usefu
 This week we review the code produced after the previous coding class and look at scraping techniques. 
 
 * Workshop: Python, scraping and APIs - [see Python folder](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism/tree/master/python)
-* Read: Shaw, Zed A. (2013) [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 * Directed study: Compiling/analysing data
 
 ### 7: Production week
